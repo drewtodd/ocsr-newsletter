@@ -2,6 +2,15 @@ body {
     font-family: Palatino, serif;
 }
 
+section {
+    width: 768px;
+    margin: 0 auto;
+}
+
+article {
+
+}
+
 p {
     font-size: 17.333333333333332px;
     line-height: 2em;
@@ -16,6 +25,17 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     border-top: #ccc 2px dotted;
     font-size: 26.666666666666668px; 
+}
+
+header {
+    margin-top: 20px;
+}
+
+header img {
+    width: 100%;
+    border-top: 2px solid #ccc;
+    border-bottom: 2px solid #ccc;
+    padding: 5px 0 5px 0;
 }
 
 h1.first {
@@ -41,5 +61,59 @@ img {
 
 figure.author-photo {
     width: 144px;
+    float: left;
+    margin-left: -72px;
 }
 
+figure.align-right {
+    float: right;
+    margin-right: 0;
+}
+
+figure.align-left {
+    float: left;
+    margin-left: 0;
+}
+
+figure.small {
+    width: 200px;
+}
+
+figure.medium {
+    width: 250px;
+}
+
+figure.large {
+    width: 300px;
+}
+
+figure.full-width {
+    width: 100%;
+}
+
+figcaption {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    margin-top: 5px;
+}
+
+blockquote {
+    margin: 0;
+    padding: 1.5em;
+    font-size: 1.5em;
+    font-style: italic;
+    line-height: 1.75em;
+    background: #f8f8f8;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+article.box {
+    border: 1px solid #ccc;
+    padding: 24px;
+}
+
+article h1 {
+    border: 0;
+    text-align: center;
+}
