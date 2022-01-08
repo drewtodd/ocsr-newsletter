@@ -1,19 +1,51 @@
 body {
     font-family: Palatino, serif;
+    font-size: 17px;
 }
 
-section {
+main {
     width: 768px;
     margin: 0 auto;
 }
 
-article {
-
+p {
+    font-size: 1em;
+    line-height: 2em;
+    text-align: justify;
 }
 
-p {
-    font-size: 17.333333333333332px;
-    line-height: 2em;
+header {
+    width: 100%;
+    margin-top: 20px;
+}
+
+header figure {
+    width: 100%;
+    border-top: 3px solid #eee;
+    border-bottom: 3px solid #eee;
+    background: #fcfcfc;
+    /* padding: -4em 0 4em 0; */
+    /* margin: 0 auto; */
+}
+
+header img {
+    width: 124%;
+    margin-left: -24%;
+ }
+
+header aside {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    color: #bbb;
+    padding: 2.5em 0;
+}
+
+header aside>.issue-label {
+    float: left;
+}
+
+header aside>.date-label {
+    float: right;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -24,45 +56,42 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
     border-top: #ccc 2px dotted;
-    font-size: 26.666666666666668px; 
+    font-size: 1.5em; 
 }
 
-header {
-    margin-top: 20px;
-}
-
-header img {
-    width: 100%;
-    border-top: 2px solid #ccc;
-    border-bottom: 2px solid #ccc;
-    padding: 5px 0 5px 0;
-}
-
-h1.first {
+h1:first-child {
     border: 0;
 }
 
 h2 {
-    font-size: 21.333333333333332px;
+    font-size: 1.25em;
     color: #666;
 }
 
 h3 {
-
+    font-size: 1em;
 }
 
 h4 {
-
+    font-size: 1em;
+    color: #666;
 }
 
 img {
     width: 100%;
 }
 
+figure {
+    margin: 0 1em;
+}
+
 figure.author-photo {
     width: 144px;
     float: left;
-    margin-left: -72px;
+    margin: .5em 1em .5em -72px;
+    box-shadow: none;
+    border: none;
+    padding: 0;
 }
 
 figure.align-right {
@@ -91,6 +120,25 @@ figure.full-width {
     width: 100%;
 }
 
+figure.shadow {
+        box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+figure.border, figure.frame {
+    border: 1px solid #bbb;
+    padding: 1em;
+}
+
+figure.rotate-clockwise {
+    transform: rotate(6deg);
+    margin-left: 2.5em;
+}
+
+figure.rotate-counter {
+    transform: rotate(-6deg);
+    margin-left: 2.5em;
+}
+
 figcaption {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: italic;
@@ -100,20 +148,43 @@ figcaption {
 blockquote {
     margin: 0;
     padding: 1.5em;
-    font-size: 1.5em;
+    font-size: 1.25em;
     font-style: italic;
     line-height: 1.75em;
     background: #f8f8f8;
     border-top: 1px solid #ccc;
     border-bottom: 1px solid #ccc;
+    text-align: justify;
 }
 
-article.box {
+aside.box {
     border: 1px solid #ccc;
-    padding: 24px;
+    padding: 1em;
+    background: #f8f8f8 url('../img/calendar-icon.png') no-repeat bottom 50% right 5%/10em;
+    color: #666;
 }
 
-article h1 {
+aside.box h1 {
     border: 0;
     text-align: center;
+}
+
+table.calendar {
+    margin: 2em;
+    width: 75%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+table.calendar td {
+    padding: 1em 0;
+}
+
+table.calendar td:first-child {
+    font-weight: bold;
+}
+
+footer {
+    float: right;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: .75em;
 }
