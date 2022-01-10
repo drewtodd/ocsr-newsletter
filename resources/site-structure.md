@@ -1,0 +1,57 @@
+# OC Scottish Rite News: Site Structure
+
+- archetypes
+- content
+  - assets
+    - css
+      - normalize.css
+      - global.css  <!-- instead of styles.css --/>
+      - advertisers.css
+      - calendar.css
+      - clc-masthead.css
+      - obituary.css
+      - ocsr-masthead.css
+      - officers.css
+      - website-ad.css
+    - img
+      - advertisers
+        - image1.png
+        - image2.png
+        - image3.png
+  - issues
+    - _index.md   <!-- required, even if empty, at the root of a section -->
+    - 2022-01-Orange-County-Scottish-Rite-News
+      - assets
+        - img
+          - image4.png
+          - image5.png
+        - data
+          - calendar.yaml   <!-- dynamically pull calendar data? -->
+          - obituary.yaml   <!-- dynamically pull obituary data? -->
+      - _index.md
+      - personal-representative.md    <!-- these are the articles -->
+      - venerable-master.md
+      - wise-master.md
+      - commander.md
+      - master-of-kadosh.md
+      - general-secretary.md
+      - senior-warden.md
+      - language-center.md
+      - masonic-education.md
+      - editor.md
+      - guest-article.md
+      - config.yaml   <!-- possibly have a config file for each issue? -->
+- data
+  - officers.yaml   <!-- dynamically pull officer data? -->
+- layouts
+  - shortcodes  <!-- the elements that are consistent from issue to issue -->
+      - advertisers.html    
+      - calendar.html
+      - clc-masthead.html
+      - obituary.html
+      - ocsr-masthead.html
+      - officers.html
+      - website-ad.html
+- resources   <!-- all the source files, references, originals, etc. -->
+- static
+- themes

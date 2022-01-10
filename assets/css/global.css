@@ -212,17 +212,17 @@ aside.calendar {
     background: #f8f8f8 url('../img/calendar-icon.png') no-repeat bottom 50% right 5%/10em;
 }
 
-table.calendar {
+aside.calendar table {
     margin: 2em;
     width: 75%;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-table.calendar td {
+aside.calendar table td {
     padding: 1em 0;
 }
 
-table.calendar td:first-child {
+aside.calendar table td:first-child {
     font-weight: bold;
 }
 
@@ -264,6 +264,41 @@ aside.clc-boilerplate p.big-link {
     font-weight: bold;
     font-stretch: condensed;
     font-size: 2em;
+}
+
+/* Tab leader styles */
+
+ul.leaders {
+    max-width: 40em;
+    padding: 0;
+    overflow-x: hidden;
+    list-style: none;
+}
+
+ul.leaders li {
+    padding: .5em 0;
+}
+
+ul.leaders li:before {
+    float: left;
+    width: 0;
+    white-space: nowrap;
+    content:
+". . . . . . . . . . . . . . . . . . . . "
+". . . . . . . . . . . . . . . . . . . . "
+". . . . . . . . . . . . . . . . . . . . "
+". . . . . . . . . . . . . . . . . . . . ";
+}
+
+ul.leaders span:first-child {
+    padding-right: 0.33em;
+    background: #f8f8f8;
+}
+
+ul.leaders span + span {
+    float: right;
+    padding-left: 0.33em;
+    background: #f8f8f8;
 }
 
 /* Officer's Table styles */
