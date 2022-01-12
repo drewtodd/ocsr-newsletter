@@ -3,14 +3,17 @@ primary-officers:
   - name: "Ill. James D. Cole, 33° "
     title: "Sovereign Grand Commander"
     email: ""
+    class: "sgc"
 
   - name: "Ill. Frank Loui, 33° "
     title: "Sovereign Grand Inspector General, Orient of California"
     email: ""
+    class: "sgig"
 
   - name: "Ill. Frankie Rosario, 33° "
     title: "Personal Representative of the SGIG, Orient of California"
     email: "frosario@ocscottishrite.org"
+    class: "pr"
 
 secondary-officers:
   - name: "Mark Pressey, 32° "
