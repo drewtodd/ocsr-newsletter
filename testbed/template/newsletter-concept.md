@@ -37,15 +37,15 @@ calendar-entries:
 
 {{% article "./personal-representative.md" %}}
 <!-- or do it this way, with front-matter -->
-{{% article $.Page.Params.articles[0] %}} 
+{{% article $.Params.articles[0] %}} 
 <!-- obvs not the correct syntax -->
 
 <!-- Pass the calendar-entries to the calendar shortcode -->
-{{% calendar $Page.Params.calendar-entries %}}
+{{% calendar $.Params.calendar-entries %}}
 
 {{% article "./venerable-master.md" %}}
 <!-- or do it this way, with front-matter -->
-{{% article $.Page.Params.articles[1] %}} 
+{{% article $.Params.articles[1] %}} 
 <!-- etc... -->
 
 {{% obituary %}}
