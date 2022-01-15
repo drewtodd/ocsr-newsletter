@@ -1,0 +1,22 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: My New Hugo Site
+theme: "hugo-starter"
+
+menu:
+  main:
+  - identifier: about
+    name: About
+    url: /about/
+    weight: 100
+
+  - identifier: contact
+    name: Contact
+    url: /contact/
+    weight: 110
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

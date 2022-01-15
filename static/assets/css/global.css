@@ -1,0 +1,334 @@
+body {
+    font-family: Palatino, serif;
+    font-size: 18px;
+}
+
+main {
+    width: 768px;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 1em;
+    line-height: 2em;
+}
+
+header {
+    width: 100%;
+    margin-top: 20px;
+}
+
+header figure {
+    width: 100%;
+    border-top: 3px solid #eee;
+    border-bottom: 3px solid #eee;
+    background: #fcfcfc;
+    /* padding: -4em 0 4em 0; */
+    /* margin: 0 auto; */
+}
+
+header img {
+    width: 124%;
+    margin-left: -24%;
+ }
+
+header aside {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    color: #bbb;
+    padding: 2.5em 0;
+}
+
+header aside>.issue-label {
+    float: left;
+}
+
+header aside>.date-label {
+    float: right;
+}
+
+footer {
+    float: right;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: .75em;
+}
+
+/* Heading styles */
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-stretch: condensed;
+}  
+
+h1 {
+    border-top: #ccc 2px dotted;
+    font-size: 1.5em;
+    margin-top: 2em;
+    padding-top: .5em;
+}
+
+h1.first {
+    border: 0;
+    margin-top: 1em;
+    padding-top: 0;
+}
+
+.box h1 {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+h2 {
+    font-size: 1.25em;
+    color: #666;
+}
+
+h3 {
+    font-size: 1em;
+}
+
+h4 {
+    font-size: 1em;
+    color: #666;
+}
+
+img {
+    width: 100%;
+}
+
+/* Link styles */
+
+a {
+    color: #004D7F;
+}
+
+a:visited {
+    color: #666;
+}
+
+/* Figure styles */
+
+figure {
+    margin: 0 1em;
+}
+
+figure.author-photo {
+    width: 144px;
+    float: left;
+    margin: .5em 1em .5em -72px;
+    box-shadow: none;
+    border: none;
+    padding: 0;
+}
+
+figure.align-right {
+    float: right;
+    margin-right: 0;
+}
+
+figure.align-left {
+    float: left;
+    margin-left: 0;
+}
+
+figure.small {
+    width: 200px;
+}
+
+figure.medium {
+    width: 250px;
+}
+
+figure.large {
+    width: 300px;
+}
+
+figure.full-width {
+    width: 100%;
+}
+
+figure.shadow {
+        box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+figure.border, figure.frame {
+    border: 1px solid #bbb;
+    padding: 1em;
+}
+
+figure.rotate-clockwise {
+    transform: rotate(6deg);
+    margin-left: 2.5em;
+}
+
+figure.rotate-counter {
+    transform: rotate(-6deg);
+    margin-left: 2.5em;
+}
+
+figcaption {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    margin-top: 5px;
+}
+
+blockquote {
+    margin: 0;
+    padding: 1.5em;
+    font-size: 1.25em;
+    font-style: italic;
+    line-height: 1.75em;
+    background: #f8f8f8;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+/* ASIDE STYLES */
+
+/* General Box styles */
+
+aside.box {
+    border: 1px solid #ccc;
+    padding: 1em;
+    background-color: #f8f8f8; 
+    color: #666;
+    margin: 1em 0;
+}
+
+aside.box h1 {
+    border: 0;
+    text-align: center;
+}
+
+aside.condensed {
+    line-height: 1em;
+    font-size: .9em;
+}
+
+/* Calendar Box styles */
+
+aside.calendar {
+    background: #f8f8f8 url('../img/calendar-icon.png') no-repeat bottom 50% right 5%/10em;
+}
+
+aside.calendar table {
+    margin: 2em;
+    width: 75%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+aside.calendar table td {
+    padding: 1em 0;
+}
+
+aside.calendar table td:first-child {
+    font-weight: bold;
+}
+
+/* CLC Boilerplate Styles */
+
+aside.clc-boilerplate {
+    text-align: left;
+}
+
+aside.clc-boilerplate h1 {
+    display: block;
+    width: 450px;
+    height: 115.71428571px;
+    background: url(../img/logos/occlc-logo-horizontal-lightbg.png) no-repeat left top/450px;
+}
+
+aside.clc-boilerplate h1 span {
+    visibility: hidden;
+}
+
+aside.clc-boilerplate p, aside.clc-boilerplate ul li {
+    font-size: .9em;
+}
+
+aside.clc-boilerplate p.slug {
+    font-style: italic;
+    font-size: .95em;
+}
+
+aside.clc-boilerplate h2 {
+    border-top: 2pt dotted #ccc;
+    padding-top: .5em;
+}
+
+aside.clc-boilerplate p.big-link {
+    margin: 0;
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-stretch: condensed;
+    font-size: 2em;
+}
+
+/* Tab leader styles */
+
+ul.leaders {
+    max-width: 40em;
+    padding: 0;
+    overflow-x: hidden;
+    list-style: none;
+}
+
+ul.leaders li {
+    padding: .5em 0;
+}
+
+ul.leaders li:before {
+    float: left;
+    width: 0;
+    white-space: nowrap;
+    content:
+". . . . . . . . . . . . . . . . . . . . "
+". . . . . . . . . . . . . . . . . . . . "
+". . . . . . . . . . . . . . . . . . . . "
+". . . . . . . . . . . . . . . . . . . . ";
+}
+
+ul.leaders span:first-child {
+    padding-right: 0.33em;
+    background: #f8f8f8;
+}
+
+ul.leaders span + span {
+    float: right;
+    padding-left: 0.33em;
+    background: #f8f8f8;
+}
+
+/* Officer's Table styles */
+
+aside.officers-table {
+
+}
+
+aside.officers-table table {
+    width: 100%;
+}
+
+aside.officers-table table td {
+    width: 33.333333%;
+    padding: .75em;
+    vertical-align: top;
+    font-size: .9em;
+}
+
+/* Officers Continued styles */
+
+aside.officers-continued ul {
+    padding: 0;
+    list-style: none;
+}
+
+aside.officers-continued ul li {
+    padding: .5em;
+}
+
+aside.officers-continued ul li:nth-child(odd) {
+    background: #eee; }
+}

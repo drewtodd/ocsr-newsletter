@@ -1,0 +1,17 @@
+{{with .Param "articles"}}
+    {{$index := $.Scratch.Get "index"}}
+    {{with site.GetPage (index . $index).path}}
+        <article>
+            {{$author := .Param "author"}}
+            {{with .Param "image"}}
+                <figure class="author-photo">
+                    <img src="/assets/img/hob-portraits/author/{{.}}" alt="{{$author}}">
+                </figure>
+            {{end}}
+            {{.Content | markdownify}}
+            <p class=signature>
+                <strong>{{.Param "author"}}</strong><br>{{.Param "title"}}
+            </p>
+        </article>
+    {{end}}
+{{end}}

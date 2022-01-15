@@ -1,0 +1,14 @@
+{{with .Param "calendar"}}
+    <aside class="box calendar">
+        <h1>OC Scottish Rite Upcoming Events</h1>
+
+        <table class="calendar">
+            {{range .}}
+                <tr>
+                    <td>{{.day}}<br>{{.date}}</td>
+                    <td>{{.event}}<br>{{.location}} {{.time}}{{with .notes}}{{.}}{{end}}</td>
+                </tr>
+            {{end}}
+        </table>
+    </aside>
+{{end}}
