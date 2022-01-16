@@ -16,9 +16,5 @@ We are so grateful for all the support that allows us to not only have the clini
 Happy new year! 
 
 **Dr. Leah Beekman & Honorable David Frias 32°**
- 
-## Please Donate!
 
-Please continue to support these efforts by donating to our charity.  Your donations go directly to help these children receive the Gift of Voice!  We are very thankful for all your support. To donate, visit:
-
-[https://oclanguagecenter.org/donate](https://oclanguagecenter.org/donate)
+{{% clc-donate %}}

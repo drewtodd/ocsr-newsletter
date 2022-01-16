@@ -107,6 +107,10 @@ a:visited {
     color: #666;
 }
 
+a:big-link {
+    background: #ccc;
+}
+
 p.signature {
     line-height: 1.5;
     width: 50%;
@@ -117,6 +121,10 @@ p.signature {
 
 figure {
     margin: .5em 1em;
+}
+
+article:first-of-type figure.author {
+    margin-top: 0;
 }
 
 figure.author {

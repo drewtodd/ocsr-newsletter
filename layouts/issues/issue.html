@@ -62,15 +62,17 @@
             <!-- Sixth article -->
             {{$.Scratch.Set "index" 5}}{{if ge (len .Params.articles) ($.Scratch.Get "index") }}{{partial "article.html" . }}{{end}}
                         
-            <!-- CLC masthead -->
+           <!-- CLC masthead -->
             {{ partial "clc-masthead.html" . }}
             
             <!-- Seventh article -->
             {{$.Scratch.Set "index" 6}}{{if ge (len .Params.articles) ($.Scratch.Get "index") }}{{partial "article.html" . }}{{end}}
             
             {{ partial "officers.html" . }}
+
+            {{ partial "advertisements.html" . }}
             <footer>
-                <p>&copy;2022 The Orange County Scottish Rite.</p>
+                <p>&copy;{{ dateFormat "2006" now }} The Orange County Scottish Rite.</p>
             </footer>
         </main>
         <script src="" async defer></script>
