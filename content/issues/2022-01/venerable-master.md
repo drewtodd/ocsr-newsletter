@@ -10,7 +10,7 @@ Greetings Brethren, I would like to take this moment to wish you a happy and pro
 
 It has been an Honor and privilege to serve our Orange County Valley Scottish Rite this year, as Venerable Master. This year did not start out like I imagined, with us still having to deal with the COVID restrictions. Which continued to limit us from gathering in person for most of the year. We did the best we could with the cards dealt us, until we were able to start our meeting in person later this year.
 
-Our monthly zoom call, helped to keep us connected, they were well attended and productive. We had a very special call in June with our Sovereign Grand Commander Ill. James Cole, 33°, along with Grand Master of Masons in California, Most Worshipful Brother Arthur H. Weiss, and our Sovereign Grand Inspector General, Southern Jurisdiction, Orient of California, Ill. Frank Loui, 33° 
+Our monthly zoom call, helped to keep us connected, they were well attended and productive. We had a very special call in June with our Sovereign Grand Commander Ill. James Cole, 33°, along with Grand Master of Masons in California, Most Worshipful Brother Arthur H. Weiss, and our Sovereign Grand Inspector General, Southern Jurisdiction, Orient of California, Ill. Frank Loui, 33° 
 
 We held a couple of See’s candy fundraiser for the benefit of the Valley where we raised $631.00.
 

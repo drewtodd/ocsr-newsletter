@@ -17,4 +17,4 @@ Happy new year!
 
 **Dr. Leah Beekman & Honorable David Frias 32°**
 
-{{% clc-donate %}}
+{{< clc-donate >}}
