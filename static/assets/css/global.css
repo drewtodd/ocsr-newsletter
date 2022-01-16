@@ -62,15 +62,15 @@ h1, h2, h3, h4, h5, h6 {
 }  
 
 h1 {
-    border-top: #ccc 2px dotted;
+    border-top: #ccc .125em dotted;
     font-size: 1.5em;
     margin-top: 2em;
-    padding-top: .5em;
+    padding-top: 1.25em;
 }
 
 h1.first {
     border: 0;
-    margin-top: 1em;
+    margin-top: 1.5em;
     padding-top: 0;
 }
 
@@ -107,27 +107,33 @@ a:visited {
     color: #666;
 }
 
+p.signature {
+    line-height: 1.5;
+    width: 50%;
+    padding-bottom: 1.5em;
+}
+
 /* Figure styles */
 
 figure {
-    margin: 0 1em;
+    margin: .5em 1em;
 }
 
-figure.author-photo {
+figure.author {
     width: 144px;
     float: left;
-    margin: .5em 1em .5em -72px;
+    margin: 2.5em 1em .5em -72px;
     box-shadow: none;
     border: none;
     padding: 0;
 }
 
-figure.align-right {
+figure.right {
     float: right;
     margin-right: 0;
 }
 
-figure.align-left {
+figure.left {
     float: left;
     margin-left: 0;
 }
@@ -145,7 +151,8 @@ figure.large {
 }
 
 figure.full-width {
-    width: 100%;
+    width: 90%;
+    margin: 0 auto;
 }
 
 figure.shadow {
@@ -167,10 +174,14 @@ figure.rotate-counter {
     margin-left: 2.5em;
 }
 
-figcaption {
+figcaption p {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: italic;
-    margin-top: 5px;
+    margin-top: 1em;
+    margin-bottom: .25em;
+    padding: 0;
+    line-height: 1.25;
+    text-align: center;
 }
 
 blockquote {
@@ -220,6 +231,7 @@ aside.calendar table {
 
 aside.calendar table td {
     padding: 1em 0;
+    vertical-align: top;
 }
 
 aside.calendar table td:first-child {
@@ -303,10 +315,6 @@ ul.leaders span + span {
 
 /* Officer's Table styles */
 
-aside.officers-table {
-
-}
-
 aside.officers-table table {
     width: 100%;
 }
@@ -330,5 +338,5 @@ aside.officers-continued ul li {
 }
 
 aside.officers-continued ul li:nth-child(odd) {
-    background: #eee; }
+    background: #eee;
 }

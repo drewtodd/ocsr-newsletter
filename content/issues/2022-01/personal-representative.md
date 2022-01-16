@@ -1,11 +1,10 @@
 ---
 image: frankie-rosario.png
 author: ll. Frankie Rosario, 33°
-title: Personal Representative of the Sovereign Grand Inspector General in California /
-    Orange County Scottish Rite Valley
+title: Personal Representative of the Sovereign Grand Inspector General in California Orange County Scottish Rite Valley
 ---
 
-# Personal Representative
+# Personal Representative {.first}
 
 Dear Brethren: On behalf of the Orange County Scottish Rite Valley, it is my pleasure to welcome you to a New Year, hoping that 2022 brings the promise for a return to a more normal program and along with that, the chance to partake on all the activities scheduled for this year.
 

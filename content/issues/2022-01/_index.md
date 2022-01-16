@@ -12,9 +12,9 @@ articles:
     - path: "personal-representative.md"
     - path: "venerable-master.md"
     - path: "wise-master.md"
-    - path: "commander.md"
-    - path: "master-of-kadosh.md"
+    - path: "director-of-ritual.md"
     - path: "senior-warden.md"
+    - path: "language-center.md"
     - path: "general-secretary.md"
 
 obituaries:

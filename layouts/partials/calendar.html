@@ -4,9 +4,10 @@
 
         <table class="calendar">
             {{range .}}
-                <tr>
-                    <td>{{.day}}<br>{{.date}}</td>
-                    <td>{{.event}}<br>{{.location}} {{.time}}{{with .notes}}{{.}}{{end}}</td>
+                <tr class="calendar-row">
+                    <td width="33%">{{.day}}<br>{{.date}}</td>
+                    <td width="50%">{{.event}}<br>{{.location}} {{.time}}{{with .notes}}{{.}}{{end}}</td>
+                    <td>&nbsp;</td>
                 </tr>
             {{end}}
         </table>

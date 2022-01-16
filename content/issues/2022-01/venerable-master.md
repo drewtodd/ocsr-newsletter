@@ -3,6 +3,9 @@ image: mike-selix.png
 author: Mike Selix, 32° KCCH  
 title: Venerable Master, Lodge of Perfection
 ---
+
+# Venerable Master
+
 Greetings Brethren, I would like to take this moment to wish you a happy and prosperous New Year’s. May GOD Bless you and your family with many cherished memories, during this New Year’s that may last for generations to come.
 
 It has been an Honor and privilege to serve our Orange County Valley Scottish Rite this year, as Venerable Master. This year did not start out like I imagined, with us still having to deal with the COVID restrictions. Which continued to limit us from gathering in person for most of the year. We did the best we could with the cards dealt us, until we were able to start our meeting in person later this year.

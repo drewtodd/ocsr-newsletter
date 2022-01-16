@@ -50,6 +50,9 @@
             <!-- Third article -->
             {{$.Scratch.Set "index" 2}}{{if ge (len .Params.articles) ($.Scratch.Get "index") }}{{partial "article.html" . }}{{end}}
             
+            <!-- Website promo -->
+            {{ partial "website-promo.html" . }}
+            
             <!-- Fourth article -->
             {{$.Scratch.Set "index" 3}}{{if ge (len .Params.articles) ($.Scratch.Get "index") }}{{partial "article.html" . }}{{end}}
             
@@ -58,10 +61,14 @@
             
             <!-- Sixth article -->
             {{$.Scratch.Set "index" 5}}{{if ge (len .Params.articles) ($.Scratch.Get "index") }}{{partial "article.html" . }}{{end}}
+                        
+            <!-- CLC masthead -->
+            {{ partial "clc-masthead.html" . }}
             
             <!-- Seventh article -->
             {{$.Scratch.Set "index" 6}}{{if ge (len .Params.articles) ($.Scratch.Get "index") }}{{partial "article.html" . }}{{end}}
             
+            {{ partial "officers.html" . }}
             <footer>
                 <p>&copy;2022 The Orange County Scottish Rite.</p>
             </footer>

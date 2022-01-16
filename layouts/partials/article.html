@@ -4,7 +4,7 @@
         <article>
             {{$author := .Param "author"}}
             {{with .Param "image"}}
-                <figure class="author-photo">
+                <figure class="author">
                     <img src="/assets/img/hob-portraits/author/{{.}}" alt="{{$author}}">
                 </figure>
             {{end}}
