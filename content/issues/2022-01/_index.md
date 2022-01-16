@@ -16,6 +16,8 @@ articles:
     - path: "senior-warden.md"
     - path: "language-center.md"
     - path: "general-secretary.md"
+    - path: "masonic-education.md"
+    - path: "editor.md"
 
 obituaries:
     - name: "Ill. Peter Henry Jantz, 33°"

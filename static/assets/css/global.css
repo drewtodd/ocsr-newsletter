@@ -13,6 +13,12 @@ p {
     line-height: 2em;
 }
 
+p.signature {
+    line-height: 1.5;
+    width: 50%;
+    padding-bottom: 1.5em;
+}
+
 header {
     width: 100%;
     margin-top: 20px;
@@ -111,10 +117,15 @@ a:big-link {
     background: #ccc;
 }
 
-p.signature {
-    line-height: 1.5;
-    width: 50%;
-    padding-bottom: 1.5em;
+p > strong > a {
+    display: block;
+    width: 100%;
+    padding: .5em .25em;
+    border-top: 2px dotted #ccc;
+    border-bottom: 2px dotted #ccc;
+    background-color: #f8f8f8;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1.25em;
 }
 
 /* Figure styles */
@@ -174,6 +185,8 @@ figure.border, figure.frame {
 figure.rotate-clockwise {
     transform: rotate(6deg);
     margin-left: 2.5em;
+    margin-bottom: .5em;
+    /* margin-right: -25%; */
 }
 
 figure.rotate-counter {
@@ -288,17 +301,6 @@ aside.clc-boilerplate p.big-link {
 
 aside.clc-donate {
     margin: 2em 0;
-}
-
-aside.clc-donate p strong {
-    display: block;
-    width: 100%;
-    padding: .5em .25em;
-    border-top: 2px dotted #ccc;
-    border-bottom: 2px dotted #ccc;
-    background-color: #f8f8f8;
-    font-family:'Courier New', Courier, monospace;
-    font-size: 1.25em;
 }
 
 /* Tab leader styles */

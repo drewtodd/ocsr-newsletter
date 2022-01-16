@@ -68,9 +68,15 @@
             <!-- Seventh article -->
             {{$.Scratch.Set "index" 6}}{{if ge (len .Params.articles) ($.Scratch.Get "index") }}{{partial "article.html" . }}{{end}}
             
+            <!-- Eighth article -->
+            {{$.Scratch.Set "index" 7}}{{if ge (len .Params.articles) ($.Scratch.Get "index") }}{{partial "article.html" . }}{{end}}
+            
+            <!-- Ninth article -->
+            {{$.Scratch.Set "index" 8}}{{if ge (len .Params.articles) ($.Scratch.Get "index") }}{{partial "article.html" . }}{{end}}
+            
             {{ partial "officers.html" . }}
 
-            {{ partial "advertisements.html" . }}
+            {{ partial "sponsors.html" . }}
             <footer>
                 <p>&copy;{{ dateFormat "2006" now }} The Orange County Scottish Rite.</p>
             </footer>
