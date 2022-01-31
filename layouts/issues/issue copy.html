@@ -1,0 +1,86 @@
+{{$title := .Title | default site.Title}}
+{{$volume := .Param "volume"}}
+{{$number := .Param "number"}}
+{{$issueDate := .Param "issueDate"}}
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>{{$title}}</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="/assets/css/normalize.css">
+        <link rel="stylesheet" href="/assets/css/global.css">
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <main>
+            <header>
+                <aside class="folio">
+                    <div class="issue-label">Volume {{$volume}}, Number {{$number}}</div>
+                    <div class="date-label">{{$issueDate}}</div>
+                </aside>
+                <figure class="nameplate">
+                    <img src="/assets/img/mast-head.png" alt="The Orange County Scottish Rite News, Orient of California, Southern Jurisdiction">
+                </figure>
+            </header>
+
+            <!-- First article -->
+            {{$.Scratch.Set "index" 0}}{{if ge (len .Params.articles) ($.Scratch.Get "index") }}{{partial "article.html" . }}{{end}}
+            
+            <!-- Calendar -->
+            {{ partial "calendar.html" . }}
+            
+            <!-- Second article -->
+            {{$.Scratch.Set "index" 1}}{{if ge (len .Params.articles) ($.Scratch.Get "index") }}{{partial "article.html" . }}{{end}}
+            
+            <!-- Obituary -->
+            {{ partial "obituary.html" . }}
+
+            <!-- Third article -->
+            {{$.Scratch.Set "index" 2}}{{if ge (len .Params.articles) ($.Scratch.Get "index") }}{{partial "article.html" . }}{{end}}
+            
+            <!-- Website promo -->
+            {{ partial "website-promo.html" . }}
+            
+            <!-- Fourth article -->
+            {{$.Scratch.Set "index" 3}}{{if ge (len .Params.articles) ($.Scratch.Get "index") }}{{partial "article.html" . }}{{end}}
+            
+            <!-- Fifth article -->
+            {{$.Scratch.Set "index" 4}}{{if ge (len .Params.articles) ($.Scratch.Get "index") }}{{partial "article.html" . }}{{end}}
+            
+            <!-- Sixth article -->
+            {{$.Scratch.Set "index" 5}}{{if ge (len .Params.articles) ($.Scratch.Get "index") }}{{partial "article.html" . }}{{end}}
+                        
+           <!-- CLC masthead -->
+            {{ partial "clc-masthead.html" . }}
+            
+            <!-- Seventh article -->
+            {{$.Scratch.Set "index" 6}}{{if ge (len .Params.articles) ($.Scratch.Get "index") }}{{partial "article.html" . }}{{end}}
+            
+            <!-- Eighth article -->
+            {{$.Scratch.Set "index" 7}}{{if ge (len .Params.articles) ($.Scratch.Get "index") }}{{partial "article.html" . }}{{end}}
+            
+            <!-- Ninth article -->
+            {{$.Scratch.Set "index" 8}}{{if ge (len .Params.articles) ($.Scratch.Get "index") }}{{partial "article.html" . }}{{end}}
+            
+            {{ partial "officers.html" . }}
+
+            {{ partial "sponsors.html" . }}
+            <footer>
+                <p>&copy;{{ dateFormat "2006" now }} The Orange County Scottish Rite.</p>
+            </footer>
+        </main>
+        <script src="" async defer></script>
+    </body>
+</html>

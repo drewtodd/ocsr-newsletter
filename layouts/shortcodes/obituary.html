@@ -1,0 +1,11 @@
+{{with $.Page.Param "obituaries"}}
+    <aside id="obituary" class="obituary box shadow">
+        <h1>The Celestial Lodge</h1>
+        <p>Please join our Valley in remembering the brothers we’ve lost this year. Though their presence will be missed, their legacies will not be forgotten.</p>
+        <ul class="leaders">
+            {{range .}}
+            <li><span>{{.name}}</span><span>{{.date}}</span></li>
+            {{end}}
+        </ul>
+    </aside>
+{{end}}
