@@ -1,7 +1,7 @@
 {{with .Get 0}}
 {{.}}
     {{$filename := string .}}
-    {{with site.GetPage ($filename)}}
+    {{with site.GetPage $filename}}
          <article>
             {{$author := .Param "author"}}
             {{with .Param "image"}}
