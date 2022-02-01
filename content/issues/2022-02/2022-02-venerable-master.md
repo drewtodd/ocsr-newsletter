@@ -14,7 +14,7 @@ This year we switched to a Zoom Officer Installation ceremony with a virtual **I
 
 I recently read this quote while looking for information about brotherly love. The author is unknown but I think the message is perfect. 
 
-“There are no strangers in Freemasonry, only friends you’ve yet to meet.”.  
+> There are no strangers in Freemasonry, only friends you’ve yet to meet.  
 
 This is the way I feel about coming to lodge. Sometimes our busy schedules might cause us to find excuses for not coming to lodge. Once I am there I really enjoying greeting all the brothers. Spending time with this great group of men makes the effort so worth while. I strongly encourage everyone to make the time this year to attend our lodge and enjoying a little time with your brothers. I look forward to sharing some brotherly love with you soon!
 
