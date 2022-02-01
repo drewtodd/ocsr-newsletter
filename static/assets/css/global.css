@@ -140,7 +140,7 @@ article:first-of-type figure.author {
 }
 
 figure.author {
-    width: 144px;
+    width: 18.75%;
     float: left;
     margin: 2.5em 1em .5em -72px;
     border: none;
@@ -158,19 +158,19 @@ figure.left {
 }
 
 figure.small {
-    width: 200px;
+    width: 25%;
 }
 
 figure.medium {
-    width: 250px;
+    width: 33%;
 }
 
 figure.large {
-    width: 300px;
+    width: 40%;
 }
 
 figure.full-width, figure.clear {
-    width: 90%;
+    width: 95%;
     margin: 0 auto;
 }
 
@@ -273,9 +273,9 @@ aside.clc-boilerplate {
 
 aside.clc-boilerplate h1 {
     display: block;
-    width: 450px;
+    width: 100%;
     height: 115.71428571px;
-    background: url(../img/logos/occlc-logo-horizontal-lightbg.png) no-repeat left top/450px;
+    background: url(../img/logos/occlc-logo-horizontal-lightbg.png) no-repeat left top/100%;
 }
 
 aside.clc-boilerplate h1 span {
@@ -376,24 +376,68 @@ aside.officers-continued ul li:nth-child(odd) {
 
 /* @todo put back max-device-width when done testing!!! */
  
-@media screen and (max-device-width: 768px){
+@media screen and (max-width: 840px){
     /* place here CSS targeted at iPads and smaller, including iPhones and small hand-held devices */
+    body {
+        font-size: 1em;
+    }
+    
+    main {
+        width: 90%;
+    }
 
+    header img {
+        width: 100%;
+        margin-left: -2em;
+    }
 
+    figure.author {
+        width: 30%;
+        margin: 0 0 -1em 0;
+        padding: 2.5em 1em 1em 0;
+    }
+
+    figure.full-width, figure.clear {
+        width: 90%;
+    }
+
+    aside#officers.officers-table {
+        width: 100%;
+    }        
+    
+    h1 {
+        border-top: none;
+        margin-top: 1em;
+        padding-top: 1.25em;
+    }
+    
+    h1.first {
+        margin-top: .5em;
+        padding-top: 1.25em;
+    }
+
+    p.signature {
+        width: 75%;
+    }
+
+    aside.calendar {
+        background: #f8f8f8 url('../img/calendar-icon.png') no-repeat bottom 50% right 5%/7em;
+    }
+    
+        
 }
 
 /* @todo put back max-device-width when done testing!!! */
 
-@media screen and (max-device-width: 568px) {
+@media screen and (max-width: 568px) {
     /* place here CSS targeted at iPhones and smaller screen sizes, not iPads */
 
-
 }
 
 
 /* @todo put back max-device-width when done testing!!! */
 
-@media screen and (min-device-width: 570px) and (max-width: 768px){
+@media screen and (min-device-width: 570px) and (max-device-width: 768px){
 
      /** iPad only, or other similar-sized pads. Not iPhones, not smaller hand-held devices. **/
 
