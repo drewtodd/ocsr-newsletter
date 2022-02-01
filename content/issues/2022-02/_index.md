@@ -64,6 +64,8 @@ calendar:
 
 {{< article 2022-02-clc.md >}}
 
+{{< clc-donate >}}
+
 {{< clc-masthead >}}
 
 {{< article 2022-02-masonic-education.md >}}
@@ -74,11 +76,11 @@ calendar:
 
 {{< article 2022-02-director-of-the-work.md >}}
 
-{{< article 2022-02-occlc.md >}}
-
 {{< article 2022-02-chaplain.md >}}
 
 {{< officers >}}
+
+{{< sponsors >}}
 
 
 

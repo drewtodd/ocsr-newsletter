@@ -128,6 +128,11 @@ p > strong > a {
     font-size: 1.25em;
 }
 
+hr {
+    border: 0;
+    border-top: #ccc .125em dotted;
+}
+
 /* Figure styles */
 
 figure {
@@ -275,7 +280,7 @@ aside.clc-boilerplate h1 {
     display: block;
     width: 100%;
     height: 115.71428571px;
-    background: url(../img/logos/occlc-logo-horizontal-lightbg.png) no-repeat left top/100%;
+    background: url(../img/logos/occlc-logo-horizontal-lightbg.png) no-repeat left top/60%;
 }
 
 aside.clc-boilerplate h1 span {
@@ -346,8 +351,8 @@ ul.leaders span + span {
 
 /* Officer's Table styles */
 
-aside.officers-table table {
-    width: 100%;
+aside#officers {
+    max-width: 100%;
 }
 
 aside.officers-table table td {
@@ -355,6 +360,10 @@ aside.officers-table table td {
     padding: .75em;
     vertical-align: top;
     font-size: .9em;
+}
+
+aside.officers-table table td img {
+    max-width: 100%;
 }
 
 /* Officers Continued styles */
@@ -372,11 +381,30 @@ aside.officers-continued ul li:nth-child(odd) {
     background: #eee;
 }
 
+/* Sponsors styles */
+
+aside.sponsors ul {
+    border: 1px solid #eee;
+    overflow: hidden;
+    padding-left: 0;
+}
+
+aside.sponsors li {
+    text-decoration: none;
+    display: inline;
+    float: left;
+    width: 50%; 
+}
+
+li#barth-financial {
+    background: url(../img/ads/space-for-rent.png) no-repeat left top/100%;
+}
+
 /* MEDIA QUERIES/RESPONSIVE/MOBILE STUFF */
 
 /* @todo put back max-device-width when done testing!!! */
  
-@media screen and (max-width: 840px){
+@media screen and (max-device-width: 768px){
     /* place here CSS targeted at iPads and smaller, including iPhones and small hand-held devices */
     body {
         font-size: 1em;
@@ -424,14 +452,17 @@ aside.officers-continued ul li:nth-child(odd) {
         background: #f8f8f8 url('../img/calendar-icon.png') no-repeat bottom 50% right 5%/7em;
     }
     
-        
+            
 }
 
 /* @todo put back max-device-width when done testing!!! */
 
-@media screen and (max-width: 568px) {
+@media screen and (max-device-width: 568px) {
     /* place here CSS targeted at iPhones and smaller screen sizes, not iPads */
-
+    aside.clc-boilerplate h1 {
+        height: 115.71428571px;
+        background: url(../img/logos/occlc-logo-horizontal-lightbg.png) no-repeat left top/100%;
+    }
 }
 
 
