@@ -9,7 +9,7 @@ title: Wise Master
 
 Greetings Brethren,
 
-Recently, my high school buddies and I started a podcast. We are all approaching 40 and thought, hmmm, x person knows football, y person knows litigation, z person knows technology and nth person, name your subject. We'll keep the topics light and the characters many, people will follow, maybe a few laughs. I don't know what we were thinking and don't worry, I won't pedal it on you in this venerable space.
+Recently, my high school buddies and I started a podcast. We are all approaching 40 and thought: "Hmmm, _x_ person knows football, _y_ person knows litigation, _z_ person knows technology and _nth_ person, name your subject." We'll keep the topics light and the characters many, people will follow, maybe a few laughs. I don't know what we were thinking and don't worry, I won't pedal it on you in this venerable space.
 
 {{< figure src="img/will-francis-ZDNyhmgkZlQ-unsplash.jpg" class="full-width large border shadow" attr="Photo credit: Will Francis" attrlink="https://unsplash.com/@willfrancis" >}}
 
