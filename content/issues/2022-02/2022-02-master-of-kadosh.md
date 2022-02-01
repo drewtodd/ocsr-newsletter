@@ -6,7 +6,9 @@ title: Master of Kadosh
 
 # Master of Kadosh
 
-Greetings brethren: For those who don't know me, my name is **Cristian De Dios**, member of **Anaheim Lodge 207**.
+Greetings brethren,
+
+For those who don't know me, my name is **Cristian De Dios**, member of **Anaheim Lodge 207**.
 
 I believe this months news letter is about brotherhood. Well, I just had aquick self-reflective moment where I envisioned myself growing up and playing soccer, basketball, baseball, and Varsity Football. Ive always loved being part of a team of kids or guys coming together for the purpose of helping each other win, get stronger, be more confident, using strategy to overcome obstacles, or just having a cool place to hang out and laugh at each other's oddness. Brotherhood means a lot to me because I've made many friends, acquaintances, and now new brothers that have helped me develop an understanding for team work, trust, and fidelity. If it wasn't for the way I grew up I don't know if I would've ever joined Freemasonry or had an Interest in it. 
 

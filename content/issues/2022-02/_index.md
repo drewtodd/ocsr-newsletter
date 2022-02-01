@@ -62,6 +62,8 @@ calendar:
 
 {{< article 2022-02-general-secretary.md >}}
 
+{{< article 2022-02-clc.md >}}
+
 {{< clc-masthead >}}
 
 {{< article 2022-02-masonic-education.md >}}

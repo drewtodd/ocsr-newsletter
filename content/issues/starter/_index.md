@@ -62,6 +62,8 @@ calendar:
 
 {{< article yyyy-mm-general-secretary.md >}}
 
+{{< article yyyy-mm-clc.md >}}
+
 {{< clc-masthead >}}
 
 {{< article yyyy-mm-masonic-education.md >}}

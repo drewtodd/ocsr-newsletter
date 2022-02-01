@@ -371,3 +371,30 @@ aside.officers-continued ul li {
 aside.officers-continued ul li:nth-child(odd) {
     background: #eee;
 }
+
+/* MEDIA QUERIES/RESPONSIVE/MOBILE STUFF */
+
+/* @todo put back max-device-width when done testing!!! */
+ 
+@media screen and (max-device-width: 768px){
+    /* place here CSS targeted at iPads and smaller, including iPhones and small hand-held devices */
+
+
+}
+
+/* @todo put back max-device-width when done testing!!! */
+
+@media screen and (max-device-width: 568px) {
+    /* place here CSS targeted at iPhones and smaller screen sizes, not iPads */
+
+
+}
+
+
+/* @todo put back max-device-width when done testing!!! */
+
+@media screen and (min-device-width: 570px) and (max-width: 768px){
+
+     /** iPad only, or other similar-sized pads. Not iPhones, not smaller hand-held devices. **/
+
+}

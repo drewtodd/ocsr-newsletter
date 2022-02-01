@@ -4,6 +4,7 @@ title: My New Hugo Site
 theme: "hugo-starter"
 enableEmoji: true
 
+
 menu:
   main:
   - identifier: about
