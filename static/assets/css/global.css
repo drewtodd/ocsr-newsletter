@@ -352,7 +352,28 @@ ul.leaders span + span {
 /* Officer's Table styles */
 
 aside#officers {
-    max-width: 100%;
+    width: 100%;
+    margin: 0 auto;
+}
+
+aside#officers ul {
+    overflow: hidden;
+    padding-left: 0;
+}
+
+aside#officers li {
+    text-decoration: none;
+    display: inline;
+    float: left;
+    width: 30.3%;
+    padding: .5em;
+    overflow: hidden;
+    line-height: 1.25em;
+}
+
+aside#officers li img {
+    display: block;
+    width: 100%;
 }
 
 aside.officers-table table td {
@@ -384,7 +405,6 @@ aside.officers-continued ul li:nth-child(odd) {
 /* Sponsors styles */
 
 aside.sponsors ul {
-    border: 1px solid #eee;
     overflow: hidden;
     padding-left: 0;
 }
@@ -485,5 +505,9 @@ aside.sponsors li img {
     figure.author {
         width: 15%;
     } 
+    
+    aside#officers li {
+        width: 28%;
+    }
     
 }
