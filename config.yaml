@@ -1,6 +1,6 @@
-baseURL: http://localhost/
+baseURL: http://news.ocscottishrite.org
 languageCode: en-us
-title: My New Hugo Site
+title: The Orange County Scottish Rite News
 theme: "hugo-starter"
 enableEmoji: true
 

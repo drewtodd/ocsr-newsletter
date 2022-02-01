@@ -393,18 +393,20 @@ aside.sponsors li {
     text-decoration: none;
     display: inline;
     float: left;
-    width: 50%; 
+    width: 45%;
+    padding: 1em;
 }
 
-li#barth-financial {
-    background: url(../img/ads/space-for-rent.png) no-repeat left top/100%;
+aside.sponsors li img {
+    display: block;
+    width: 100%;
 }
 
 /* MEDIA QUERIES/RESPONSIVE/MOBILE STUFF */
 
 /* @todo put back max-device-width when done testing!!! */
  
-@media screen and (max-device-width: 768px){
+@media screen and (max-device-width: 810px){
     /* place here CSS targeted at iPads and smaller, including iPhones and small hand-held devices */
     body {
         font-size: 1em;
@@ -452,7 +454,6 @@ li#barth-financial {
         background: #f8f8f8 url('../img/calendar-icon.png') no-repeat bottom 50% right 5%/7em;
     }
     
-            
 }
 
 /* @todo put back max-device-width when done testing!!! */
@@ -463,13 +464,26 @@ li#barth-financial {
         height: 115.71428571px;
         background: url(../img/logos/occlc-logo-horizontal-lightbg.png) no-repeat left top/100%;
     }
+    
+    aside.sponsors li {
+        text-decoration: none;
+        width: 100%;
+    }
+            
 }
 
 
 /* @todo put back max-device-width when done testing!!! */
 
-@media screen and (min-device-width: 570px) and (max-device-width: 768px){
+@media screen and (min-device-width: 570px) and (max-device-width: 810px){
 
      /** iPad only, or other similar-sized pads. Not iPhones, not smaller hand-held devices. **/
+    main {
+        width: 90%;
+    }
 
+    figure.author {
+        width: 15%;
+    } 
+    
 }
