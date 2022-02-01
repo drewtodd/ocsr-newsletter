@@ -8,19 +8,19 @@ title: Senior Warden
 
 ## Brotherly Love
 
-Happy February, brothers; the month of love, as it were. With Valentines Day sitting squarely in the middle of the year’s shortest month, it’s worth knowing that February 14th was chosen as St. Valentine’s Day — or the Feast of St. Valentine — not for any rosy associations, because that was the date that the Catholic priest Valentine was set to be executed by Emperor Claudius II.
+Happy February, brothers; the month of love, as it were. With Valentines Day sitting squarely in the middle of the year’s shortest month, it’s worth knowing that February 14th was chosen as St. Valentine’s Day — or the Feast of St. Valentine — not for any rosy associations, but because that was the date that the Catholic priest Valentine was set to be executed by Emperor Claudius II.
 
-His crime? Performing secret marriage ceremonies of young lovers. 
+His crime? Performing the secret marriage ceremonies of young lovers. 
 
-{{< figure src="./img/st-valentine.jpg" alt="St. Valentine" class="right medium border shadow" caption="Saint Valentine">}}
+{{< figure src="./img/st-valentine.jpg" alt="St. Valentine" class="right large border shadow" caption="Saint Valentine">}}
 
-Apparently, Claudius thought a married soldier — a family man — was a liability on the battlefield, and thus outlawed marriage of young men. When he discovered that Valentine was performing clandestine ceremonies of holy matrimony, he did not take it well. Valentine paid for his crimes with his head.
+Apparently, Claudius thought a married soldier — a family man — was a liability on the battlefield, and thus outlawed the marriage of young men. When he discovered that Valentine was performing clandestine ceremonies of holy matrimony, Claudius did not take it well. Valentine paid for his crimes with his head.
 
 At least that’s one version of the story.
 
 And that brings me to our theme for February: Brotherly love.  This is the stuff of the fraternity; the foundation upon which all other masonic ideals — temperance, fortitude, justice, truth, liberty, equality and fraternity — are built. And it’s worth reminding ourselves of the principles of brotherly love during these times when we see such divisiveness and mistrust in the world and our communities.
 
-As masons, we may not walk around displaying overt acts of brotherly love, but we should keep love in our hearts when dealing with a brother — with anyone, really. Remember that this person comes from the same stuff as yourself. They may have differences, but we all share the stuff of humanity. 
+As Masons, we may not walk around displaying overt acts of brotherly love, but we should keep love in our hearts when dealing with a brother — with anyone, really. Remember that this person comes from the same stuff as yourself. They may have differences, but we all share the stuff of humanity. 
 
 I encourage all of us to slow down; take a moment. Appreciate your brothers for their commitment to the craft and the bonds that we share as Masons. But also appreciate the differences we have. And remember that it’s okay — good, really — to have them.
 
