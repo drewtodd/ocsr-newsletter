@@ -132,6 +132,7 @@ p > strong > a {
 
 figure {
     margin: .5em 1em;
+    background: #fefefe;
 }
 
 article:first-of-type figure.author {
@@ -168,7 +169,7 @@ figure.large {
     width: 300px;
 }
 
-figure.full-width {
+figure.full-width, figure.clear {
     width: 90%;
     margin: 0 auto;
 }
@@ -249,13 +250,18 @@ aside.calendar table {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-aside.calendar table td {
-    padding: 1em 0;
+aside.calendar table tr td {
     vertical-align: top;
+    padding: 1em 0;
 }
 
 aside.calendar table td:first-child {
     font-weight: bold;
+}
+
+aside.calendar table tr.calendar-row td {
+    height: 100%;
+    vertical-align: top;
 }
 
 /* CLC Boilerplate Styles */

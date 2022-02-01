@@ -29,11 +29,10 @@ obituaries:
 
 # Calendar information
 calendar:
-    - date: Monday, February 3, 2022
+    - date: Monday, February 7, 2022
       event: Stated Meeting
-      location: Anaheim Demolay Center
+      location: Remote meeting via Zoom
       time: 6:30pm
-      notes: No meal following meeting
 
     - date: Monday, January 10, 2022
       event: Master Craftsman Study Group
@@ -48,11 +47,30 @@ calendar:
         Ceremony at 2:00pm followed by a meal
 ---
 
-{{< article test.md >}}
+{{< article 2022-02-venerable-master.md >}}
 
 {{< calendar >}}
 
-{{< article 2022-02-editor.md >}}
+{{< article 2022-02-wise-master.md >}}
+
+{{< article 2022-02-master-of-kadosh.md >}}
+
+{{< article 2022-02-commander.md >}}
+
+{{< article 2022-02-genera-secretary.md >}}
 
 {{< article 2022-02-masonic-education.md >}}
+
+{{< article 2022-02-editor.md >}}
+
+{{< article 2022-02-director-of-the-work.md >}}
+
+{{< article 2022-02-occlc.md >}}
+
+{{< article 2022-02-senior-warden.md >}}
+
+{{< article 2022-02-chaplain.md >}}
+
+
+
 
