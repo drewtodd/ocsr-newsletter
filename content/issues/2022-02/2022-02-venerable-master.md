@@ -4,7 +4,7 @@ author: Honorable David Frias 32º
 title: Venerable Master
 ---
 
-# Venerable Master
+# Venerable Master {.first}
 
 Hello my brothers and welcome to the new year and to the new line of officers for 2022. I and very honored to serve as the Venerable Master for this year and I am proud to be serving with all of the other officers.
 

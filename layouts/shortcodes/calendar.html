@@ -6,7 +6,7 @@
             {{range .}}
                 <tr class="calendar-row">
                     <td width="33%">{{.day}}<br>{{.date}}</td>
-                    <td width="50%">{{.event}}<br>{{.location}} {{.time}}{{with .notes}}{{.}}{{end}}</td>
+                    <td width="50%">{{.event}}<br>{{.location}} {{.time}}<br>{{with .notes}}{{.}}{{end}}</td>
                     <td>&nbsp;</td>
                 </tr>
             {{end}}

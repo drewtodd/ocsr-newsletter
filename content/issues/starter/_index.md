@@ -2,8 +2,8 @@
 title: The Orange County Scottish Rite News
 volume: 8
 number: 2
-issueDate: February 2022
-publishDate: February 1, 2022
+issueDate: 
+publishDate: 
 layout: issue
 # slug: the-orange-county-scottish-rite-news-january-2022
 
@@ -46,35 +46,35 @@ calendar:
       time: 6:30pm
 ---
 
-{{< article 2022-02-venerable-master.md >}}
+{{< article yyyy-mm-venerable-master.md >}}
 
 {{< calendar >}}
 
-{{< article 2022-02-wise-master.md >}}
+{{< article yyyy-mm-wise-master.md >}}
 
 {{< obituary >}}
 
-{{< article 2022-02-master-of-kadosh.md >}}
+{{< article yyyy-mm-master-of-kadosh.md >}}
 
-{{< article 2022-02-commander.md >}}
+{{< article yyyy-mm-commander.md >}}
 
-{{< article 2022-02-senior-warden.md >}}
+{{< article yyyy-mm-senior-warden.md >}}
 
-{{< article 2022-02-general-secretary.md >}}
+{{< article yyyy-mm-general-secretary.md >}}
 
 {{< clc-masthead >}}
 
-{{< article 2022-02-masonic-education.md >}}
+{{< article yyyy-mm-masonic-education.md >}}
 
-{{< article 2022-02-editor.md >}}
+{{< article yyyy-mm-editor.md >}}
 
 {{< website-promo >}}
 
-{{< article 2022-02-director-of-the-work.md >}}
+{{< article yyyy-mm-director-of-the-work.md >}}
 
-{{< article 2022-02-occlc.md >}}
+{{< article yyyy-mm-occlc.md >}}
 
-{{< article 2022-02-chaplain.md >}}
+{{< article yyyy-mm-chaplain.md >}}
 
 {{< officers >}}
 

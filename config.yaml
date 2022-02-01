@@ -2,6 +2,7 @@ baseURL: http://localhost/
 languageCode: en-us
 title: My New Hugo Site
 theme: "hugo-starter"
+enableEmoji: true
 
 menu:
   main:
