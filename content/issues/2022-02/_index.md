@@ -58,6 +58,8 @@ calendar:
 
 {{< article 2022-02-commander.md >}}
 
+{{< zoom >}}
+
 {{< article 2022-02-senior-warden.md >}}
 
 {{< article 2022-02-general-secretary.md >}}
@@ -81,6 +83,7 @@ calendar:
 {{< officers >}}
 
 {{< sponsors >}}
+
 
 
 

@@ -6,7 +6,7 @@ title: Venerable Master
 
 # Venerable Master {.first}
 
-Hello my brothers and welcome to the new year and to the new line of officers for 2022. I and very honored to serve as the Venerable Master for this year and I am proud to be serving with all of the other officers.
+Hello my brothers and welcome to the new year and to the new line of officers for 2022. I am very honored to serve as the Venerable Master for this year and I am proud to be serving with all of the other officers.
 
 This year we switched to a Zoom Officer Installation ceremony with a virtual **Illustrious Frank Loui 33º SGIG** as our Installation Officer. **Illustrious Art Salazar 33º** was virtually flawless as our  Master of Ceremony. **Honorable James Cervantes 32º KCCH** delivered an inspiring prayer to bless everyone in attendance. For me it was a memorable time and I wish to say Thank you to everyone involved.
 

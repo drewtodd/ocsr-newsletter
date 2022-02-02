@@ -19,6 +19,10 @@ menu:
 
 
 markup:
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 1
   goldmark:
     renderer:
       unsafe: true
