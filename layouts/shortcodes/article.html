@@ -8,6 +8,9 @@
                     <img src="/assets/img/hob-portraits/author/{{.}}" alt="{{$author}}">
                 </figure>
             {{end}}
+            {{with .Param "title"}}
+                <h1>{{.Param "title"}}</h1>
+            {{end}}
             {{.Content}}
             <p class=signature>
                 <strong>{{.Param "author"}}</strong><br>{{.Param "title"}}
