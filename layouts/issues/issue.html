@@ -18,6 +18,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="/assets/css/normalize.css">
         <link rel="stylesheet" href="/assets/css/global.css">
+        <link rel="stylesheet" href="/assets/css/menu.css">
     </head>
     <body>
         <!--[if lt IE 7]>
@@ -28,7 +29,7 @@
             <header>
                 <aside class="folio">
                     <div class="issue-label">Volume {{$volume}}, Number {{$number}}</div>
-                    <div class="date-label">{{$issueDate}}</div>
+                    <div class="date-label">{{$issueDate}} {{partial "menu.html"}}</div>
                 </aside>
                 <figure class="nameplate">
                     <img src="/assets/img/mast-head.png" alt="The Orange County Scottish Rite News, Orient of California, Southern Jurisdiction">

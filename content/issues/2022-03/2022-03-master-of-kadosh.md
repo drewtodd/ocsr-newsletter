@@ -13,7 +13,7 @@ Some famous words they both sang on this cool song. Pretty much asking what are 
 
 > “Loyalty! Loyalty! Loyalty! Tell me what you’re loyal too…” - Kendrick Lamar ft. Rihanna 
 
-{{% figure src="img/kendrick-rihanna.png" alt="An image of Kendrick Lamar and Rihanna from the music video Loyalty" class="clear border shadow" %}}
+{{% figure src="img/kendrick-rihanna.png" alt="An image of Kendrick Lamar and Rihanna from the music video Loyalty" class="right large pad-top border shadow" caption="Artists Kendrick Lamar and Rihanna" %}}
 
 In the 28th degree “Knight Commander of The Temple”, in our book A Bridge to Light (p260), it talks about how “King Arthur had assembled the most virtuous and gallant men for his army. “He created them Knights and devoted them to causes of right, the poor, and needy and honor.” But how his “idyllic world came crashing down when the frailty of the flesh prevailed— a knight fell in love with Arthur’s queen and Arthur’s step brother greedily and jealously pursued the throne.” Basically once the loyalty was gone between his knights and family there was no more respect, everyone was out for their own benefit. It also states that “knighthood came to an end as a result of human weaknesses— greed, political and religious corruption and, in general the loss of selfless attitude by knights…”
          

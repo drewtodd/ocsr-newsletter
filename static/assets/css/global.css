@@ -15,7 +15,7 @@ p {
 
 p.signature {
     line-height: 1.5;
-    width: 50%;
+    width: 65%;
     padding-bottom: .5em;
 }
 
@@ -74,7 +74,7 @@ h1 {
     padding-top: 1.25em;
 }
 
-h1.first {
+h1.first, body main article:first-of-type h1 {
     border: 0;
     margin-top: 1.5em;
     padding-top: 0;
@@ -153,7 +153,6 @@ button {
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  vertical-align: middle;
   white-space: nowrap;
 }
 
@@ -234,6 +233,10 @@ figure.full-width, figure.clear {
     margin: 0 auto;
 }
 
+figure.pad-top {
+    margin-top: 2em;
+}
+
 .shadow {
         box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -282,6 +285,7 @@ blockquote {
 
 aside.box {
     border: 1px solid #ccc;
+    border-radius: .25em;
     padding: 1em;
     background-color: #f8f8f8; 
     color: #666;

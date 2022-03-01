@@ -46,39 +46,39 @@ calendar:
       time: 6:30pm
 ---
 
-{{< article 2022-03-wise-master.md >}}
+{{< article "/issues/2022-03/2022-03-wise-master.md" >}}
 
 {{< calendar >}}
 
-{{< article 2022-03-master-of-kadosh.md >}}
+{{< article "/issues/2022-03/2022-03-master-of-kadosh.md" >}}
 
 {{< obituary >}}
 
-{{< article 2022-03-commander.md >}}
+{{< article "/issues/2022-03/2022-03-commander.md" >}}
 
 {{< zoom >}}
 
-{{< article 2022-03-senior-warden.md >}}
+{{< article "/issues/2022-03/2022-03-senior-warden.md" >}}
 
-{{< article 2022-03-general-secretary.md >}}
+{{< article "/issues/2022-03/2022-03-general-secretary.md" >}}
 
-{{< article 2022-03-venerable-master.md >}}
+{{< article "/issues/2022-03/2022-03-venerable-master.md" >}}
 
-{{< article 2022-03-clc.md >}}
+{{< article "/issues/2022-03/2022-03-clc.md" >}}
 
 {{< clc-donate >}}
 
 {{< clc-masthead >}}
 
-{{< article 2022-03-masonic-education.md >}}
+{{< article "/issues/2022-03/2022-03-masonic-education.md" >}}
 
-{{< article 2022-03-editor.md >}}
+{{< article "/issues/2022-03/2022-03-editor.md" >}}
 
 {{< website-promo >}}
 
-{{< article 2022-03-director-of-the-work.md >}}
+{{< article "/issues/2022-03/2022-03-director-of-the-work.md" >}}
 
-{{< article 2022-03-chaplain.md >}}
+{{< article "/issues/2022-03/2022-03-chaplain.md" >}}
 
 {{< officers >}}
 
