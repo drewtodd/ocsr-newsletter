@@ -1,10 +1,8 @@
 ---
 image: master-craftsman.png
 author: Andrew Todd, 32°
-title: Director of Masonic Education
+title: Masonic Education
 ---
-
-# Master Craftsman Program
 
 As a reminder, Master Craftsman Study sessions are now being held on the second Monday of the month, from 5-6pm. As in the past, these sessions will take place via Zoom.
 
