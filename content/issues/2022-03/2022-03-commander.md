@@ -28,4 +28,4 @@ No matter your skills, we have a volunteer role for you.  We need everything fro
  
 By the way, if you haven't joined the KSA yet, now would be an EXCELLENT time to do so - I can tell you from my past experience producing these shows in San Francisco that all of the ladies want to get their picture taken on the red carpet... especially with the guys in the kilts.
 
-Want to help?  Drop me a line at [mailto:todd@quantimark.com](todd@quantimark.com) and let me know where your talents lie - I'll put you in touch with the appropriate team chair.
+Want to help?  Drop me a line at [todd@quantimark.com](mailto:todd@quantimark.com) and let me know where your talents lie - I'll put you in touch with the appropriate team chair.
