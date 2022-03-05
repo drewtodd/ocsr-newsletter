@@ -12,6 +12,8 @@ Relief means that we should practice charity and to care about our fellow man.  
 
 Truth requires us to always hold ourselves to a high moral standard.  Truth and Loyalty certainly go hand in hand with each other.  
 
+{{% figure src="img/bracelet.png" alt="A silver Masonic bracelet" class="right large pad-top border shadow" %}}
+
 How do you show your loyalty to your lodge?  I don’t wear any jewelry currently, not even a wedding ring because my skin reacts poorly to the metal.  Many Brothers will get a ring after they become a Master Mason but so far I haven’t made the leap.  Illustrious Frankie Rosario has a beautiful masonic ring that he wears proudly to show his loyalty to our fraternity.  Maybe a bracelet is a better choice for me.  I read recently that a bracelet is a great way to show our loyalty!
 
-Fraternally,
+With love and respect,
