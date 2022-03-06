@@ -30,15 +30,15 @@ obituaries:
 # Calendar information
 calendar:
     - date: Monday, March 7, 2022
-      event: Catching up with the Orange County Valley
+      event: Stated Meeting
       location: Anaheim Demolay Center
       time: 6:30pm
+      notes: No meal following the meeting
 
     - date: Monday, April 4, 2022
       event: Stated Meeting
       location: Anaheim Demolay Center
       time: 6:30pm
-      notes: No meal following the meeting
 
     - date: Monday, May 2, 2022
       event: Stated Meeting
