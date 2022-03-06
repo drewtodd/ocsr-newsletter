@@ -58,8 +58,6 @@ calendar:
 
 {{< zoom >}}
 
-{{< article "/issues/2022-03/2022-03-senior-warden.md" >}}
-
 {{< article "/issues/2022-03/2022-03-general-secretary.md" >}}
 
 {{< article "/issues/2022-03/2022-03-venerable-master.md" >}}
