@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Oswald:wght@500&display=swap');
+
 body {
-    font-family: Palatino, serif;
+    font-family: Palatino, "EB Garamond", serif;
     font-size: 18px;
 }
 
@@ -8,7 +10,7 @@ main {
     margin: 0 auto;
 }
 
-p {
+p, li {
     font-size: 1em;
     line-height: 2em;
 }
@@ -39,7 +41,7 @@ header img {
  }
 
 header aside {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Oswald, Arial, sans-serif;
     font-size: 1em;
     color: #bbb;
     padding: 2.5em 0;
@@ -55,14 +57,14 @@ header aside>.date-label {
 
 footer {
     float: right;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Oswald, Arial, sans-serif;
     font-size: .75em;
 }
 
 /* Heading styles */
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Oswald, Arial, sans-serif;
     font-weight: bold;
     font-stretch: condensed;
 }  
@@ -139,7 +141,7 @@ button {
   color: #fff;
   cursor: pointer;
   display: block;
-  font-family: -apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  font-family: Helvetica,Oswald,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
   font-size: 1em;
   font-weight: 600;
   line-height: 20px;
@@ -259,7 +261,7 @@ figure.rotate-counter {
 }
 
 figcaption p {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Oswald, Arial, sans-serif;
     font-style: italic;
     margin-top: 1em;
     margin-bottom: .25em;
@@ -311,7 +313,7 @@ aside.calendar {
 aside.calendar table {
     margin: 2em;
     width: 75%;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Oswald, Arial, sans-serif;
 }
 
 aside.calendar table tr td {
@@ -363,7 +365,7 @@ aside.clc-boilerplate h2 {
 aside.clc-boilerplate p.big-link {
     margin: 0;
     text-align: center;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Oswald, Arial, sans-serif;
     font-weight: bold;
     font-stretch: condensed;
     font-size: 2em;
@@ -413,19 +415,23 @@ ul.leaders span + span {
 aside#officers {
     width: 100%;
     margin: 0 auto;
+    text-align: center;
+    font-size: .9em;
 }
 
 aside#officers ul {
     overflow: hidden;
     padding-left: 0;
+    margin: 0;
 }
 
 aside#officers li {
     text-decoration: none;
     display: inline;
     float: left;
-    width: 30.3%;
+    width: 31.2%;
     padding: .5em;
+    margin: 0;
     overflow: hidden;
     line-height: 1.25em;
 }
@@ -433,6 +439,8 @@ aside#officers li {
 aside#officers li img {
     display: block;
     width: 100%;
+    padding: 0;
+    margin: 0;
 }
 
 aside.officers-table table td {
