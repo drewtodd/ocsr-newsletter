@@ -21,11 +21,17 @@ articles:
 
 # Obituaries
 obituaries:
+    - name: "Barnett Sugarman 32°"
+      date: "September 5, 2020"
+
     - name: "Ill. Peter Henry Jantz, 33°"
       date: "February 15, 2021"
 
     - name: "Jack Gordon Beers, 32°"
       date: "February 25, 2021"
+    
+    - name: "Manuel Rex Alarcon 32°"
+      date: "February 7, 2022"
 
 # Calendar information
 calendar:
