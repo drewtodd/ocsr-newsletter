@@ -59,13 +59,13 @@ calendar:
 
 {{< obituary >}}
 
-{{< article "/issues/2022-04/senior-warden.md" >}}
+{{< article "/issues/2022-04/venerable-master.md" >}}
 
 {{< zoom >}}
 
-{{< article "/issues/2022-04/general-secretary.md" >}}
+{{< article "/issues/2022-04/senior-warden.md" >}}
 
-{{< article "/issues/2022-04/venerable-master.md" >}}
+{{< article "/issues/2022-04/general-secretary.md" >}}
 
 {{< article "/issues/2022-04/wise-master.md" >}}
 
