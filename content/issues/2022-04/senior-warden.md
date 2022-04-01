@@ -6,7 +6,7 @@ title: Senior Warden
 
 Renewal. That's the theme of this month's newsletter, and it comes at a fitting moment. We as a society are beginning to emerge from our pandemic-imposed cocoons and life is getting back to normal. But it's not as easy as it seems for everyone.
 
-There has been much coverage of our collective trepidation in returning to life after Covid. **NPR** asks "[Do We Even Know How To Socialize Anymore?][1]]" **Psychology Today** has tips for "[Reconnecting After COVID-19][2]." Across the pond, the **BBC** queries, "[Is going 'back to normal' even possible?][3]"
+There has been much coverage of our collective trepidation in returning to life after Covid. **NPR** asks "[Do We Even Know How To Socialize Anymore?][1]" **Psychology Today** has tips for "[Reconnecting After COVID-19][2]." Across the pond, the **BBC** queries, "[Is going 'back to normal' even possible?][3]"
 
 There's a lot of stress and uncertainty out there.
 
