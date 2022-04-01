@@ -10,7 +10,9 @@ It's April - the darkness of winter is behind us and spring brings with it the p
 
  We are in a period of renewal - we are returning to our Lodge and, in so doing, we are positioned to renew our activities to support our Brethren and support our charity - **The RiteCare Childhood Language Center of Orange County**.
 
-I'm not going to use this space to ask you all for money to support RiteCare (although by all means free to donate - [oclanguagecenter.org/donate](https://oclanguagecenter.org/donate)).  What I am going to ask for is volunteers for the upcoming fashion show fundraiser.  
+I'm not going to use this space to ask you all for money to support RiteCare (although by all means free to donate - [oclanguagecenter.org/donate](https://oclanguagecenter.org/donate)).  
+
+<!-- What I am going to ask for is volunteers for the upcoming fashion show fundraiser.  
 
 {{% figure src="img/volunteer.jpg" alt="A graphic depicting raised hands and the word Volunteer" class="clear medium pad-top border shadow"%}}
  
@@ -27,7 +29,7 @@ Ready to sign up as a volunteer?  Scan the QR code below or go to [https://bit.l
 
 {{% figure src="img/fashion-show-qr-code.png" alt="QR code for fashion show sign-up" class="full medium pad-top border shadow"%}}
  
-Or... just let me know at [650-863-4767](tel:650-863-4767) or [todd@quantimark.com](mailto:todd@quantimark.com)
+Or... just let me know at [650-863-4767](tel:650-863-4767) or [todd@quantimark.com](mailto:todd@quantimark.com) -->
 
 With your help, we can make this a great event and raise thousands of dollars to support the clinic!
 
