@@ -8,6 +8,8 @@ title: Venerable Master
 
 As the dark scary cloud of COVID is being lifted we can now see the renewal of the beautiful smiling face. Before Covid most of us would never consider wearing a mask into the bank. Only robbers would cover their faces to protect their identity. During Covid banks and many businesses required you to wear a mask, reversing decades of requirements that you must show your face. Didn’t it feel weird to put on a mask to enter the bank?
  
+{{% figure src="img/bank-robber.png" alt="A video capture of a man entering a bank wearing a surgical mask" caption="Is this guy a bank robber or a customer?" class="clear large border shadow"%}}
+
 Is this guy a bank robber or a customer? Turns out he was a robber, but the bank employees could not hear his demands for money through the mask. He left the bank empty handed.
 
 For the last couple of months, I’ve been meeting at a new bank to open an account. The whole time all the employees were wearing a mask. I would also wear a mask out of respect for their health and safety, it seemed like the right thing to do. I visited the bank last week and to my surprise most of the masks were gone. It suddenly occurred to me that I could see these nice faces of people who I’ve been speaking to for months. It is great to see people smiling again.
@@ -18,3 +20,4 @@ In other words, we need to see each other’s faces, hopefully with a smile. We 
 
 We should all embrace the renewal of the face by attending lodge and showing off your great smile! I hope to see you at the lodge soon.
 
+Fraternally,
