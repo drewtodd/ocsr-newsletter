@@ -10,7 +10,7 @@ It's April - the darkness of winter is behind us and spring brings with it the p
 
  We are in a period of renewal - we are returning to our Lodge and, in so doing, we are positioned to renew our activities to support our Brethren and support our charity - **The RiteCare Childhood Language Center of Orange County**.
 
-I'm not going to use this space to ask you all for money to support RiteCare (although by all means free to donate - [oclanguagecenter.org/donate](https://oclanguagecenter.org/donate)).  
+By all means donate to this worthy cause - [oclanguagecenter.org/donate](https://oclanguagecenter.org/donate)).  
 
 <!-- What I am going to ask for is volunteers for the upcoming fashion show fundraiser.  
 
