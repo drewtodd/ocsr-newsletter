@@ -29,10 +29,10 @@ Ready to sign up as a volunteer?  Scan the QR code below or go to [https://bit.l
 
 {{% figure src="img/fashion-show-qr-code.png" alt="QR code for fashion show sign-up" class="full medium pad-top border shadow"%}}
  
-Or... just let me know at [650-863-4767](tel:650-863-4767) or [todd@quantimark.com](mailto:todd@quantimark.com) -->
+Or... just let me know at [650-863-4767](tel:650-863-4767) or [todd@quantimark.com](mailto:todd@quantimark.com)
 
 With your help, we can make this a great event and raise thousands of dollars to support the clinic!
-
+ -->
 
 
 
