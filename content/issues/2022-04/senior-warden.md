@@ -12,7 +12,7 @@ There's a lot of stress and uncertainty out there.
 
 This applies to many of the things we loved and looked forward to, pre-pandemic: Going out to restaurants, bars, and gyms; sitting on crowded public transportation; boarding an airplane. Who wants to go on a cruise right about now (although, trust me, I'm sure you can get a deal)?
 
-{{% figure src="img/cruise-liner.jpg" alt="A gigantic ocean cruise liner" caption="There's never been a better time to get a deal on one of these floating cities" class="clear large pad-top border shadow"%}}
+{{% figure src="img/cruise-liner.jpg" alt="A gigantic ocean cruise liner" caption="There's never been a better time to get a deal..." class="clear large pad-top border shadow"%}}
 
 Still, this is it. We've crossed an invisible threshold. New virus variants be damned, society is determined to push forward and wrench "normal" from the hands of extraordinary times. It's time to get back to living life, even if it means accepting a certain amount of risk.
 
