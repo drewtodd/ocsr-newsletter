@@ -1,6 +1,6 @@
 ---
 image: ../../logos/occlc-logo-vertical-lightbg.png
-author: Francine Wenhardt CCC-SLP & Honorable David Frias 32º KCCH
+author: Dr Leah Beekman Ph.D.,CCC-SLP & Honorable David Frias 32º KCCH
 title: Ritecare Childhood Language Center of Orange County
 ---
 
@@ -14,7 +14,7 @@ Our student clinicians continue to gain valuable experience evaluating new clien
 
 The parents of two-year-old Daniel recently learned new strategies to support his understanding and use of language during his evaluation with us. They returned for therapy the following week and exclaimed, "We have been practicing the strategies you shared with us and they work!"  Daniel, who was quite cautious when we first met him, arrived at his therapy session with a big smile and was excited to "play" with his parents and his clinician, Allie.
 
-{{% figure src="img/clc-1.jpg" alt="A happy CLC patient" class="right medium border shadow"%}}
+{{% figure src="img/clc-1.jpg" alt="A happy patient" class="right medium border shadow"%}}
 
 Other children are enjoying articulation and language lessons that involve spring concepts such as baby farm animals, gardening, and creepy, crawly bugs.  Some of our young clients are learning to identify baby animals and imitate animal sounds.  Other kids are having fun collecting 'chicken eggs' that they open to find new words that allow them to practice their speech sounds.  Many of the children whom we serve are enjoying books that allow them to learn about spring concepts while they learn new speech and language skills.  It's so much fun to walk through the center and hear the sounds of happy children and clinicians!   
 
