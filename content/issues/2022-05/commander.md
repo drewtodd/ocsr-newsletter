@@ -1,5 +1,5 @@
 ---
-image: square-and-compass.png
+image: todd-herschberg.jpg
 author: Todd Herschberg 32º
 title: Commander of Kadosh
 ---
