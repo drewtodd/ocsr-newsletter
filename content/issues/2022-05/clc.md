@@ -12,10 +12,16 @@ We are happy to report that attendance has been a lot more consistent this sprin
 
 The wrapping up of another semester at Chapman University is always exciting for everyone involved! We were able to see some amazing growth not just in the children at the clinic but in the Chapman student clinicians as well. The student clinicians always learn so much during their time providing therapy services, and it is always fun to see them improve their skills. The experience at the CLC is unique, and the student clinicians consistently say they grow exponentially during their time here. We are all so grateful for this opportunity to help so many children and families.
 
-<!-- Queenie (left) and Coco (right) forged a real bond, and Queenie went from almost no intelligible speech to clear imitation and even spontaneous words!
+{{% figure src="img/image1.jpeg" alt="" class="clear large border shadow"%}}
+
+Queenie (left) and Coco (right) forged a real bond, and Queenie went from almost no intelligible speech to clear imitation and even spontaneous words!
+
+{{% figure src="img/image2.jpeg" alt="" class="clear large border shadow"%}}
 
 Ezra (left) and Brittany (right) on graduation day! From mom: “This has been an amazing experience. He’s made so much growth and had so much fun. He even practiced in the grocery store yesterday!”
 
-Loyalty came to us because the parents couldn’t find services elsewhere. She has made progress, and now her parents have gotten insurance approval for private services. We will miss her! -->
+{{% figure src="img/image3.jpeg" alt="" class="clear large border shadow"%}}
+
+Loyalty came to us because the parents couldn’t find services elsewhere. She has made progress, and now her parents have gotten insurance approval for private services. We will miss her!
 
 Sincerely,

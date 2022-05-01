@@ -63,7 +63,7 @@ calendar:
 
 {{< zoom >}}
 
-{{< article "/issues/2022-04/senior-warden.md" >}}
+{{< article "/issues/2022-05/senior-warden.md" >}}
 
 {{< article "/issues/2022-05/wise-master.md" >}}
 
