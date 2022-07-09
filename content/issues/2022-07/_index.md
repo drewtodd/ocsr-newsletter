@@ -73,8 +73,6 @@ calendar:
 
 {{< article "/issues/2022-07/master-of-kadosh.md" >}}
 
-{{< article "/issues/2022-07/director-of-the-work.md" >}}
-
 {{< article "/issues/2022-07/clc.md" >}}
 
 {{< clc-donate >}}
