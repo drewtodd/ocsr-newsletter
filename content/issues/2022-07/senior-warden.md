@@ -5,7 +5,7 @@ title: Senior Warden
 ---
 ## Independence
 
-It’s extremely common to hear Americans refer to the holiday celebrating our nation’s independence as “July Fourth” or “The Fourth of July.” It’s a day we set aside each year to grill hamburgers, watch fireworks, get out the ThunderShirt® for poor Fido, and maybe drink a few too many Sam Adams Boston Lagers®[*](#Disclaimer).
+It is extremely common to hear Americans refer to the holiday celebrating our nation’s independence as “July Fourth” or “The Fourth of July.” It’s a day we set aside each year to grill hamburgers, watch fireworks, get out the ThunderShirt® for poor Fido, and maybe drink a few too many Sam Adams Boston Lagers®[*](#Disclaimer).
 
 It is with this in mind that I like to be the old guy in the room and remind people that the holiday we celebrate on the fourth day of July each year is **Independence Day**. It is a celebration of the Founding Fathers’ signing of the Declaration of Independence and our nation’s jump into sovereignty  with both feet.
 
@@ -14,7 +14,7 @@ It is with this in mind that I like to be the old guy in the room and remind peo
 
 It was on July 4, 1776 that 56 American statesmen wrapped up two months of wrangling to officially tell Britain it could pound royal sand by signing the document and declaring the sovereignty of all thirteen colonies — now states. In Philadelphia, Pennsylvania Thomas Jefferson took to quill and pen to put down on paper what they had finally agreed upon during the Second Continental Congress.
 
-Subsequently, 200 copies were printed and it was read in public for the general population’s enlightenment. It is suspected that the Brits first heard of the Declaration in a tavern — the ironically named Rose and Crown — in Staten Island, New York. And the rest, they say, is history.
+Subsequently, 200 copies were printed and it was read in public for the general population’s enlightenment. It is suspected that the Brits first heard of the Declaration in a tavern — the ironically named Rose and Crown — in Staten Island, New York. And the rest, as they say, is history.
 
 I include for your entertainment and education — and as a reminder from your eighth grade civics class — the full text of the document (original spellings and all):
 
