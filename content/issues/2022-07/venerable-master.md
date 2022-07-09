@@ -22,3 +22,7 @@ At the beginning of the year I shared my New Year resolutions for 2022.  Since w
 - **Learn something New** - It would be great to learn a second language.  I’ve dabbled with learning Spanish almost my whole life.  I need to get beyond the basic survival skills of ordering a beer and asking for the bathroom. Update: Still need to learn something new.
 - **Learn to play golf** - This one is for my wife.  She retired this year and is eagerly learning to play golf.  This would be something fun for us to do together. *Update:  I’m back on the golf course with my wife and we enjoy playing golf on the weekend about twice a month at our favorite local course.  We are having more fun together and enjoying being outside away from the screen.*
 - **Eat more Leafy vegetables** -  Another one my wife would like but basically less bacon and more green veggies. *Update - I’m killing this one.  I have worked on my diet to include more vegetables and have at least one salad just about every day.*
+
+I look forward to seeing you all at our July Stated Meeting on Monday the 11th.
+
+Fraternally,
