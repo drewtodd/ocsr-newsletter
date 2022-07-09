@@ -5,7 +5,7 @@ title: Senior Warden
 ---
 ## Independence
 
-It is extremely common to hear Americans refer to the holiday celebrating our nation’s independence as “July Fourth” or “The Fourth of July.” It’s a day we set aside each year to grill hamburgers, watch fireworks, get out the ThunderShirt® for poor Fido, and maybe drink a few too many Sam Adams Boston Lagers®[*](#Disclaimer).
+It is extremely common to hear Americans refer to the holiday celebrating our nation’s independence as “July Fourth” or “The Fourth of July.” It’s a day we set aside each year to grill hamburgers, watch fireworks, get out the ThunderShirt® for poor Fido, and maybe drink a few too many Sam Adams Boston Lagers®.
 
 It is with this in mind that I like to be the old guy in the room and remind people that the holiday we celebrate on the fourth day of July each year is **Independence Day**. It is a celebration of the Founding Fathers’ signing of the Declaration of Independence and our nation’s jump into sovereignty  with both feet.
 
@@ -172,7 +172,4 @@ He has dissolved Representative Houses repeatedly, for opposing with manly firmn
 > Matthew Thornton  
 
 Happy Independence Day brothers. Be well.
-
-#### Disclaimer
-_* No advertisers were harmed in the writing of this article._
 
