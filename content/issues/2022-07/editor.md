@@ -14,4 +14,20 @@ You don’t have to be a head of body or a member of the line to contribute to t
 
 I’ll work with you on getting your article together for the next issue.
 
+## Quick Tip - Printing this Newsletter
+
+Did you know that you can save this newsletter as a PDF, creating a version suitable for saving, emailing, or printing on 8.5 x 11" paper? It's a pretty straightforward process:
+
+1. Open the Newsletter in your PC browser and Print it (File > Print or Ctrl-P)
+2. Select "Save as PDF" instead of a printer
+3. Set the scale to 65%
+4. Uncheck "Headers and footers"
+5. Click "Save"
+
+{{% figure src="/assets/img/print.png" class="clear full" %}}
+
+That's it!
+
+I'll continute to work on refining this process, but this should at least get you what you need for now.
+
 Fraternally, 
