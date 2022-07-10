@@ -4,9 +4,9 @@ author: Ill. Frankie Rosario, 33º
 title: Personal Representative of the SGIG, Orient of California 
 ---
 
-Dear Brothers: On Wednesday June 22nd, 2022, our Brother Illustrious Grand Cross, **Mr. Ambassador Don Tapia** attended a reception on his honor at Supreme in Washington DC, hosted by our Grand Commander, Ill. Cole, our SGIG Ill. Frank Loui, Ill. Mathew Szramoski (Director of Development) and others.
+Dear Brothers: On Wednesday June 22nd, 2022, our Brother Illustrious Grand Cross, **Mr. Ambassador Don Tapia** attended a reception on his honor at Supreme in Washington DC, hosted by our **Grand Commander, Ill. Cole**, our **SGIG Ill. Frank Loui**, **Ill. Mathew Szramoski (Director of Development)** and others.
 
-This very special event was hosted by Ill. Grand Commander Cole, to recognize Illustrious Grand Cross, Mr. Ambassador Don Tapia’s one million dollars contribution to the House of the Temple Historic Preservation Foundation and the Pillars of Charity. The reception included the unveiling of a hand painted portrait, and a beautiful piece recognizing his involvement with the Pillars of Charity.  
+This very special event was hosted by Ill. Grand Commander Cole, to recognize Illustrious Grand Cross, Mr. Ambassador Don Tapia’s **one million dollar contribution** to the House of the Temple Historic Preservation Foundation and the Pillars of Charity. The reception included the unveiling of a hand painted portrait, and a beautiful piece recognizing his involvement with the Pillars of Charity.  
 
 The portrait will be forever displayed at Supreme in Washington DC in the Main Portrait Gallery, among other Pillars of Charity contributors. As many of you know, our Brother Illustrious Grand Cross, Mr. Ambassador Don Tapia was one of our founding members of our Santa Ana Scottish Rite, now the Orange Country Scottish Rite. 
 

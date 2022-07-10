@@ -72,7 +72,7 @@ dinner:
 
 {{< zoom >}}
 
-{{{< article "/issues/2022-07/venerable-master.md" >}}
+{{< article "/issues/2022-07/venerable-master.md" >}}
 
 {{< dinner >}}
 
