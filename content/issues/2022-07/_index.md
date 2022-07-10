@@ -51,19 +51,30 @@ calendar:
       location: Anaheim Demolay Center
       time: 8:00am-3:00pm
       notes: Please RSVP no later than Monday, August 22 (atodd@ocscottishrite.org)
+
+dinner:
+    - meal: a chicken dinner with all the fixins
+    - cost: $14
+    - name: James McCallion
+    - email: jmcallion@ocscottishrite.org
+    - phone: tbd
 ---
 
 {{< article "/issues/2022-07/director-of-education.md" >}}
 
 {{< calendar >}}
 
-{{< article "/issues/2022-07/commander.md" >}}
+{{< article "/issues/2022-07/pr.md" >}}
 
 {{< obituary >}}
 
-{{< article "/issues/2022-07/venerable-master.md" >}}
+{{< article "/issues/2022-07/commander.md" >}}
 
 {{< zoom >}}
+
+{{{< article "/issues/2022-07/venerable-master.md" >}}
+
+{{< dinner >}}
 
 {{< article "/issues/2022-07/senior-warden.md" >}}
 
