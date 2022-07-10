@@ -8,7 +8,7 @@ Dear Brothers: On Wednesday June 22nd, 2022, our Brother Illustrious Grand Cross
 
 This very special event was hosted by Ill. Grand Commander Cole, to recognize Illustrious Grand Cross, Mr. Ambassador Don Tapia’s **one million dollar contribution** to the House of the Temple Historic Preservation Foundation and the Pillars of Charity. The reception included the unveiling of a hand painted portrait, and a beautiful piece recognizing his involvement with the Pillars of Charity.  
 
-The portrait will be forever displayed at Supreme in Washington DC in the Main Portrait Gallery, among other Pillars of Charity contributors. As many of you know, our Brother Illustrious Grand Cross, Mr. Ambassador Don Tapia was one of our founding members of our Santa Ana Scottish Rite, now the Orange Country Scottish Rite. 
+The portrait will be forever displayed at Supreme in Washington DC in the Main Portrait Gallery, among other Pillars of Charity contributors. As many of you know, our Brother Illustrious Grand Cross, Mr. Ambassador Don Tapia was one of the founding members of our Santa Ana Scottish Rite, now the Orange Country Scottish Rite. 
 
 {{% figure src="img/tapia.png" alt="" class="clear large border shadow"%}}
 
@@ -24,7 +24,7 @@ Throughout his life, Ill. GC Tapia has donated over $6 million to various charit
 
 Ill. GC Tapia supported the Saint Leo’s University Board of Trustees as a member and later as Chairman. He was recognized in 2014 by the Caring Institute for his charitable efforts. An organization dedicated to promoting the extraordinary and lasting efforts of individuals benefitting society. In 2015, The Midwest Regional Leadership Conference was renamed the Donald R. Tapia Regional Leadership Conference in recognition of his contributions. In 2017, Mr. Tapia received the Pope Francis Charity and Leadership Award. 
 
-As the Ambassador to Jamaica, among many responsibilities, Ill. GC Tapia addresses natural disasters due to extreme weather events including hurricanes, storms, flooding, and earthquakes that lead to losses in capital stock and investments. Working with The United States Agency for International Development (USAID), he strengthens a system by developing, financing, and executing sustainable climate adoption approaches in the region.
+As the Ambassador to Jamaica, among many responsibilities, Ill. GC Tapia addressed natural disasters due to extreme weather events including hurricanes, storms, flooding, and earthquakes that lead to losses in capital stock and investments. Working with The United States Agency for International Development (USAID), he strengthens a system by developing, financing, and executing sustainable climate adoption approaches in the region.
 
 In 2020, the Past Grand Master of Michigan Mark Manning chose Ill. GC Don Tapia to receive the first ever “Pillar of the Community Award.” This award is presented to a Michigan Mason in good standing with a history of public service and lifelong commitment to civic responsibility. Ill. GC Don has exhibited selfless commitment to his community with tireless action that includes serving on community boards and holding public office. He exemplifies in thought, word and deed the fundamental principles and virtues of Freemasonry.
 
