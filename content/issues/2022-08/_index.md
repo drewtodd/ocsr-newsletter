@@ -71,7 +71,7 @@ dinner:
 
 {{< dinner >}}
 
-<!-- {{< article "/issues/2022-08/senior-warden.md" >}} -->
+{{< article "/issues/2022-08/senior-warden.md" >}}
 
 {{< article "/issues/2022-08/wise-master.md" >}}
 
