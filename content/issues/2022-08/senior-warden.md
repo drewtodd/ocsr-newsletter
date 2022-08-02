@@ -21,7 +21,7 @@ I get it, I get it. It’s literally in the name: *Frater* is BROTHER in Latin! 
 
 My point is just, if we are a social group (not unlike the fraternities you find on college campuses), then this is fine. We’re a bunch of guys who want to get together a few times a month and hang out — away from the mothers, sisters, wives, and girlfriends. No harm there. Just some good old male bonding, but with minutes and voting and bills.
 
-But, if the Scottish Rite is about pushing a human being towards enlightenment and truer understand of the universe, humanity, and ourselves, why only offer such knowledge to men?
+But, if the Scottish Rite is about pushing a human being towards enlightenment and a truer understand of the universe, humanity, and ourselves, why only offer such knowledge to men?
 
 Society has changed dramatically since Albert Pike first set out the tenants of The Ancient and Accepted Scottish Rite of Freemasonry. Women’s roles have changed. My question to you is, should Freemasonry change along with it?
 
