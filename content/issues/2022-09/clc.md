@@ -1,0 +1,17 @@
+---
+image: ../../logos/occlc-logo-vertical-lightbg.png
+author: Honorable David Frias 32º KCCH
+title: Ritecare Childhood Language Center of Orange County
+---
+
+Welcome back to the RiteCare Childhood Language Center of Orange County where we believe in the Freedom of Speech!  After all, we have helped thousands of children improve their speech and language skills so they can enjoy the freedom of sharing their thoughts and ideas with their friends and families.
+
+As a Scottish Rite Mason we have strong beliefs in helping people and supporting charitable causes.  The RiteCare Childhood Language Center was started in 2001 by members of our Valley.  Since that time Orange County Scottish Rite Masons have actively participated in the management and funding of the Language Center.  Currently I have the privilege of acting as Chairman of the Board for our charity which is an honor that I truly appreciate.  On the Board of Directors I’m joined by three other members of our Valley, Brother Andrew Todd 32°, Brother Todd Herschberg 32°, and Brother Luis Carrion 32°.  Plus there are a few other Mason’s, also  from our Valley, who are very involved in helping to ensure the success of the Language Center including, Illustrious Frankie Rosario 33°, Illustrious Art Salazar 33°, Illustrious Ralph Shelton 33°, Honorable Ted Segerstrom 32° KCCH, and Illustrious Donald Tapia 33°.  It is very easy to say , this is our charity.
+
+The RiteCare Childhood Language Center of Orange County is a very special place because we are committed and focused on helping children find the gift of voice.  We provide a family-focused environment where their children could learn to improve communication skills and build self-confidence. The Language Center provides free diagnostic and therapeutic services to children from 2 to 16 years of age who exhibit a wide range of speech, language and learning challenges.  If you can imagine a day without the ability to speak, you can imagine the need we serve. Some children need to overcome particular challenges, others simply need to learn the mechanics of speech. At the Center, we assess their needs and develop a plan for success. Nothing is more uplifting than seeing a child communicate with their family for the first time, or more satisfying than knowing the happiness that comes from a child’s first “Hi, Dad” or “I love you, Mom.”
+
+Our Language Center is a community outreach program of the California Scottish Rite Foundation and is made possible through our strong partnership with Chapman University’s Crean College of Health and Behavioral Sciences.  Chapman University provides the expertise that allows us to help children and families with the best speech and language therapy possible. 
+
+Every member of our Valley donates a portion of their yearly dues to the Language Center.  Every member of the Board of Directors donates $500 to join our President’s Club.  I’m hoping that you will want to do more by making an additional donation.  Any amount will help us achieve our fundraising goals this year.  Your donation will help many children exercise their Freedom of Speech by giving them the Gift of Voice.  Please visit www.oclanguagecenter.org and click on the Donate button!
+
+Thank you.
