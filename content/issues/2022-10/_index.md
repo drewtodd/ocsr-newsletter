@@ -1,9 +1,9 @@
 ---
 title: The Orange County Scottish Rite News
 volume: 8
-number: 8
-issueDate: August 2022
-publishDate: August 1, 2022
+number: 10
+issueDate: October 2022
+publishDate: October 1, 2022
 layout: issue
 # slug: the-orange-county-scottish-rite-news-february-2022
 
