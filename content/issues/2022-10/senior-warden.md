@@ -15,9 +15,9 @@ So many learned people have advised on the subject. Mark Twain said, "I do not f
 
 Death is part of the process. What lies therein we cannot see, but how bad must it be if all who are born are destined for it? 
 
-> “Stop whatever you’re doing for a moment and ask yourself: Am I afraid of death because I won’t be able to do this anymore?” —Marcus Aurelius
-
 Our fascination and obsession with avoiding death is both comical and unfortunate. We spend billions of dollars and hours searching for the keys to unending life, trying to cheat death. To what end?
+
+> “Stop whatever you’re doing for a moment and ask yourself: Am I afraid of death because I won’t be able to do this anymore?” —Marcus Aurelius
 
 Death is part of the process. It is necessary. Embrace it.
 

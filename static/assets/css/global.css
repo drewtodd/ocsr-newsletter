@@ -263,6 +263,7 @@ figure.rotate-counter {
 figcaption p {
     font-family: "Helvetica Neue", Helvetica, Oswald, Arial, sans-serif;
     font-style: italic;
+    font-size: .8em;
     margin-top: 1em;
     margin-bottom: .25em;
     padding: 0;
