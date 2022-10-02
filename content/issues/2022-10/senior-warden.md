@@ -9,7 +9,7 @@ Greetings, brothers. Welcome to the dark month of October; where the air turns c
 
 It may seem negative to dwell on death in a monthly newsletter, but we're Masons! It's what we do! One of the things, anyway.
 
-{{% figure src="img/Memento-mori.png" alt="A Memento Mori coin in brass" class="right medium border shadow" %}}
+{{% figure src="img/Memento-mori.png" alt="A Memento Mori coin in brass" class="right medium border shadow" class="Memento Mori: Remember that you will die" %}}
 
 So many learned people have advised on the subject. Mark Twain said, "I do not fear death. I had been dead for billions and billions of years before I was born and had not suffured the slightest inconvenience from it." Ernest Hemmingway wrote that "all stories, if continued far enough, end in death."
 
