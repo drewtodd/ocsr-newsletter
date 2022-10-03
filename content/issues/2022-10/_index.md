@@ -60,15 +60,15 @@ dinner:
 
 {{< calendar >}}
 
-{{< article "/issues/2022-10/commander.md" >}}
-
-{{< obituary >}}
+<!-- {{< article "/issues/2022-10/commander.md" >}} -->
 
 {{< article "/issues/2022-10/venerable-master.md" >}}
 
-{{< website-promo >}}
+{{< obituary >}}
 
 {{< article "/issues/2022-10/assistant-pr.md" >}}
+
+{{< website-promo >}}
 
 {{< article "/issues/2022-10/general-secretary.md" >}}
 
