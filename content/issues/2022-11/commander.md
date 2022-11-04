@@ -4,8 +4,14 @@ author: Todd Herschberg 32º
 title: Commander of Kadosh
 ---
 
-Things I am thankful for:
+It's that time of year again, when we gather with family and friends, prepare copious amounts of food, and -- in a post-meal-tryptophan-enduced-stupor -- turn inward to thoughts of, among other things:
 
+Giving thanks.
+
+With that in mind, things I am thankful for:
+
+
+{{% figure src="img/thankful.jpeg" alt="" class="full border shadow" %}}
 - An amazing wife, who puts up with me
 - Two awesome daughters, who have renewed my sense of wonder
 - A dog, who teaches me patience on a daily basis

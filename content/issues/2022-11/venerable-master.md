@@ -14,7 +14,7 @@ Canada also celebrates Thanksgiving which is very much the sale as the US holida
 
 In Europe some German speaking countries like Germany, Austria and Switzerland celebrate more religious holiday called Erntedankfest.  This celebration is a more public festival celebration in early October with parades and church activities.  The holiday started as a way to give thanks for a good Autumn Harvest.
 
-{{% figure src="img/Wallfahrtskirche-baitenhausen-erntedankfest-saaten.jpeg" alt="" class="right medium border shadow" %}}
+{{% figure src="img/Wallfahrtskirche-baitenhausen-erntedankfest-saaten.jpeg" alt="" class="clear border shadow" %}}
 
 The Caribbean country of Grenada started a Thanksgiving holiday on the 25th of October.  The country celebrates the return of freedom and democracy after a coup attempt in 1983 when the prime minister was assassinated. The United States military invaded Grenada to restore law and order.  
 

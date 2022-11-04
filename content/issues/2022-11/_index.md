@@ -61,7 +61,7 @@ dinner:
 
 {{< calendar >}}
 
-<!-- {{< article "/issues/2022-10/commander.md" >}} -->
+{{< article "/issues/2022-11/commander.md" >}}
 
 {{< article "/issues/2022-11/venerable-master.md" >}}
 
