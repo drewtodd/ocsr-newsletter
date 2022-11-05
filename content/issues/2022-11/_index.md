@@ -37,15 +37,15 @@ obituaries:
 
 # Calendar information
 calendar:
-    - date: October 3, 2022
+    - date: November 7, 2022
       event: Stated Meeting
       location: Anaheim Demolay Center
       time: 6:30pm
       notes: Dinner to follow
 
-    - date: November 2022 (TBD)
+    - date: Cancelled
       event: Fall reunion
-      location: Location and time TBD
+      notes: We'll pick it back up in Spring, brothers
 
 dinner:
     - meal: Mexican dinner, rice, beans, chile verde, salad, tortillas, chips and salsa
