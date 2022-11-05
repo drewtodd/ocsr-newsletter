@@ -57,7 +57,7 @@ dinner:
 
 {{< article "/issues/2022-11/director-of-the-work.md" >}}
 
-<!-- {{< article "/issues/2022-11/senior-warden.md" >}} -->
+{{< article "/issues/2022-11/senior-warden.md" >}}
 
 {{< calendar >}}
 

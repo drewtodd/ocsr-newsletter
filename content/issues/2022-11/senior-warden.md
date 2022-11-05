@@ -4,26 +4,65 @@ author: Andrew Todd, 32°
 title: Senior Warden
 ---
 
-## Memento Mori
-Greetings, brothers. Welcome to the dark month of October; where the air turns cooler, the year groans into its inevitable dotage, and we traditionally cap things with a macabre celebration of death in All Hallows Eve. Seems like a good one to theme around the subject of one's mortality.
+## On Thanks
+In the spirit of the season, I thought I’d start by suggesting that, this year, we look to the things that we might take for granted. Look at the meaning and impact these everyday things, expressions, and situations have on our lives and acknowledge them; maybe for the first time.
 
-It may seem negative to dwell on death in a monthly newsletter, but we're Masons! It's what we do! One of the things, anyway.
+For me, it’s the roof over my head. A comfy bed. A solid job. The brilliant people I get to interact with every day. Waking up each morning with a relatively well-functioning mind and body. Family.
 
-{{% figure src="img/Memento-mori.png" alt="A Memento Mori coin in brass" class="right medium border shadow" caption="Memento Mori: Remember that you will die" %}}
+What’s that, you say? No wife in the list? Don’t skimp on the important stuff, Andrew. Know what side your bread is buttered on and all that.
 
-So many learned people have advised on the subject. Mark Twain said, "I do not fear death. I had been dead for billions and billions of years before I was born and had not suffured the slightest inconvenience from it." Ernest Hemmingway wrote that "all stories, if continued far enough, end in death."
+Simply put, above all things I am thankful for my relationship, partnership, and friendship with my wife. We are the team of teams. Each other’s entertainment and comfort. Stability and anchor in roaring seas. Love and tenderness above all.
 
-Death is part of the process. What lies therein we cannot see, but how bad must it be if all who are born are destined for it? 
+Now that I’ve left you to ponder your own list of things for which to be thankful, I’ll throw in the obligatory history lesson and include an interesting accounting of Thanksgiving traditions in America, courtesy of the outstanding [History.com](https://www.history.com/topics/thanksgiving/history-of-thanksgiving).
 
-Our fascination and obsession with avoiding death is both comical and unfortunate. We spend billions of dollars and hours searching for the keys to unending life, trying to cheat death. To what end?
+## The History of Thanksgiving
+> Thanksgiving Day is a national holiday in the United States, and Thanksgiving 2022 occurs on Thursday, November 24. In 1621, the Plymouth colonists and the Wampanoag shared an autumn harvest feast that is acknowledged today as one of the first Thanksgiving celebrations in the colonies. For more than two centuries, days of thanksgiving were celebrated by individual colonies and states. It wasn’t until 1863, in the midst of the  [Civil War](https://www.history.com/topics/american-civil-war) , that President  [Abraham Lincoln](https://www.history.com/topics/us-presidents/abraham-lincoln)   [proclaimed](https://www.history.com/news/abraham-lincoln-and-the-mother-of-thanksgiving)  a national Thanksgiving Day to be held each November.  
+>   
+> THANKSGIVING AT PLYMOUTH  
+> In September 1620, a small ship called the  [Mayflower](https://www.history.com/topics/colonial-america/mayflower)  left Plymouth, England, carrying 102 passengers—an assortment of religious separatists seeking a new home where they could freely practice their faith and other individuals lured by the promise of prosperity and land ownership in the “New World.” After a  [treacherous and uncomfortable crossing](https://www.history.com/news/mayflower-journey-pilgrims-america)  that lasted 66 days, they dropped anchor near the tip of Cape Cod, far north of their intended destination at the mouth of the Hudson River. One month later, the Mayflower crossed  [Massachusetts](https://www.history.com/topics/us-states/massachusetts)  Bay, where the  [Pilgrims](https://www.history.com/topics/colonial-america/pilgrims) , as they are now commonly known, began the work of establishing a village at Plymouth.  
+>   
+> DID YOU KNOW? LOBSTER, SEAL AND SWANS WERE ON THE PILGRIMS’ MENU.  
+> {{% figure src="img/History_BYDK_Thanksgiving_SF_S3_2500_16x9.jpg" alt="" class="clear border shadow" %}}  
+> Throughout that first brutal winter, most of the colonists remained on board the ship, where they suffered from exposure, scurvy and outbreaks of contagious disease. Only half of the Mayflower’s original passengers and crew lived to see their first New England spring. In March, the remaining settlers moved ashore, where they received an astonishing visit from a member of the Abenaki tribe who greeted them in English.   
+>   
+> Several days later, he returned with another Native American, Squanto, a member of the Pawtuxet tribe who had been kidnapped by an English sea captain and sold into slavery before escaping to London and returning to his homeland on an exploratory expedition. Squanto taught the Pilgrims, weakened by malnutrition and illness, how to cultivate corn, extract sap from maple trees, catch fish in the rivers and avoid poisonous plants. He also helped the settlers forge an alliance with the Wampanoag, a local tribe, which would endure for more than 50 years and tragically remains one of the sole examples of harmony between European colonists and Native Americans.  
+>   
+> In November 1621, after the Pilgrims’ first corn harvest proved successful, Governor  [William Bradford](https://www.history.com/topics/william-bradford)  organized a celebratory feast and invited a group of the fledgling colony’s Native American allies, including the Wampanoag chief Massasoit. Now remembered as American’s “first Thanksgiving”—although the Pilgrims themselves may not have used the term at the time—the festival lasted for three days. While no record exists of the  [first Thanksgiving’s exact menu](https://www.history.com/topics/thanksgiving/first-thanksgiving-meal) , much of what we know about what happened at the first Thanksgiving comes from Pilgrim chronicler Edward Winslow, who wrote:  
+>   
+> “Our harvest being gotten in, our governor sent four men on fowling, that so we might after a special manner rejoice together, after we had gathered the fruits of our labors; they four in one day killed as much fowl, as with a little help beside, served the Company almost a week, at which time amongst other Recreations, we exercised our Arms, many of the Indians coming amongst us, and amongst the rest their greatest king Massasoit, with some ninety men, whom for three days we entertained and feasted, and they went out and killed five Deer, which they brought to the Plantation and bestowed on our Governor, and upon the Captain and others. And although it be not always so plentiful, as it was at this time with us, yet by the goodness of God, we are so far from want, that we often wish you partakers of our plenty.”  
+>   
+> Historians have suggested that many of the dishes were likely prepared using traditional Native American spices and cooking methods. Because the Pilgrims had no oven and the Mayflower’s sugar supply had dwindled by the fall of 1621, the meal did not feature pies, cakes or other desserts, which have become a hallmark of contemporary celebrations  
+>   
+> THANKSGIVING BECOMES A NATIONAL HOLIDAY  
+> {{% figure src="img/hith-florida-thanksgiving-mass-pc6134.jpg" alt="" class="clear border shadow" %}}  
+>   
+> Pilgrims held their second Thanksgiving celebration in 1623 to mark the end of a long drought that had threatened the year’s harvest and prompted Governor Bradford to call for a religious fast. Days of fasting and thanksgiving on an annual or occasional basis became common practice in other New England settlements as well.  
+>   
+> During the  [American Revolution](https://www.history.com/topics/american-revolution) , the  [Continental Congress](https://www.history.com/topics/american-revolution/the-continental-congress)  designated one or more days of thanksgiving a year, and in 1789  [George Washington](https://www.history.com/topics/us-presidents/george-washington)  issued the first Thanksgiving proclamation by the national government of the United States; in it, he called upon Americans to express their gratitude for the happy conclusion to the country’s war of independence and the successful ratification of the U.S.  [Constitution](https://www.history.com/topics/constitution) . His successors  [John Adams](https://www.history.com/topics/us-presidents/john-adams)  and  [James Madison](https://www.history.com/topics/us-presidents/james-madison)  also designated days of thanks during their presidencies  
+>   
+> In 1817,  [New York](https://www.history.com/topics/us-states/new-york)  became the first of several states to officially adopt an annual Thanksgiving holiday; each celebrated it on a different day, however, and the American South remained largely unfamiliar with the tradition.  
+>   
+> In 1827, the noted magazine editor and prolific writer  [Sarah Josepha Hale](https://www.history.com/news/abraham-lincoln-and-the-mother-of-thanksgiving) —author, among countless other things, of the nursery rhyme “Mary Had a Little Lamb”—launched a campaign to establish Thanksgiving as a national holiday. For 36 years, she published numerous editorials and sent scores of letters to governors, senators, presidents and other politicians, earning her the nickname the “Mother of Thanksgiving.” [Abraham Lincoln](https://www.history.com/topics/us-presidents/abraham-lincoln)  finally heeded her request in 1863, at the height of the  [Civil War](https://www.history.com/topics/american-civil-war/american-civil-war-history) , in a proclamation entreating all Americans to ask God to “commend to his tender care all those who have become widows, orphans, mourners or sufferers in the lamentable civil strife” and to “heal the wounds of the nation.” He scheduled Thanksgiving for the final Thursday in November, and it was celebrated on that day every year until 1939, when  [Franklin D. Roosevelt](https://www.history.com/topics/us-presidents/franklin-d-roosevelt)  moved the holiday up a week in an attempt to spur retail sales during the  [Great Depression](https://www.history.com/topics/great-depression) . Roosevelt’s plan, known derisively as Franksgiving, was met with passionate opposition, and in 1941 the president reluctantly signed a bill making Thanksgiving the fourth Thursday in November.  
+>   
+> THANKSGIVING TRADITIONS AND RITUALS  
+> In many American households, the Thanksgiving celebration has lost much of its original religious significance; instead, it now centers on cooking and sharing a bountiful meal with family and friends. Turkey, a Thanksgiving staple so ubiquitous it has become all but synonymous with the holiday, may or may not have been on offer when the Pilgrims hosted the inaugural feast in 1621.  
+>   
+> Today, however, nearly 90 percent of Americans eat the bird—whether roasted, baked or deep-fried—on Thanksgiving, according to the National Turkey Federation. Other traditional foods include stuffing, mashed potatoes, cranberry sauce and pumpkin pie. Volunteering is a common Thanksgiving Day activity, and communities often hold food drives and host free dinners for the less fortunate.
+>   
+> {{% figure src="img/macys-thanksgiving-day-parade-getty-515571300.jpg" alt="" class="clear border shadow" %}}  
+>   
+> Parades have also become an integral part of the holiday in cities and towns across the United States. Presented by Macy’s department store since 1924, New York City’s Thanksgiving Day parade is the largest and most famous, attracting some 2 to 3 million spectators along its 2.5-mile route and drawing an enormous television audience. It typically features marching bands, performers, elaborate floats conveying various celebrities and giant balloons shaped like cartoon characters.  
+>   
+> Beginning in the mid-20th century and perhaps even earlier, the president of the United States has “pardoned” one or two Thanksgiving turkeys each year, sparing the birds from slaughter and sending them to a farm for retirement. A number of U.S. governors also perform the annual turkey pardoning ritual.  
+>   
+> THANKSGIVING CONTROVERSIES  
+> For some scholars, the jury is still out on whether the feast at Plymouth really constituted the first Thanksgiving in the United States. Indeed, historians have recorded other ceremonies of thanks among European settlers in North America that predate the Pilgrims’ celebration. In 1565, for instance, the Spanish explorer Pedro Menéndez de Avilé invited members of the local Timucua tribe to a  [dinner in St. Augustine](https://www.history.com/news/did-florida-host-the-first-thanksgiving) ,  [Florida](https://www.history.com/topics/us-states/florida) , after holding a mass to thank God for his crew’s safe arrival. On December 4, 1619, when 38 British settlers reached a site known as Berkeley Hundred on the banks of Virginia’s James River, they read a proclamation designating the date as “a day of thanksgiving to Almighty God.”  
+>   
+> Some Native Americans and many others take issue with how the Thanksgiving story is presented to the American public, and especially to schoolchildren. In their view, the traditional narrative paints a deceptively sunny portrait of relations between the Pilgrims and the Wampanoag people, masking the  [long and bloody history](https://www.history.com/topics/colonial-america/american-indian-wars-timeline)  of conflict between Native Americans and European settlers that resulted in the deaths of tens of thousands. Since 1970, protesters have gathered on the day designated as Thanksgiving at the top of Cole’s Hill, which overlooks Plymouth Rock, to commemorate a “National Day of Mourning.” Similar events are held in other parts of the country.  
+>   
+> THANKSGIVING’S ANCIENT ORIGINS  
+> Although the American concept of Thanksgiving developed in the colonies of New England, its roots can be traced back to the other side of the Atlantic. Both the Separatists who came over on the Mayflower and the  [Puritans](https://www.history.com/topics/colonial-america/puritanism)  who arrived soon after brought with them a tradition of providential holidays—days of fasting during difficult or pivotal moments and days of feasting and celebration to thank God in times of plenty.  
+>   
+> As an annual celebration of the harvest and its bounty, moreover, Thanksgiving falls under a category of festivals that spans cultures, continents and millennia. In ancient times, the  [Egyptians](https://www.history.com/topics/ancient-history/ancient-egypt) ,  [Greeks](https://www.history.com/topics/ancient-history/ancient-greece)  and  [Romans](https://www.history.com/topics/ancient-rome/ancient-rome)  feasted and paid tribute to their gods after the fall harvest. Thanksgiving also bears a resemblance to the ancient Jewish harvest festival of Sukkot. Finally, historians have noted that Native Americans had a rich tradition of commemorating the fall harvest with feasting and merrymaking long before Europeans set foot on America’s shores.  
 
-> “Stop whatever you’re doing for a moment and ask yourself: Am I afraid of death because I won’t be able to do this anymore?” —Marcus Aurelius
-
-Death is part of the process. It is necessary. Embrace it.
-
-Instead of trying to eliminate death, I humbly suggest we put that time and energy into making the most of the life we have: Taking care of ourselves, sure. Hurtling ourselves towards a premature and unnecessary death would cheat us of the opportunity to truly experience life. And that's where our energies should be focused.
-
-Let death remind us of the limited time we have in life and encourage us to make the most of it.
-
-Until next time, be well, brothers.
-
+Until next month, be well, brothers.
