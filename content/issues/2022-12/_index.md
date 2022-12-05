@@ -71,6 +71,8 @@ dinner:
 
 {{< article "/issues/2022-12/master-of-kadosh.md" >}}
 
+{{< article "/issues/2022-12/general-secretary.md" >}}
+
 {{< article "/issues/2022-12/clc.md" >}}
 
 {{< clc-masthead >}}
