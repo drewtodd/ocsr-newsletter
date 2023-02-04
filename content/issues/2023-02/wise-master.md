@@ -8,7 +8,7 @@ Brotherly love - that bond of affection and camaraderie that exists between Brot
 
 One of the most significant values of brotherly love is the sense of belonging and connection it provides. We share a unique, fraternal bond that is not replicated by any other relationship. We grow together, share in each other's joys and sorrows, and support each other in good times and bad. This creates a sense of familiarity and comfort that is unparalleled by any other relationship.
 
-{{% figure src="img/masonic-values.png" alt="" class="right medium" %}}
+{{% figure src="img/masonic-values.png" alt="" class="right medium border shadow" %}}
 
 Another important aspect is our mutual support and encouragement. We support each other through the ups and downs of life. We are there to offer a listening ear and a helping hand when needed. This type of support is invaluable, as it helps us to grow as human beings as we navigate the challenges of life with a sense of security and confidence.
 

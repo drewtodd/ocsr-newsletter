@@ -260,6 +260,14 @@ figure.rotate-counter {
     margin-left: 2.5em;
 }
 
+figure.hang-right {
+    margin-right: -10%;
+}
+
+figure.hang-left {
+    margin-left: -10%;
+}
+
 figcaption p {
     font-family: "Helvetica Neue", Helvetica, Oswald, Arial, sans-serif;
     font-style: italic;

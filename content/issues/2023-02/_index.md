@@ -37,22 +37,27 @@ obituaries:
 
 # Calendar information
 calendar:
-    - date: January 9, 2023
-      event: Stated Meeting
-      location: Anaheim Demolay Center
-      time: 6:30pm
-      notes: Dinner to follow
-    
-    - date: January 15, 2023
-      event: Installation of Officers
-      location: Anaheim Demolay Center
-      time: 2:00pm
-
     - date: February 6, 2023
       event: Stated Meeting
       location: Anaheim Demolay Center
       time: 6:30pm
       notes: Dinner to follow
+    
+    - date: March 6, 2023
+      event: Stated Meeting
+      location: Anaheim Demolay Center
+      time: 6:30pm
+      notes: Dinner to follow
+
+    - date: April 21-22, 2023
+      event: Spring Reunion
+      location: Anaheim Demolay Center
+      time: 6:30pm
+
+    - date: May 7, 2023
+      event: Spring Super Breakfast
+      location: Anahiem Demolay Center
+      time: 9:00am
 
 dinner:
     - meal: Mexican dinner, rice, beans, chile verde, salad, tortillas, chips and salsa
