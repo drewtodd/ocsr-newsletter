@@ -1,18 +1,19 @@
 ---
-image: cristian-dedios.png
-author: Christian DeDios, 32°
+image: consistory-badge.jpeg
+author: Luis Carrion, 32°
 title: Master of Kadosh
 ---
 
-Greetings everyone,
+## On Brotherhood
 
-What a year it’s been! Our first year back fraternally! It was great seeing the support in the valley by the brethren who stayed disciplined and showed up to all our stated meetings. Also,  the heads of body who dedicated their efforts in producing monthly newsletters, organizing committee, and staying on coarse throughout the year with our events! Without the fraternal meets there’s no progress so let’s continue showing up and staying motivated. Without the new members we can’t show anyone how the work is done or why it’s important. 
+Brotherhood for Freemasons is the embodiment of our core ethical values that we all adherents share in common. Our brotherhood is based on the concept of ‘brotherly love’, that is a type of shared compassion and mutual understanding which make us all part of a larger collective. It encourages us to strive to help others, support our fellow members and be positively engaged in our community. Brotherhood is also an expression of universal fraternalism, a community of shared ideals and bonds of friendship.
 
-Serving as a head of body is crucial! Every new member should strive to participate so that they become better men and learn more about themselves. Understanding fraternal organization, policy, leadership, team communication, dependability, and accounting are skills gained when given the responsibility or privilege to take on a role in Scottish Rite. 
+At its simplest, brotherhood is a way to express moral and ethical principles. The brotherhood of Freemasons is based on three key principles: brotherly love, relief (or charity) and truth. Brotherly love is the cornerstone which binds members of the organization together. It is a bond of loyalty and friendship that allows us to look out for one another. It is unconditional love, based on mutual respect and appreciation, which accepts and encourages the differences between culture, religion, backgrounds and beliefs.
 
-I encourage new members to participate and learn the history of that chair which they occupy. There’s many ways to fulfill those positions and many things to learn about the importance of your seat. Meet those expectations and add a taste of your own leadership to our valley! 
+Relief is an expression of caring for the well-being of others. Members of Freemasonry exercise their capacity to help those in need, especially those in their own Fraternity and the greater community in general. This can manifest in different ways such as providing financial assistance, knowledge, comfort or guidance.
 
-Thank you all for the opportunity to let me serve as Master of Kadosh for the Consistory in 2022! I had a great time and experience! To New beginnings and important roles we climb! Wish you all the best in 2023! 
+Truth is a core value of Freemasonry. It is what binds members together and encourages mutual understanding. It is through active dialogue, free from judgement and bias, that members learn and grow. Truth is a way to develop meaningful understanding, reconcile differences and reach common goals.
 
+Ultimately, brotherhood is an expression of shared values, compassion and mutual understanding. It is a way to originate and express moral exemplars that promote the well-being of individuals and the community as a whole. All members of Freemasonry should endeavour to embody these values and work together in the spirit of brotherhood.
 
 Fraternally,

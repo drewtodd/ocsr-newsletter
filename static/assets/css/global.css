@@ -252,7 +252,7 @@ figure.rotate-clockwise {
     transform: rotate(6deg);
     margin-left: 2.5em;
     margin-bottom: .5em;
-    /* margin-right: -25%; */
+    margin-right: -10%;
 }
 
 figure.rotate-counter {

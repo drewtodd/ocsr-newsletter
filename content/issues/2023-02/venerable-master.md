@@ -1,28 +1,34 @@
 ---
-image: david-frias.png
-author: David Frias, 32° KCCH
+image: andrew-todd.png
+author: Andrew Todd, 32°
 title: Venerable Master
 ---
 
-Happy New Year Everyone! I want to congratulate Brother Andrew Todd for being elected Venerable Master of our Valley for 2023. When I started my year as Venerable Master I did receive a lot of help from the Brothers so I know that Andrew will be in our good hands. Luckily we were able to meet in person for most of 2022. Dinners got better and attendance gradually improved. Lets keep up the momentum in 2023 by getting more brothers to come back to our Stated Meetings. I hope to see you all there!  
+Greetings brothers. First of a quick round of thank you’s for a fantastic Installation in January:
 
-Here is a quick recap of my Resolutions for 2022 and I’ll give a grade of 1 to 5 with 5 being best on how well I achieved that item on my list.
+Thanks to Honorable Brother David Frias for setting such a fine example as last year’s Venerable Master
 
-- Be Early - 2
-- Be Present - 4
-- Exercise More - 5
-- Learn something New - 1
-- Learn to play golf - 5 
-- Eat more Leafy vegetables - 5
+Thanks to Illustrious Brothers Frank Loui, David Kussman, and Ralph Shelton for officiating the ceremony with such honor and dignity
 
-I’m going to add some of these same resolutions for the new year of 2023 and pick some new ones.
+Thanks to Illustrious Brother Frankie Rosario for his support and encouragement
 
-- **Be Early** - instead of procrastinating on everything try and get things done early.  For example get my article written early instead of always turning it in late.
-- **Learn something New** - I’m probably never going to learn Spanish but I want to keep the brain working so I’ll be more open to learning anything new this year.
-- **Exercise More** - Even though I think I crushed this topic last year it is important enough to keep going this year.
-- **Lose Weight** - I lost about 12 pounds last year but I still have about another 20 pounds to go.
-- **Enjoy Hobbies** - I like to fly drones and take pictures but I don’t do it enough.  Lets see if I can get more time in on these activities.
+Thanks to all of the installed officers for all the hard work that you’re already doing to make 2023 a great year for our Valley!
 
-That is it for 2023.  Wish me well and let me know what resolutions you are picking for yourself.
+## Stoicism and Freemasonry: A Perfect Pair
+As I go through my year in the Venerable Master’s chair, I though that I’d focus on some philosophical ideas and topics that I’ve been studying for several years that I think fit nicely with the ideals of Freemasonry; specifically the philosophy of **the Stoics**. 
 
-Sincerely,
+Stoicism and Freemasonry might not seem like a natural match at first, but dig a little deeper and you'll see just how well they complement each other. Stoicism, the ancient Greek philosophy that's still as relevant today as it was 2,000 years ago, focuses on self-control, rationality, and inner peace. Freemasonry, on the other hand, is all about ethical behavior, personal growth, and making a positive impact in the world. So, how do these two philosophies fit together so well?
+
+First off, Stoicism is all about self-mastery. Stoics believe that by keeping a handle on our emotions and desires, we can live a life that's peaceful and fulfilling. 
+
+Freemasonry echoes this sentiment, encouraging members to work towards self-improvement and mastery of their passions. It's a way to become the best version of yourself and make a difference in the world.
+
+Next up, Stoicism teaches us to accept what we can't change. The philosophy encourages us to focus on what's within our control and not waste energy on things outside of our reach. Freemasonry shares this idea, asking members to live in harmony with the world and embrace what can't be changed. It's a way to find peace and happiness, no matter what life throws at you.
+
+Finally, Stoicism and Freemasonry both emphasize the importance of moral and ethical behavior. Stoics believe that we should always act in accordance with reason and virtue, while Freemasonry asks members to live by the principles of brotherhood, charity, and truth. By doing so, we can lead lives that are fulfilling and meaningful, making a positive impact on those around us.
+
+So, there you have it! Stoicism and Freemasonry might seem like an unlikely pair, but they're actually a match made in philosophical heaven. Both emphasize self-mastery, acceptance, and moral behavior, offering a powerful framework for personal growth and development. 
+
+Whether you're a fan of Stoicism or a proud member of the Masonic Fraternity, these two philosophies have something to offer.
+
+Until next time brothers, be well.

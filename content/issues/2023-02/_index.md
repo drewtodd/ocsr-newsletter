@@ -76,9 +76,11 @@ dinner:
 
 {{< article "/issues/2023-02/wise-master.md" >}}
 
-{{< website-promo >}}
+{{< dinner >}}
 
 {{< article "/issues/2023-02/master-of-kadosh.md" >}}
+
+{{< website-promo >}}
 
 {{< article "/issues/2023-02/general-secretary.md" >}}
 
