@@ -26,6 +26,4 @@ The footnote in the annotated version of Morals and Dogma says the occult encomp
 
 We see that 666 is just one of the last in a long line of symbols and numbers going all the way back to Seth and Abraham. Our job as Scottish Rite Freemasons is to do the hard work to decipher the deeper meanings of these symbols and to not be content with simplistic, exoteric interpretations.
 
-{{% figure src="img/winter-symbol.png" alt="Children and staff of the CLC" class="full border shadow" %}}
-
 Until next month, brothers...
