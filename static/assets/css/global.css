@@ -133,8 +133,8 @@ p > strong > a {
 button {
   justify-content: center;
   appearance: none;
-  background-color: #69c;
-  border: 1px solid rgba(27, 31, 35, .15);
+  background-color: #f49153;
+  border: 1px solid rgba(51, 91, 8, 255);
   border-radius: 6px;
   box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
   box-sizing: border-box;
@@ -164,7 +164,7 @@ button:focus:not(:focus-visible):not(.focus-visible) {
 }
 
 button:hover {
-  background-color: #369;
+  background-color: #f46a14;
 }
 
 button:focus {
