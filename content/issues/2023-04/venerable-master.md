@@ -16,7 +16,7 @@ Born in Spain in 4 BCE, Seneca (or Secena the Younger, as he was also referred) 
 
 As a young man, Seneca studied rhetoric and philosophy in Rome and Athens, where he became interested in Stoicism. He later became a tutor and advisor to the emperor Nero, the notorious tyrant3. Seneca’s relationship with Nero was complex - on one hand, he was able to influence Nero’s decisions and bring about positive changes for the people of Rome, but on the other hand, he was also complicit in Nero’s oppressive regime.
 
-Despite his complicated relationship with Nero, Seneca’s philosophy has stood the test of time. His writings, including his [Letters from a Stoic](https://www.amazon.com/Letters-Penguin-Classics-Lucius-Annaeus/dp/0140442103/ref=sr_1_1?keywords=letters+from+a+stoic&sr=8-1), continue to inspire people to this day. In his philosophy, Seneca emphasized the importance of reason, self-control, and self-reflection in achieving inner peace and happiness — topics that I’ll cover in depth in future newsletter articles.
+Despite his complicated relationship with Nero, Seneca’s philosophy stands the test of time. His writings, including his [Letters from a Stoic](https://www.amazon.com/Letters-Penguin-Classics-Lucius-Annaeus/dp/0140442103/ref=sr_1_1?keywords=letters+from+a+stoic&sr=8-1), continue to inspire people to this day. In his philosophy, Seneca emphasized the importance of reason, self-control, and self-reflection in achieving inner peace and happiness — topics that I’ll cover in depth in future newsletter articles.
 
 In addition to his philosophical contributions, Seneca was also a prolific playwright, writing tragedies that were performed in the Roman theater. His works were admired for their powerful language and emotional depth.
 
