@@ -69,15 +69,20 @@ calendar:
       note: Cap and ring ceremony
 
 dinner:
-    - meal: "Brew Hawg BBQ"
-
-    - cost: "$14"
-  
-    - name: "Larry Griffin"
-
-    - email: "rsvp@ocscottishrite.org"
-
-    - image: "/assets/img/king-pollo.jpeg"
+    - vendor: Brew Hawg BBQ
+      items:
+        - BBQ ribs
+        - Pulled pork
+        - Brisket
+        - BBQ baked beans
+        - Mac and cheese
+        - Rolls
+        - Tea
+      cost: $20
+      name: Larry Griffin
+      rsvpUrl: https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=5219dacb10&attribution=false
+      image: ./img/brew-hawg-bbq.webp
+      imageAlt: King Pollo chicken logo
 ---
 
 <!-- {{< article "/issues/2023-04/pr.md" >}} -->

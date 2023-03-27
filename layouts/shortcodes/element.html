@@ -1,0 +1,9 @@
+{{with $.Page.Param "element"}}
+<aside id="element">
+    <ul>
+        {{range .}}
+            <li>{{.name}}: {{.amount}}</li>
+        {{end}}
+    </ul>
+</aside>
+{{end}}
