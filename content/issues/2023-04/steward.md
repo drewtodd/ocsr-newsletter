@@ -46,6 +46,11 @@ So, when can you witness this spectacular Chichen Itza Snake Shadow phenomenon a
 - 20th March Sunday (recommended)
 - 21st March Monday
 
+References:     
+- [Original article by Sarah Barlow; playadelcarmen.com; January 4, 2023](https://www.playadelcarmen.com/blog/equinox-chichen-itza/)
+- [Chichen Itza and the Serpent Equinox (Giulio Magli)](https://www.youtube.com/watch?v=ZPcT92HqQY4)
+- [Equinox Celebrations in Teotihuacán (2003)](https://www.youtube.com/watch?v=vpA2YaMFG5E)
+
 I bring this topic foward to enlighten others on the beauty of Spring Equinox celebrations around the world. 
 
 Fraternally, 
