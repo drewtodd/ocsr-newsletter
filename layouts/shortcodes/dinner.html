@@ -8,12 +8,15 @@
                         <img src="{{ . }}" alt=".imageAlt">
                     </figure>
                 {{ end }}
-                <p>Please make plans to join us for dinner after Stated Meeting at 7:00pm. By popular demand, Brother {{.name}} has cooked up the following delicious meal from <strong>{{ default "a great restaurant" .vendor }}</strong>:</p>
-                <ul>
-                    {{range .items}}
-                        <li>{{ . }}</li>
-                    {{end}}
-                </ul>
+                <p>Please make plans to join us for dinner after Stated Meeting at 7:00pm. By popular demand, Brother {{.name}} has cooked up the following delicious meal from <strong>{{ default "a great restaurant" .vendor }}</strong>.</p>
+                {{ with .items }}
+                    <h3>Dinner includes:</h3>
+                    <ul>
+                            {{range .}}
+                                <li>{{ . }}</li>
+                            {{end}}
+                    </ul>
+                {{ end }}
                 <p>
                     {{if .note}}
                         {{.note}}
@@ -22,7 +25,9 @@
                     {{end}}
                 </p>
                 <h2>Reserve your spot!</h2>
-                <p>If you're going to join us for dinner, we ask that you <a href="{{.rsvpUrl}}">RSVP in advance</a>.</p>
+                <p>In order to ensure there's enough food for everyone, and to help eliminate waste, we ask that you <a href="{{ default "mailto:rsvp@ocscottishrite.org" .rsvpUrl}}">RSVP in advance</a> if you're going to dine with us.</p>
+                <br><br>
+                <button class="button"><a href="{{ default "mailto:rsvp@ocscottishrite.org" .rsvpUrl}}">Reserve your spot now!</a></button>
             </aside>
         {{ end }}
     {{ end }}

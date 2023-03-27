@@ -5,35 +5,6 @@ number: 4
 issueDate: April 2023
 publishDate: April 1, 2023
 layout: issue
-# slug: the-orange-county-scottish-rite-news-february-2022
-
-# Articles
-articles:
-    - path: "personal-representative.md"
-    - path: "venerable-master.md"
-    - path: "wise-master.md"
-    - path: "director-of-ritual.md"
-    - path: "senior-warden.md"
-    - path: "language-center.md"
-    - path: "general-secretary.md"
-    - path: "masonic-education.md"
-    - path: "editor.md"
-
-# Obituaries
-obituaries:
-    - name: "Manuel Rex Alarcon 32°"
-
-    - name: "Billy Wayne Morrison, 32°"
-
-    - name: "David Brian Reule, 32°"
-
-    - name: "Robert Lee Mason, 32°"
-
-    - name: "Marvin Charles Schneider, 32°"
-
-    - name: "Robert William Vernon, 32°"
-
-    - name: "Robert Lyman Meador, 32°"
 
 # Calendar information
 calendar:
@@ -83,6 +54,17 @@ dinner:
       rsvpUrl: https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=5219dacb10&attribution=false
       image: ./img/brew-hawg-bbq.webp
       imageAlt: King Pollo chicken logo
+      
+# Obituaries
+obituaries:
+    - name: "Manuel Rex Alarcon 32°"
+    - name: "Billy Wayne Morrison, 32°"
+    - name: "David Brian Reule, 32°"
+    - name: "Robert Lee Mason, 32°"
+    - name: "Marvin Charles Schneider, 32°"
+    - name: "Robert William Vernon, 32°"
+    - name: "Robert Lyman Meador, 32°"
+
 ---
 
 <!-- {{< article "/issues/2023-04/pr.md" >}} -->
