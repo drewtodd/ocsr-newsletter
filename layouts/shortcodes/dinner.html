@@ -3,9 +3,10 @@
         {{ range . }}
             <aside id="dinner" class="dinner box shadow">
                 <h1>Join us for dinner</h1>
+                {{ $imageAlt := printf "The logo for %s" .vendor | default .imageAlt }}
                 {{ with .image }}
                     <figure class="right medium border rotate-clockwise hang-right shadow">
-                        <img src="{{ . }}" alt=".imageAlt">
+                        <img src="{{ . }}" alt="$imageAlt">
                     </figure>
                 {{ end }}
                 <p>Please make plans to join us for dinner after Stated Meeting at 7:00pm. By popular demand, Brother {{.name}} has cooked up the following delicious meal from <strong>{{ default "a great restaurant" .vendor }}</strong>.</p>
@@ -24,10 +25,12 @@
                         Cost of the meal is <strong>{{ default "$14" .cost }}</strong>.
                     {{end}}
                 </p>
-                <h2>Reserve your spot!</h2>
-                <p>In order to ensure there's enough food for everyone, and to help eliminate waste, we ask that you <a href="{{ default "mailto:rsvp@ocscottishrite.org" .rsvpUrl}}">RSVP in advance</a> if you're going to dine with us.</p>
-                <br><br>
-                <button class="button"><a href="{{ default "mailto:rsvp@ocscottishrite.org" .rsvpUrl}}">Reserve your spot now!</a></button>
+                {{ if .rsvpRequired }}
+                    <h2>Reserve your spot!</h2>
+                    <p>In order to ensure there's enough food for everyone, and to help eliminate waste, we ask that you <a href="{{ default "mailto:rsvp@ocscottishrite.org" .rsvpUrl}}">RSVP in advance</a> if you're going to dine with us.</p>
+                    <br><br>
+                    <button class="button"><a href="{{ default "mailto:rsvp@ocscottishrite.org" .rsvpUrl}}">Reserve your spot now!</a></button>
+                {{ end }}
             </aside>
         {{ end }}
     {{ end }}

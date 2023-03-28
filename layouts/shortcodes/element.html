@@ -1,5 +1,13 @@
+{{ $listitemName := "default" }}
+
 {{with $.Page.Param "element"}}
 <aside id="element">
+    {{ with $.Page.Param "listitems" }}
+        {{ range .}}
+            <h1>{{ .description }}</h1>
+        {{ end }}
+    {{ end }}
+
     <ul>
         {{range .}}
             <li>{{.name}}: {{.amount}}</li>
