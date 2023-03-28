@@ -1,25 +1,37 @@
-<aside id="dinner" class="box shadow">
-    <h1>Join us for dinner</h1>
-    <figure class="right medium border rotate-clockwise hang-right shadow">
-        <img src="img/brew-hawg-bbq.webp" alt="Brew Hawg BBQ logo">
-    </figure>
-    <p>Please make plans to join us for dinner after Stated Meeting at 7:00pm. By popular demand, Brother Griffin has cooked up the following delicious meal from Brew Hawg BBQ:</p>
-
-    <ul>
-        <li>BBQ ribs</li>
-        <li>Pulled pork</li>
-        <li>Brisket</li>
-        <li>BBQ baked beans</li>
-        <li>Mac and cheese</li>
-        <li>Rolls</li>
-        <li>Tea</li>
-    </ul>
-
-    <p>In conjunction with our <a href="#distinguished-speaker">Distinguished Speaker event</a>, featuring Ill. Ralph Shelton, 33°, the cost of <strong>this special dinner is $20</strong>.</p>
-
-    <h2>Reservations required!</h2>
-    <p>If you're going to join us this event, we ask that you <a href="https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=5219dacb10&attribution=false">RSVP in advance</a>.</p>
-    <br><br>
-    <button class="button"><a href="https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=5219dacb10&attribution=false">Reserve your spot now!</a></button>
-    <br><br>
-</aside>
+{{ with $.Page.Param "dinner" }}
+    {{ if isset . "0" }}
+        {{ range . }}
+            <aside id="dinner" class="dinner box shadow">
+                <h1>Join us for dinner</h1>
+                {{ $imageAlt := printf "The logo for %s" .vendor | default .imageAlt }}
+                {{ with .image }}
+                    <figure class="right medium border rotate-clockwise hang-right shadow">
+                        <img src="{{ . }}" alt="$imageAlt">
+                    </figure>
+                {{ end }}
+                <p>Please make plans to join us for dinner after Stated Meeting at 7:00pm. By popular demand, Brother {{.name}} has cooked up the following delicious meal from <strong>{{ default "a great restaurant" .vendor }}</strong>.</p>
+                {{ with .items }}
+                    <h3>Dinner includes:</h3>
+                    <ul>
+                            {{range .}}
+                                <li>{{ . }}</li>
+                            {{end}}
+                    </ul>
+                {{ end }}
+                <p>
+                    {{if .note}}
+                        {{.note}}
+                    {{else}}
+                        Cost of the meal is <strong>{{ default "$14" .cost }}</strong>.
+                    {{end}}
+                </p>
+                {{ if .rsvpRequired }}
+                    <h2>Reserve your spot!</h2>
+                    <p>In order to ensure there's enough food for everyone, and to help eliminate waste, we ask that you <a href="{{ default "mailto:rsvp@ocscottishrite.org" .rsvpUrl}}">RSVP in advance</a> if you're going to dine with us.</p>
+                    <br><br>
+                    <button class="button"><a href="{{ default "mailto:rsvp@ocscottishrite.org" .rsvpUrl}}">Reserve your spot now!</a></button>
+                {{ end }}
+            </aside>
+        {{ end }}
+    {{ end }}
+{{ end }}

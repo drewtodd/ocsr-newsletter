@@ -5,35 +5,6 @@ number: 4
 issueDate: April 2023
 publishDate: April 1, 2023
 layout: issue
-# slug: the-orange-county-scottish-rite-news-february-2022
-
-# Articles
-articles:
-    - path: "personal-representative.md"
-    - path: "venerable-master.md"
-    - path: "wise-master.md"
-    - path: "director-of-ritual.md"
-    - path: "senior-warden.md"
-    - path: "language-center.md"
-    - path: "general-secretary.md"
-    - path: "masonic-education.md"
-    - path: "editor.md"
-
-# Obituaries
-obituaries:
-    - name: "Manuel Rex Alarcon 32°"
-
-    - name: "Billy Wayne Morrison, 32°"
-
-    - name: "David Brian Reule, 32°"
-
-    - name: "Robert Lee Mason, 32°"
-
-    - name: "Marvin Charles Schneider, 32°"
-
-    - name: "Robert William Vernon, 32°"
-
-    - name: "Robert Lyman Meador, 32°"
 
 # Calendar information
 calendar:
@@ -68,16 +39,43 @@ calendar:
       time: 6:30pm
       note: Cap and ring ceremony
 
+# Dinner details (optional)
 dinner:
-    - meal: "Brew Hawg BBQ"
+    - vendor: Brew Hawg BBQ
+      items:
+        - BBQ ribs
+        - Pulled pork
+        - Brisket
+        - BBQ baked beans
+        - Mac and cheese
+        - Rolls
+        - Tea
+      cost: $20
+      name: Larry Griffin
+      rsvpRequired: true
+      rsvpUrl: https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=5219dacb10&attribution=false
+      image: ./img/brew-hawg-bbq.webp
+      imageAlt: King Pollo chicken logo
 
-    - cost: "$14"
-  
-    - name: "Larry Griffin"
+# Distinguished Speaker details (optional)
+speaker:
+    - speakerName: Ill. Ralph Shelton 33°
+      topic: Masonic Magicians of the Golden Age
+      dateTime: Monday, April 3rd at 7:00pm
+      location: Anaheim Demolay Center, 303 W Lincoln Ave in Anaheim, California 92805
+      image: img/Ralph-Shelton-Distinguished-Speaker-1.png
+      imageAlt: "The Orange County Scottish Rite Presents: Masonic Magicians of the Golden Age, with Distinguished Speaker Ill. Ralph Shelton, 33°"
+      
+# Obituaries (optional)
+obituaries:
+    - name: "Manuel Rex Alarcon 32°"
+    - name: "Billy Wayne Morrison, 32°"
+    - name: "David Brian Reule, 32°"
+    - name: "Robert Lee Mason, 32°"
+    - name: "Marvin Charles Schneider, 32°"
+    - name: "Robert William Vernon, 32°"
+    - name: "Robert Lyman Meador, 32°"
 
-    - email: "rsvp@ocscottishrite.org"
-
-    - image: "/assets/img/king-pollo.jpeg"
 ---
 
 <!-- {{< article "/issues/2023-04/pr.md" >}} -->

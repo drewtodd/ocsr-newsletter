@@ -1,0 +1,12 @@
+{{with $.Page.Param "listitems"}}
+<aside id="listitems">
+    {{range .}}
+    <p>{{.name}}: {{.description}}</p>
+    <ul>
+        {{range .items}}
+            <li>{{.}}</li>
+        {{end}}
+    </ul>
+    {{end}}
+</aside>    
+{{end}}

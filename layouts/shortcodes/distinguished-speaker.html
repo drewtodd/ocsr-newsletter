@@ -1,21 +1,57 @@
-<aside id="distinguished-speaker" class="box shadow">
-    <h1>RSVP now for an enlightening evening</h1>
-    <figure class="clear ">
-        <img src="img/Ralph-Shelton-Distinguished-Speaker-1.png" alt="The Orange County Scottish Rite Presents: Masonic Magicians of the Golden Age, with Distinguished Speaker Ill. Ralph Shelton, 33°">
-    </figure>
-    <p>Join us Monday, April 3rd at 7:00pm, where <strong>Illustrious Ralph Shelton, 33°</strong> will be giving an illuminating talk on <strong>Masonic Magicians of the Golden Age</strong>.</p>
+{{ $dinnerIncluded := false }}
+{{ $rsvpRequired := 0 }}
+{{ $rsvpUrl := "mailto:rsvp@ocscottishrite.org"}}
+{{ $name := "TBD" }}
+{{ $cost := "TBD" }}
 
-    <p>In conjunction with our Distinguished Speaker event, <a href="#dinner">Brother Larry Griffin has arranged a special dinner</a>.</p>
+{{ with $.Page.Param "dinner" }}
+    {{ if isset . "0" }}
+        {{ $dinnerIncluded = true }}
+        {{ range .}}
+            {{ if .name }}{{ $name = .name }}{{ end }}
+            {{ if .cost }}{{ $cost = .cost }}{{ end }}
+            {{ if .rsvpRequired }}{{ $rsvpRequired = .rsvpRequired }}{{ end }}
+            {{ if .rsvpUrl }}{{ $rsvpUrl = .rsvpUrl }}{{ end }}
+        {{ end }}
+    {{ end }}
+{{ end }}
 
-    <p><strong>When:</strong> Monday, April 3rd at 7:00pm
-    <br><strong>Where:</strong> Anaheim Demolay Center, 303 W Lincoln Ave in Anaheim, California 92805
-    <br><strong>Cost:</strong> $20 for dinner (RSVP required)</p>
+{{ with $.Page.Param "speaker" }}
+    {{ if isset . "0" }}
+       {{ range . }}
+            <aside id="distinguished-speaker" class="box shadow">
+                <h1>{{ default "RSVP now for an enlightening evening" .title }}</h1>
 
-Please forward this email to your Blue Lodge brothers and anyone else you think might like to attend!
+        
+                {{ $imageAlt := default "Join the Orange County Scottish Rite for the latest installation of their Disinguished Speaker series" .imageAlt }}
+                {{ with .image }}
+                    <figure class="clear ">
+                        <img src="{{ . }}" alt="{{ $imageAlt }}">
+                    </figure>
+                {{ end }}
+                
+                <p>Join us {{ default "on a date to be determined soon" .dateTime }}, when <strong>{{ default "a soon to be announced" .speakerName }}</strong> will be giving a fascinating talk on <strong>{{ default "a topic you're going to love" .topic }}</strong>.</p>
 
-    <h2>Reservations required!</h2>
-    <p>If you're going to join us this event, we ask that you <a href="https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=5219dacb10&attribution=false">RSVP in advance</a>.</p>
-    <br><br>
-    <button class="button"><a href="https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=5219dacb10&attribution=false">Reserve your spot now!</a></button>
-    <br><br>
-</aside>
+                {{ if $dinnerIncluded }}
+                <p>In conjunction with this special event, <a href="#dinner">we've arranged a special dinner</a>.</p>
+                {{ end }}
+
+                <ul>
+                    <li><strong>When:</strong> {{ .dateTime | default "TBD" }}</li>
+                    <li><strong>Where:</strong> {{ .location | default "TBD" }}</li>
+                    <li><strong>Cost:</strong>  {{ $cost }} for dinner</li>
+                </ul>
+
+                <p>Please forward this email to your <strong>Blue Lodge brothers</strong> and anyone else you think might like to attend!</p>
+
+                {{ if $rsvpRequired = true }}
+                    <h2>Reservations required!</h2>
+                    <p>If you're going to join us this event, we ask that you <a href="{{ $rsvpUrl }}">RSVP in advance</a>.</p>
+                    <br><br>
+                    <button class="button"><a href="{{ $rsvpUrl }}">Reserve your spot now!</a></button>
+                    <br><br>
+                {{ end }}
+            </aside>
+        {{ end }}
+    {{ end }}
+{{ end }}
