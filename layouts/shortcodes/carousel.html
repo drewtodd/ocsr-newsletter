@@ -1,0 +1,32 @@
+<script>
+    window.addEventListener('load', function(){
+        new Glider(document.querySelector('.glider'), {
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            dots: '#dots',
+            draggable: true,
+            arrows: {
+              prev: '.glider-prev',
+              next: '.glider-next'
+            }
+        });
+    })
+</script>
+
+<div id="{{ .Get "id" }}" class="glider-contain">
+    <link rel="stylesheet" type="text/css" href="/assets/css/glider.css">
+
+    <div class="glider" border shadow>
+        <div class="glider-slide"> <img src="{{ .Get "image1" }}" alt=""></div>
+        <div class="glider-slide"> <img src="{{ .Get "image3" }}" alt=""></div>
+        <div class="glider-slide"> <img src="{{ .Get "image4" }}" alt=""></div>
+        <div class="glider-slide"> <img src="{{ .Get "image5" }}" alt=""></div>
+    </div>
+    <figcaption style="padding-bottom: .5em;"><p>{{ .Get "caption" }}</p></figcaption>
+    <button aria-label="Previous" class="glider-prev"><i class="fas fa-angle-double-left"></i></button>
+    <button aria-label="Next" class="glider-next"><i class="fas fa-angle-double-right"></i></button>
+    <div role="tablist" id="dots" class="dots"></div>
+  
+    <script src="/assets/js/glider.min.js"></script>
+  </div>
+  
