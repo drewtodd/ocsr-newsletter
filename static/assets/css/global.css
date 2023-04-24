@@ -533,8 +533,10 @@ aside.sponsors li img {
         padding: 2.5em 1em 1em 0;
     }
 
-    figure.full-width, figure.clear {
+    figure.full-width, figure.clear, figure.right {
         width: 90%;
+        float: none;
+        clear: both;
     }
 
     aside#officers.officers-table {

@@ -8,11 +8,11 @@ title: Venerable Master
 
 Brothers! So much to cover! Let's dig into the highlights of the month of March.
 
-## A Moving Remembrance and Renewal Ceremony
+### A Moving Remembrance and Renewal Ceremony
 
 We extend our sincerest gratitude to Wise Master Todd Herschberg for leading last month's Stated Meeting, where he conducted a profoundly moving Remembrance and Renewal ceremony. Todd's thoughtful approach and heartfelt words resonated with all in attendance, providing an opportunity for introspection and renewal.
 
-## Magic and Masonry: An Illuminating Exploration
+### Magic and Masonry: An Illuminating Exploration
 
 {{< figure src="/assets/img/hob-portraits/square/ralph-shelton.png" class="medium right border shadow" alt="Ilustrious Ralph Shelton, 33°" >}}
 
@@ -20,7 +20,7 @@ A special thank you goes to **Illustrious Ralph Shelton, 33°**, who regaled us 
 
 If you didn't catch Ill. Shelton's presentation, you really missed out! Stay tuned as we'll be having another Distinguished Speaker event in the coming months. You won't want to miss it!
 
- ## Larry Griffin's BBQ Delights
+ ### Larry Griffin's BBQ Delights
 
 Nothing brings a brotherhood together like a delicious meal, and **Larry Griffin** certainly delivered! We offer our warmest thanks to Larry for the mouthwatering BBQ feast that everyone thoroughly enjoyed. We look forward to more great meals at our Stated Meetings!
 
@@ -33,11 +33,11 @@ Our Spring Reunion on April 21st and 22nd was an unforgettable event, as we prou
 
 {{< carousel id="venerable-master-2023-05-carousel" image1="img/reunion5.jpg" image2="img/reunion4.jpg" image3="img/reunion3.jpg" image4="img/reunion2.jpg" image5="img/reunion1.jpg" caption="Scenes from our Spring Reunion. Welcome, brothers!" >}}
 
-## A Round of Applause for Our Degree Presenters
+### A Round of Applause for Our Degree Presenters
 
 We'd like to extend our deepest gratitude to **Hon. James Olivier**, **Matt Gage**, **Cristian Dedios**, and **Hon. David Frias** for their exceptional work in presenting the 4th, 14th, 18th, 30th, and 32nd degrees during the Spring Reunion. Your dedication and passion for sharing Masonic knowledge and wisdom truly made a difference.
 
-## Kudos to Our Lecture Crew
+### Kudos to Our Lecture Crew
 
 A special thank you to the lecture crew, **Robert Schultz** and **Robert Schmidt**, for successfully conveying a wealth of information during the day-and-a-half event. Your efforts to ensure that our new members received an enriching and enlightening experience are truly commendable.
 

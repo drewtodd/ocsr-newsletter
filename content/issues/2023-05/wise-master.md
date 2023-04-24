@@ -4,20 +4,53 @@ author: Todd Herschberg 32º
 title: Wise Master
 ---
 
-Rebirth and renewal are two of the most powerful forces in life. They offer us the opportunity to shed our old skin, leave behind that which no longer serves us, and embrace a fresh start. Whether you're looking to reinvent yourself, bounce back from a setback, or simply want to feel more energized and alive, there's no better time than now to embrace the power of a reset in life.
+## Family
 
-{{% figure src="img/image.png" class="right medium border shadow" %}}
+In Masonry, family is highly esteemed,  
+A source of strength, support, and love, it seems,  
+For in our brothers and sisters, we find  
+A bond that's steadfast, unbroken, and kind.
 
-One of the greatest things about rebirth and renewal is that they are available to us at any time. No matter how old we are or what we've been through, we always have the power to start anew. Whether you've been feeling stuck in your career, struggling in your relationships, or simply feeling lost in life, the power of rebirth and renewal can help you break free from the old patterns that have been holding you back.
+Family goes beyond just blood and relation,  
+It's a connection that endures, without hesitation,  
+It's the love we share, the memories we make,  
+The times we celebrate, and the moments we take.  
 
-One of the first steps in embracing the power of rebirth and renewal is to let go of the past. This can be easier said than done, especially if you've been carrying around emotional baggage or holding onto grudges. However, it's important to realize that the past can't be changed, and holding onto it only prevents us from moving forward.
+As Masons, we value the sanctity of family,  
+The ties that bind us, and keep us happy,  
+For in our families, we find a sense of belonging,  
+A place to call home, a space for growing.
 
-Instead of dwelling on the past, focus on the present moment and the future. What do you want to achieve? What kind of person do you want to become? What steps can you take today to move closer to your goals? By focusing on the present and the future, you can begin to create the life you truly want.
+We teach our children the ways of Masonry,  
+To live a life that's noble, virtuous, and free,  
+To value honesty, integrity, and truth,  
+To serve others, and to be of good use. 
 
-Another important aspect of rebirth and renewal is the willingness to take risks. Often, the fear of the unknown can hold us back from making changes in our lives. We worry about what might happen if we leave our comfort zones and take a chance on something new.
+But we also teach them the importance of family,  
+To cherish the ties that bind us, so grandly,  
+To be there for each other, through thick and thin,  
+And to always remember, the love within.
 
-However, it's important to remember that growth and progress often require us to step outside of our comfort zones. By taking calculated risks and embracing new opportunities, we can discover our true potential and create a life that is truly fulfilling.
+For in our families, we find a mirror,  
+A reflection of the values we hold dear,  
+The love we share is the love we give,  
+The life we lead is the life we live.  
 
-Finally, it's important to surround yourself with positivity and support. Whether it's through your Brethren, friends, family, or your community, having a supportive network makes all the difference.. When you have people who believe in you and your potential, you're more likely to approach life with a fresh vision and become a better human.
+Through Masonry, we learn to be a better person,  
+To make a positive impact, without worsen,  
+To be there for our brothers, in good times and bad,  
+To lift each other up, when we're feeling sad.  
+
+And in our families, we find a source of inspiration,  
+A reason to live, with love and appreciation,  
+For the moments we share, and the memories we create,  
+Are the ones that make life worthwhile, and great.  
+ 
+So, let us hold our families close,  
+And cherish the Masonic family, with a dose  
+Of gratitude and appreciation, for all they do,  
+For they are the ones who make life worthwhile, and see us through.
+
+{{< figure src="img/family.png" class="clear border shadow" alt="AI generated image of a family in a green meadow" >}}
 
 Sincerely & Fraternally,

@@ -68,7 +68,7 @@ obituaries:
 
 {{< calendar >}}
 
-{{< article "/issues/2023-05/general-secretary.md" >}}
+{{< article "/issues/2023-05/master-of-kadosh.md" >}}
 
 {{< dinner >}}
 
@@ -78,13 +78,9 @@ obituaries:
 
 <!-- {{< article "/issues/2023-04/senior-warden.md" >}} -->
 
-{{< article "/issues/2023-05/steward.md" >}}
-
-{{< obituary >}}
-
 {{< article "/issues/2023-05/wise-master.md" >}}
 
-{{< article "/issues/2023-05/master-of-kadosh.md" >}}
+{{< obituary >}}
 
 {{< article "/issues/2023-05/clc.md" >}}
 
