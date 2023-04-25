@@ -17,9 +17,8 @@
     <link rel="stylesheet" type="text/css" href="/assets/css/glider.css">
 
     <div class="glider">
-        {{ range $captionindex, $caption }}
-        {{ range $imgindex, $image := split (trim (.Get "images") " ") ", " }}
-            <div class="glider-slide"><img src="{{ $image }}" alt="Image {{ $caption }}"></div>
+        {{ range $index, $image := split (trim (.Get "images") " ") ", " }}
+            <div class="glider-slide"><img src="{{ $image }}" alt="Image {{ $index }}"></div>
         {{ end }}
     </div>
     <figcaption style="padding-bottom: .5em;"><p>{{ .Get "caption" }}</p></figcaption>
