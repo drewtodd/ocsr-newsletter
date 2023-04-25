@@ -31,7 +31,11 @@ Nothing brings a brotherhood together like a delicious meal, and **Larry Griffin
 
 Our Spring Reunion on April 21st and 22nd was an unforgettable event, as we proudly welcomed five new Master Masons into our Valley. The ceremony was engaging, information-packed, and left our newly initiated Masters of Royal Secret with much to contemplate. We trust that they will find great value in their new Masonic journey.
 
-{{< carousel id="venerable-master-2023-05-carousel" image1="img/reunion5.jpg" image2="img/reunion4.jpg" image3="img/reunion3.jpg" image4="img/reunion2.jpg" image5="img/reunion1.jpg" caption="Scenes from our Spring Reunion. Welcome, brothers!" >}}
+{{< carousel 
+    id="venerable-master-2023-05-carousel" 
+    images="img/reunion5.jpg, img/reunion4.jpg, img/reunion3.jpg, img/reunion2.jpg, img/reunion1.jpg" 
+    caption="Scenes from our Spring Reunion. Welcome, brothers!" 
+>}}
 
 ### A Round of Applause for Our Degree Presenters
 
@@ -62,6 +66,10 @@ David Gilman, a newly initiated Scottish Rite mason, was raised at Saddleback La
 ### Ryan Gonzales, 32°
 
 ### Ross Hernandez, 32°
+
+{{< figure src="img/ross-hernandez.jpg" class="medium right border shadow" alt="Newly initiated Scottish Rite member, Ross Hernandez, 32°" >}}
+
+Ross Hernandez was raised as a Master Mason in June 2019. He joined the Scottish Rite of Freemasonry to seek further light in Masonry and sees it as the next stage in his path after the blue lodge. Ross enjoys camping, mountain biking, reading, attending live concerts, charity work, and volunteerism. He also spends time with his brothers and friends and hopes to resume Brazilian Jiu-jitsu after an injury. Ross considers delivering a lecture in Lodge as his most significant Masonic experience and learned that the effort put into memory work benefits both the recipient and himself. In the Scottish Rite, he aspires to bring his experience from the blue lodge and positively impact the organization as he continues to learn and grow. Ross plans to contribute to the Masonic community at large by working at the blue lodge and the Scottish Rite.
 
 ### Andrew Swingler, 32°
 

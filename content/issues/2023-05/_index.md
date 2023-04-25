@@ -36,21 +36,20 @@ calendar:
 
 # Dinner details (optional)
 dinner:
-    - vendor: Brew Hawg BBQ
+    - vendor: Olive Garden
       items:
-        - BBQ ribs
-        - Pulled pork
-        - Brisket
-        - BBQ baked beans
-        - Mac and cheese
-        - Rolls
-        - Tea
+        - Spaghetti
+        - Fettuccine
+        - 3 Sauces
+        - 3 Meat Toppings (Meatballs, Sausage, Chicken)
+        - Bread sticks
+        - Salad
       cost: $15
       name: Larry Griffin
       rsvpRequired: true
       rsvpUrl: https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=5219dacb10&attribution=false
-      image: ./img/brew-hawg-bbq.webp
-      imageAlt: King Pollo chicken logo
+      image: ./img/Olive_Garden_Logo.png
+      imageAlt: Olive Garden logo
 
 # Obituaries (optional)
 obituaries:
