@@ -8,7 +8,7 @@ title: Master of Kadosh
 
 Freemasonry has been a part of American culture for centuries, and is often associated with secret rituals and mysterious symbols. However, what many people don't know is that Freemasonry is also built on a foundation of strong family values and a commitment to community service.
 
-{{< figure src="img/service.png" class="right border shadow" alt="AI generated image of the concept of community service" >}}
+{{< figure src="img/service.png" class="right large border shadow" alt="AI generated image of the concept of community service" >}}
 
 At its core, Freemasonry is a fraternity of men who share a common belief in the importance of family, community, and charity. Members of the Masonic Lodge are encouraged to prioritize their families and to be active in their communities, volunteering their time and resources to help those in need.
 

@@ -87,7 +87,7 @@ And lest you think I'm skipping out on my monthly theme on Stoicism, fear not! I
 
 In this third installment of our year-long series on Stoicism, we delve into the life and teachings of Epictetus, one of the most influential Stoic philosophers. In previous articles, we've explored the foundations of Stoicism, its relation to Masonic philosophy, and examined the lives and ideas of other prominent Stoic figures. Now, let's turn our attention to the life, philosophy, and impact of Epictetus, and examine how his teachings align with the principles we uphold as Scottish Rite Masons.
 
-{{< figure src="img/epectitus2.png" class="full border shadow" alt="An AI-generated image of a sculpture of the philosopher Epectitus" >}}
+{{< figure src="img/epectitus2.png" class="clear border shadow" alt="An AI-generated image of a sculpture of the philosopher Epectitus" >}}
 
 ### Epictetus: A Life of Adversity
 
@@ -97,7 +97,7 @@ Epictetus (circa 50-135 AD) was born in Hierapolis, Phrygia (present-day Turkey)
 
 His life took a turn for the better after he was granted his freedom following the death of Nero. Epictetus began teaching philosophy in Rome, but when Emperor Domitian banished all philosophers from the city in 89 AD, he relocated to Nicopolis in Greece. There, he founded a school and taught philosophy for the rest of his life.
 
-{{< figure src="img/epectitus1.png" class="full border shadow" alt="An AI-generated image of the philosopher Epectitus" >}}
+{{< figure src="img/epectitus1.png" class="clear border shadow" alt="An AI-generated image of the philosopher Epectitus" >}}
 
 ### Philosophy and Teachings
 
@@ -107,7 +107,7 @@ Epictetus's teachings were primarily passed down through the works of his studen
 
 Epictetus believed that our happiness and well-being depend on how we respond to external events, rather than the events themselves. He taught that by cultivating inner strength and self-control, we can achieve a state of tranquility and contentment. One of his most famous quotes encapsulates this idea: "Men are disturbed not by things, but by the views which they take of them."
 
-{{< figure src="img/epectitus3.png" class="full border shadow" alt="An AI-generated image of the philosopher Epectitus teaching students" >}}
+{{< figure src="img/epectitus3.png" class="clear border shadow" alt="An AI-generated image of the philosopher Epectitus teaching students" >}}
 
 ### The Impact of Epictetus
 

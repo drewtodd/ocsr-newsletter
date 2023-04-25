@@ -73,13 +73,13 @@ obituaries:
 
 {{< article "/issues/2023-05/venerable-master.md" >}}
 
-{{< website-promo >}}
+{{< summer-attire >}}
 
 <!-- {{< article "/issues/2023-04/senior-warden.md" >}} -->
 
 {{< article "/issues/2023-05/wise-master.md" >}}
 
-{{< obituary >}}
+{{< website-promo >}}
 
 {{< article "/issues/2023-05/clc.md" >}}
 
