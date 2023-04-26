@@ -26,7 +26,6 @@ Nothing brings a brotherhood together like a delicious meal, and **Larry Griffin
 
 ---
 
-
 ## A Warm Welcome to Our New Masters of the Royal Secret
 
 Our Spring Reunion on April 21st and 22nd was an unforgettable event, as we proudly welcomed five new Master Masons into our Valley. The ceremony was engaging, information-packed, and left our newly initiated Masters of Royal Secret with much to contemplate. We trust that they will find great value in their new Masonic journey.
@@ -64,6 +63,10 @@ Paxton Dickerson has a strong background in studying Sacred Geometry, Alchemy, a
 David Gilman, a newly initiated Scottish Rite mason, was raised at Saddleback Laguna Lodge no. 672 in Lake Forest. He was attracted to the Scottish Rite because of its reputation as the "University of Freemasonry" and the opportunities for greater learning. David is a Certified Public Accountant in California and an avid musician, serving as Treasurer on the temple board for his lodge and as Lodge Organist on classical guitar. Balancing Masonic commitments with his personal life has not been an issue. All of his degrees, both Blue Lodge and Scottish Rite, have been tremendously significant, and he wants to attend events and keep learning. David hopes to contribute by doing financial work, playing music, or assisting with degrees. He enjoyed meeting and working with everyone at the OCSR and looks forward to working with them again soon.
 
 ### Ryan Gonzales, 32°
+
+{{< figure src="img/ryan-gonzales.jpg" class="medium right border shadow" alt="Newly initiated Scottish Rite member, Ryan Gonzales, 32°" >}}
+
+Ryan Gonzalez was raised as a Scottish Rite Mason on December 8th, 2023, with the intention of seeking further knowledge and understanding of the esoteric meaning in the degrees. He hopes to build bonds with like-minded brethren and become a more compassionate and understanding person. His hobbies include golfing, camping, and spending time with his family. His most significant Masonic experience was going through the degrees of the Scottish Rite, where he discovered that there are other brothers with similar interests. His goal is to learn and enjoy the experience to understand his purpose and show others the way to self-discovery.
 
 ### Ross Hernandez, 32°
 
