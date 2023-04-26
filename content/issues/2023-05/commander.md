@@ -45,7 +45,7 @@ And coming in at number one is Guthrie, Oklahoma.  I had never even heard of Gut
 
 The season of renewal is upon us, and what better way to welcome Spring than with a hearty and delicious breakfast feast? We are excited to invite you to our Spring Super Breakfast, which will be held on Sunday, May 7th at the Anaheim Demolay Center. This event is a perfect opportunity for us to gather as brothers and share in the joy of fellowship.
 
-> Get your tickets now for the **Spring Super Breakfast, Saturday, May 7th** at the Anaheim Demolay Center. Tickets are $20; get in touch with me if need tickets.
+> Get your tickets now for the **Spring Super Breakfast, Sunday, May 7th** at the Anaheim Demolay Center. Tickets are $20; get in touch with me if need tickets.
  
 Our breakfast menu includes pancakes, bacon, eggs, and all the fixings. It's the perfect way to start your day and get energized for whatever lies ahead. Whether you're a morning person or not, we guarantee that you won't want to miss out on this feast!
 
