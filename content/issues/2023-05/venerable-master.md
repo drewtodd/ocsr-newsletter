@@ -42,7 +42,7 @@ We'd like to extend our deepest gratitude to **Hon. James Olivier**, **Matt Gage
 
 ### Kudos to Our Lecture Crew
 
-A special thank you to the lecture crew, **Robert Schultz**, **Lucas**, and **Robert Schmidt**, for successfully conveying a wealth of information during the day-and-a-half event. Your efforts to ensure that our new members received an enriching and enlightening experience are truly commendable.
+A special thank you to the lecture crew, **Robert Schultz**, **Lucas Kastner**, and **Robert Schmidt**, for successfully conveying a wealth of information during the day-and-a-half event. Your efforts to ensure that our new members received an enriching and enlightening experience are truly commendable.
 
 ---
 
