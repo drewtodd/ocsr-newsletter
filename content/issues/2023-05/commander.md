@@ -55,5 +55,5 @@ Tickets for this event are $12 each ($6 for kids) and can be purchased now. If y
 
 The Spring Super Breakfast is more than just a meal; it's a chance to bond with your brothers and strengthen the ties of our fraternity. We look forward to seeing you there and sharing in this delightful experience together.
 
-Photo by <a href="https://unsplash.com/@calumlewis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Calum Lewis</a> on <a href="https://unsplash.com/photos/8Nc_oQsc2qQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+**Photo by <a href="https://unsplash.com/@calumlewis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Calum Lewis</a> on <a href="https://unsplash.com/photos/8Nc_oQsc2qQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.**
   
