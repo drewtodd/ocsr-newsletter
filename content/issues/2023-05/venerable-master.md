@@ -10,7 +10,7 @@ Brothers! So much to cover! Let's dig into the highlights of the month of March.
 
 ### A Moving Remembrance and Renewal Ceremony
 
-We extend our sincerest gratitude to Wise Master Todd Herschberg for leading last month's Stated Meeting, where he conducted a profoundly moving Remembrance and Renewal ceremony. Todd's thoughtful approach and heartfelt words resonated with all in attendance, providing an opportunity for introspection and renewal.
+We extend our sincerest gratitude to Wise Master **Todd Herschberg** for leading last month's Stated Meeting, where he conducted a profoundly moving Remembrance and Renewal ceremony. Todd's thoughtful approach and heartfelt words resonated with all in attendance, providing an opportunity for introspection and renewal.
 
 ### Magic and Masonry: An Illuminating Exploration
 
@@ -82,9 +82,9 @@ Andrew Swingler was raised as a Master Mason on June 23rd, 2022. He joined the S
 
 In closing, we celebrate the continued growth and camaraderie of our Masonic community. As we forge ahead, let us remember the bonds that unite us and the principles that guide our journey. To our new Masters of the Royal Secret, welcome to the brotherhood, and to all our brothers, thank you for your ongoing dedication and service to our fraternity.
 
-And lest you think I'm skipping out on my monthly theme on Stoicism, fear not! I've got you covered. Allow me to enlighten you on the teachings of one of Stoicism's most infulential philosophers, **Epectitus**.
-
 ---
+
+And lest you think I'm skipping out on my monthly theme on Stoicism, fear not! I've got you covered. Allow me to enlighten you on the teachings of one of Stoicism's most infulential philosophers, **Epectitus**.
 
 ## The Life, Philosophy, and Impact of Epictetus: A Stoic's Journey
 
