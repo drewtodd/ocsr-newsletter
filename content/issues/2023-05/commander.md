@@ -43,12 +43,12 @@ And coming in at number one is Guthrie, Oklahoma.  I had never even heard of Gut
 
 ## Spring Super Breakfast Is Almost Here
 
-The season of renewal is upon us, and what better way to welcome Spring than with a hearty and delicious breakfast feast? We are excited to invite you to our Spring Super Breakfast, which will be held on Sunday, May 7th at the Anaheim Demolay Center. This event is a perfect opportunity for us to gather as brothers and share in the joy of fellowship.
+The season of renewal is upon us, and what better way to welcome Spring than with a hearty and delicious breakfast feast? We are excited to invite you to our Spring Super Breakfast, which will be held on **Sunday, May 7th from 9am-12pm** at the **Anaheim Demolay Center**. This event is a perfect opportunity for us to gather as brothers and share in the joy of fellowship.
 
-> Get your tickets now for the **Spring Super Breakfast, Sunday, May 7th** at the Anaheim Demolay Center. Tickets are $20; get in touch with me if need tickets.
+> Get your tickets now for the **Spring Super Breakfast, Sunday, May 7th** at the Anaheim Demolay Center. Tickets are $12 ($6 for kids); [get in touch with me if you need tickets](mailto:magager@gmail.com).
  
-Our breakfast menu includes pancakes, bacon, eggs, and all the fixings. It's the perfect way to start your day and get energized for whatever lies ahead. Whether you're a morning person or not, we guarantee that you won't want to miss out on this feast!
+Our breakfast menu includes **custom omelets**, **waffles**, **biscuits and gravy**, **bacon**, and **home-fried potatoes**, along with a selection of **juices** and **coffee**. It's the perfect way to start your day and get energized for whatever lies ahead. Whether you're a morning person or not, we guarantee that you won't want to miss out on this feast!
 
-Tickets for this event are $20 each and can be purchased now. If you need tickets, please get in touch with Matt Gage at magager@gmail.com. We encourage you to get your tickets early as they are expected to sell out quickly.
+Tickets for this event are $12 each ($6 for kids) and can be purchased now. If you need tickets, please get in touch with Matt Gage at magager@gmail.com. We encourage you to get your tickets early as they are expected to sell out quickly.
 
 The Spring Super Breakfast is more than just a meal; it's a chance to bond with your brothers and strengthen the ties of our fraternity. We look forward to seeing you there and sharing in this delightful experience together.
