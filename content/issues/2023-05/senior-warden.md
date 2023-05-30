@@ -6,21 +6,22 @@ title: Senior Warden
 
 Greetings from the West!
 
-If you weren’t already aware, Art de Hoyos has published a reprint of Albert Pike’s “The Porch and the Middle Chamber: The Book of the Lodge.” In brief, this book touches upon the first 3 degrees of Scottish Rite Masonry. [In speaking of Albert Pike’s effort] “It was prepared to provide Scottish Rite Masons with the lessons necessary to understand the higher degrees of Masonry more fully (de Hoyos).” 
+We are excited to invite you to our first Classroom Lecture Series of the year on Saturday, May 13th! This informative session will be held at the Anaheim Demolay Center from 8am-5pm. 
 
-{{% figure src="img/porch-inside.jpg" class="right medium border shadow" %}}
+During this event, we will be doing a deep-dive into the materials presented in the 4th-32nd degrees during our past weekend's reunion. It's a great opportunity to expand your knowledge and understanding of the Scottish Rite.
 
-This book, and many other wonderful volumes of Craft Knowledge is provided free to each member of the Scottish Rite Research Society. If you are not a member of the SSRS, I would highly recommend committing to the $55 yearly dues fee. Some of these books are estimated to be hundreds of dollars, and the content: invaluable!
+> Please make plans to join us on **Saturday, May 13th** for our first **Classroom Lecture Series** of the year! This informative session runs from 8am-5pm at the Anaheim Demolay Center.
 
-Ill. DeHoyos has also given mention that he may consider creating yet another Master Craftsman program based on this book!
+Our Classroom Lecture Series is an ongoing program designed to enhance your Masonic education. It's a collaborative learning experience where we explore Masonic teachings, symbolism, history, and philosophy. The lectures are presented by experienced Masons who are experts in their respective fields, ensuring that you receive accurate and valuable information.
 
-Want to nerd-out? Reach out anytime to discuss this, Master Craftsman, or all things Masonic Education. I’d love to hear from you!
+We encourage all brethren, regardless of their degree, to attend this event. It's an excellent opportunity to gain insight into the Scottish Rite and its teachings. We welcome any questions you may have, and our presenters will be available to answer them during the Q&A session at the end of each lecture.
 
-{{% figure src="img/the-porch-composite.png" class="full shadow" %}}
+We are committed to providing you with the best educational opportunities available, and our Classroom Lecture Series is just one of the many ways we do that. We hope you'll join us on May 13th for this exciting event.
 
-Also save the dates! The Classroom Education Lecture series will be held on two Saturdays;
-
-- May 13th, 2023 @ the DeMolay Center 0800-1700
-- November 4th, 2023 @ the DeMolay Center 0800-1700
+*Coffee, doughnuts, snacks, lunch, and refreshments provided at no cost, although [RSVP](https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=e72f8e8d54&attribution=false) is required*
 
 For more info, please visit: https://www.ocscottishrite.org/classroom-lecture-series/
+
+<br><button class="button"><a href="https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=e72f8e8d54&attribution=false">Reserve your spot now!</a></button>
+
+Fraternally,

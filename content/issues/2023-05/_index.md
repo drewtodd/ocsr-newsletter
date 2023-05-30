@@ -47,7 +47,7 @@ dinner:
       cost: $15
       name: Larry Griffin
       rsvpRequired: true
-      rsvpUrl: https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=5219dacb10&attribution=false
+      rsvpUrl: https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=1da205d366&attribution=false
       image: ./img/Olive_Garden_Logo.png
       imageAlt: Olive Garden logo
 
@@ -66,6 +66,8 @@ obituaries:
 {{< article "/issues/2023-05/commander.md" >}}
 
 {{< calendar >}}
+
+{{< article "/issues/2023-05/senior-warden.md" >}}
 
 {{< article "/issues/2023-05/master-of-kadosh.md" >}}
 
