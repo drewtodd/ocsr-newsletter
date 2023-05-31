@@ -22,20 +22,19 @@ calendar:
 
 # Dinner details (optional)
 dinner:
-    - vendor: Olive Garden
+    - vendor: Surf City Kitchen
       items:
-        - Spaghetti
-        - Fettuccine
-        - 3 Sauces
-        - 3 Meat Toppings (Meatballs, Sausage, Chicken)
-        - Bread sticks
+        - Taco bar
+        - 3 Meat fillings (pollo, carne asada, carnitas)
+        - Assorted salsas
+        - Assoted toppings
         - Salad
       cost: $15
       name: Larry Griffin
       rsvpRequired: true
       rsvpUrl: https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=5219dacb10&attribution=false
-      image: ./img/Olive_Garden_Logo.png
-      imageAlt: Olive Garden logo
+      image: ./img/taco.jpg
+      imageAlt: A taco icon
 
 # Obituaries (optional)
 obituaries:
