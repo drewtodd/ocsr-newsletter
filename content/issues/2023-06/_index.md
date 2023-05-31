@@ -12,13 +12,13 @@ calendar:
       event: Stated Meeting
       location: Anahiem Demolay Center
       time: 6:30pm
-      note: Cap and ring ceremony and dinner to follow
+      notes: Cap and ring ceremony and dinner to follow
 
     - date: July 10, 2023
       event: Stated Meeting
       location: Anahiem Demolay Center
       time: 6:30pm
-      note: Masonic talk and dinner to follow
+      notes: Masonic talk and dinner to follow
 
 # Dinner details (optional)
 dinner:
