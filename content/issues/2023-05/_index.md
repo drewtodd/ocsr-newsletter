@@ -47,7 +47,7 @@ dinner:
       cost: $15
       name: Larry Griffin
       rsvpRequired: true
-      rsvpUrl: https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=1da205d366&attribution=false
+      rsvpUrl: https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=eff30434e4&attribution=false
       image: ./img/Olive_Garden_Logo.png
       imageAlt: Olive Garden logo
 
