@@ -73,17 +73,17 @@ obituaries:
 
 {{< dinner >}}
 
-{{< summer-attire >}}
-
-{{< website-promo >}}
-
 {{< article "/issues/2023-07/clc.md" >}}
 
 {{< clc-masthead >}}
 
 {{< clc-donate >}}
 
+{{< summer-attire >}}
+
 {{< article "/issues/2023-07/editor.md" >}}
+
+{{< website-promo >}}
 
 {{< officers >}}
 
