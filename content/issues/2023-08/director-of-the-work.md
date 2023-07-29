@@ -11,11 +11,11 @@ Ever had the feeling that you were an island surrounded by an unending ocean? Th
 “Everything we want in life lies on the other side of fear.”
 “Every man in that room has gone through the same exact ceremony you’re about to be a part of… mostly intact. You have nothing to fear, my friend.”
 
-> **fra-TER-ni-ty [n]:** The state or feeling of friendship and mutual support within a group.
+{{< figure src="img/a_lonely_man_sitting_cross-legged_on_a_small_island.png" class="clear border shadow" caption="This is the opposite of that." >}}
 
 Now if I could’ve only pulled my head out of my rear end for 5 minutes to let that settle in… alas, it wasn’t to be. Before I knew it, I had a few gentlemen in aprons come out and fetched me to be prepared to receive my first degree in Masonry. A rush of excitement and a twinge of fear washed over me. I was about to become a Freemason. Who forgets that moment? But that wasn’t the only thing, what I hadn’t considered were the true and lasting friendships that came with it. Sure, my Brother-in-Law was already a member (you all know Hon. McCallion) and was to be my coach. It was everyone else that came along that was the pleasant surprise. People among whom, I had shared interests and was able to form true friendships as we all marched up this mountain together. 
 
-{{< figure src="img/one_mountain_climber_helping_another_up_a_steep.png" class="clear border shadow" caption="Learn by doing. Help others. Accept others' help." >}}
+> **fra-TER-ni-ty [n]:** The state or feeling of friendship and mutual support within a group.
 
 I learned very quickly that we learn in Masonry by doing. After I gave my third proficiency, I was fairly quickly assigned to a new candidate and began my own journey as a coach. Then came the Scottish Rite, many members of our class are still very active in the Rite. We learn by doing… so we did! Then Bro. Frankie Rosario performed the 14th Degree for me as Venerable Master. He then handed me the reigns of the degree… so I did. Illustrious Bob Hjorth made me Director of Ritual and eventually when he was ready to stand down, made me Director of The Work… so I did. All the while, through rehearsals, conferrals, cap and ring ceremonies, the laughs, the fun and the occasional chaos of reunions, along with the little group that makes up “The Little Valley That Could.” We’ve become friends, our shared passions, our shared interests, that, my friends, is where fraternity exists. I know I’ve said “I did” a bunch, but let’s not doubt for one second that I could’ve done any of this on my own.
 
