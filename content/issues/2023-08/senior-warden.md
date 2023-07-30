@@ -12,11 +12,11 @@ Everybody Googles, so I did a simple search on Quora: “What is a fraternity an
 
 All of these are true and meaningful to the individual, but scholarship deeply resonates with me. Having a rich understanding of our history and philosophy and how obtaining that knowledge and facilitating its subsequent wisdom sculpts us as members within our organizations. 
 
-> Fraternity to me has always been a safe space where we can take the time to do the inner work and attempt to perfect our own temple through familiarizing ourselves with the literature and discovering how that wisdom translates best into action.
+{{< figure src="img/a_collection_of_leatherbound_scholarly_books_on.png" class="clear border shadow" caption="There are scholarly programs throughout all bodies of Freesmasonry" >}}
 
 As director of education, I would be remiss not to emphasis the importance of Scottish Rite education, but honestly, I advocate all of the education programs throughout the Masonic family should you be a member. Did you know that other bodies in Freemasonry have education programs too? You can find the first 3 degrees of blue lodge masonry and lodge management education on iMember.  Scottish Rite has an entire online college (5 Master Craftsman courses) and Guthrie Valley offers the College of the Consistory and the Academy of Reflection (we have a chapter here in OC).  The York Rite has the Companion Adept of the Temple Program and a York Rite Leadership Program. Masonic research bodies have education programs as well!
 
-{{< figure src="img/a_collection_of_leatherbound_scholarly_books_on.png" class="clear border shadow" caption="There are scholarly programs throughout all bodies of Freesmasonry" >}}
+> Fraternity to me has always been a safe space where we can take the time to do the inner work and attempt to perfect our own temple through familiarizing ourselves with the literature and discovering how that wisdom translates best into action.
 
 Why is scholarship important? Let me ask you… 
 
