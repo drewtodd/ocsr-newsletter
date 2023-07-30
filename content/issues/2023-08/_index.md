@@ -34,18 +34,18 @@ dinner:
       cost: $15
       name: Larry Griffin
       rsvpRequired: true
-      rsvpUrl: https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=1c83b6eee0&attribution=false
+      rsvpUrl: https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=8b399b482c&attribution=false
       image: img/brew-hawg-bbq.webp
       imageAlt: Brew Hwg BBQ logo
 
 # Distinguished Speaker details (optional)
 speaker:
-    - speakerName: Dr. Scot Trodic, 32°
-      topic: Masonry and Innovation in the Year 2050
+    - speakerName: Hon. James McCallion, 32° KCCH
+      topic: Masonic Jeoparty!
       dateTime: Monday, July 10th at 7:00pm
       location: Anaheim Demolay Center, 303 W Lincoln Ave in Anaheim, California 92805
-      image: img/Scot-Trodick-promo.png
-      imageAlt: "The Orange County Scottish Rite Presents: Masonry and Innovation in the Year 2050, a presentation by Dr. Scot Trodic, 32°"
+      image: img/masonic-jeoparty.jpg
+      imageAlt: "The Orange County Scottish Rite Presents: Masonic Jeoparty! A interactive presentation by Hon. James McCallion, 32° KCCH"
       
 # Obituaries (optional)
 obituaries:
