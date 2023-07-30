@@ -10,9 +10,9 @@ I’ve had the fortunate experience and pleasure of being a member of several fr
 
 Everybody Googles, so I did a simple search on Quora: “What is a fraternity and what is the point of joining a fraternity?” Generally speaking, most of the responses danced around “Fraternity life” as offering many benefits. They suggested that friendships, fellowship, bonding, brotherhood, identification with a group, sharing of ideas, developing meaningful relationships, leadership development, scholarship, and philanthropy were all aspects of Fraternity, which contribute to the experience as a whole.
 
-All of these are true and meaningful to the individual, but scholarship deeply resonates with me. Having a rich understanding of our history and philosophy and how obtaining that knowledge and facilitating its subsequent wisdom sculpts us as members within our organizations. 
-
 {{< figure src="img/a_collection_of_leatherbound_scholarly_books_on.png" class="clear border shadow" caption="There are scholarly programs throughout all bodies of Freesmasonry" >}}
+
+All of these are true and meaningful to the individual, but scholarship deeply resonates with me. Having a rich understanding of our history and philosophy and how obtaining that knowledge and facilitating its subsequent wisdom sculpts us as members within our organizations. 
 
 As director of education, I would be remiss not to emphasis the importance of Scottish Rite education, but honestly, I advocate all of the education programs throughout the Masonic family should you be a member. Did you know that other bodies in Freemasonry have education programs too? You can find the first 3 degrees of blue lodge masonry and lodge management education on iMember.  Scottish Rite has an entire online college (5 Master Craftsman courses) and Guthrie Valley offers the College of the Consistory and the Academy of Reflection (we have a chapter here in OC).  The York Rite has the Companion Adept of the Temple Program and a York Rite Leadership Program. Masonic research bodies have education programs as well!
 
