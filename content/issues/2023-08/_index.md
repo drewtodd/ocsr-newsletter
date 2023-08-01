@@ -42,7 +42,7 @@ dinner:
 speaker:
     - speakerName: Hon. James McCallion, 32° KCCH
       topic: Masonic Jeoparty!
-      dateTime: Monday, July 10th at 7:00pm
+      dateTime: Monday, August 7th at 7:00pm
       location: Anaheim Demolay Center, 303 W Lincoln Ave in Anaheim, California 92805
       image: img/masonic-jeoparty.jpg
       imageAlt: "The Orange County Scottish Rite Presents: Masonic Jeoparty! A interactive presentation by Hon. James McCallion, 32° KCCH"
