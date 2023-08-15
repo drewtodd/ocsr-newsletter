@@ -1,6 +1,6 @@
 ---
 image: kadosh-badge.jpg
-author: Tom Olsen, 32º
+author: Alejo Velarde, 32º
 title: Commander of Kadosh
 ---
 

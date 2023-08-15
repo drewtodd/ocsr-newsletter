@@ -1,20 +1,26 @@
 ---
 title: The Orange County Scottish Rite News
 volume: 9
-number: 8
-issueDate: August 2023
-publishDate: August 1, 2023
+number: 9
+issueDate: September 2023
+publishDate: September 1, 2023
 layout: issue
 
 # Calendar information
 calendar:
-    - date: August 7, 2023
+    - date: September 11, 2023
       event: Stated Meeting
       location: Anahiem Demolay Center
       time: 6:30pm
       notes: Valley Talk with dinner - Masonry and Innovation in the year 2050
 
-    - date: September 11, 2023
+    - date: September 9, 2023
+      event: Honors
+      location: Long Beach Scottish Rite
+      time: 
+      notes: 
+
+    - date: October 2, 2023
       event: Stated Meeting
       location: Anahiem Demolay Center
       time: 6:30pm
@@ -22,30 +28,29 @@ calendar:
 
 # Dinner details (optional)
 dinner:
-    - vendor: Brew Hawg BBQ
+    - vendor: Olive Garden
       items:
-        - BBQ ribs
-        - Pulled pork
-        - Brisket
-        - BBQ baked beans
-        - Mac and cheese
-        - Rolls
-        - Tea
+        - Spaghetti and Fettuccine
+        - Alfredo, meat, and marinara sauces
+        - Meatballs, Italian Sausage, and grilled chicken
+        - Salad
+        - Bread sticks
+
       cost: $15
       name: Larry Griffin
       rsvpRequired: true
-      rsvpUrl: https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=8b399b482c&attribution=false
-      image: img/brew-hawg-bbq.webp
-      imageAlt: Brew Hwg BBQ logo
+      rsvpUrl: https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=21e1bbda40&attribution=false
+      image: /assets/img/logos/Olive_Garden_Logo.png
+      imageAlt: Olive Garden logo
 
 # Distinguished Speaker details (optional)
 speaker:
-    - speakerName: Hon. James McCallion, 32° KCCH
-      topic: Masonic Jeoparty!
-      dateTime: Monday, August 7th at 7:00pm
+    - speakerName: Dr. Scot Todric, 32°
+      topic: Masonry and Innovation in the Year 2050
+      dateTime: Monday, September 11th at 7:00pm
       location: Anaheim Demolay Center, 303 W Lincoln Ave in Anaheim, California 92805
-      image: img/masonic-jeoparty.jpg
-      imageAlt: "The Orange County Scottish Rite Presents: Masonic Jeoparty! A interactive presentation by Hon. James McCallion, 32° KCCH"
+      image: img/Scot-Trodick-promo.png
+      imageAlt: "The Orange County Scottish Rite Presents: Masonry and Innovation in the Year 2025, a presentation by Dr. Scot Todric, 32°"
       
 # Obituaries (optional)
 obituaries:
@@ -59,35 +64,37 @@ obituaries:
 
 ---
 
-{{< article "/issues/2023-08/director-of-the-work.md" >}}
-
-{{< calendar >}}
-
-{{< article "/issues/2023-08/wise-master.md" >}}
-
-{{< distinguished-speaker >}}
-
-{{< article "/issues/2023-08/general-secretary.md" >}}
-
-{{< dinner >}}
-
-{{< article "/issues/2023-08/senior-warden.md" >}}
-
-{{< summer-attire >}}
-
-{{< article "/issues/2023-08/venerable-master.md" >}}
-
-{{< article "/issues/2023-08/commander.md" >}}
-
-{{< article "/issues/2023-08/master-of-kadosh.md" >}}
-
-{{< article "/issues/2023-08/clc.md" >}}
+{{< article "/issues/2023-09/clc.md" >}}
 
 {{< clc-masthead >}}
 
 {{< clc-donate >}}
 
-{{< article "/issues/2023-08/editor.md" >}}
+{{< article "/issues/2023-09/pr.md" >}}
+
+{{< calendar >}}
+
+{{< article "/issues/2023-09/venerable-master.md" >}}
+
+{{< distinguished-speaker >}}
+
+{{< article "/issues/2023-09/senior-warden.md" >}}
+
+{{< dinner >}}
+
+{{< article "/issues/2023-09/wise-master.md" >}}
+
+{{< summer-attire >}}
+
+{{< article "/issues/2023-09/master-of-kadosh.md" >}}
+
+{{< website-promo >}}
+
+{{< article "/issues/2023-09/commander.md" >}}
+
+{{< article "/issues/2023-09/general-secretary.md" >}}
+
+{{< article "/issues/2023-09/editor.md" >}}
 
 {{< website-promo >}}
 
