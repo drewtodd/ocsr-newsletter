@@ -8,17 +8,17 @@ layout: issue
 
 # Calendar information
 calendar:
+    - date: September 9, 2023
+      event: Biennial Honors Ceremony
+      location: Long Beach Scottish Rite Cultural Center; 855 Elm Avenue, Long Beach CA 90813
+      time: 1:30pm
+      notes: 
+
     - date: September 11, 2023
       event: Stated Meeting
       location: Anahiem Demolay Center
       time: 6:30pm
       notes: Valley Talk with dinner - Masonry and Innovation in the year 2050
-
-    - date: September 9, 2023
-      event: Honors
-      location: Long Beach Scottish Rite
-      time: 
-      notes: 
 
     - date: October 2, 2023
       event: Stated Meeting

@@ -10,7 +10,7 @@ I want to take a moment to thank all the brothers who stuck around for dinner af
 ### Masonic Jeoparty!
 Special thanks to our Senior Warden, Hon. James McCallion for hosting a rousing round of "Masonic Jeoparty!" For those who couldn't make it to this event, it's exactly what it sounds like: A game show-format with Masonic-themed answers and questions. It was a lot of fun, and we got to see some of our brothers flex their Masonic knowledge muscles. Brother McCallion did a superb job of putting together a group of answers that really challenged the contestants, and everyone in the room.
 ### A Visit from the Shrine
-We had the honor of hosting the Potentate of the El Bekal Shrine (and Scottish Rite brother) Illustrious Sir. Merrett Read and his lovely wife, Kim. Sir. In addition to members from El Bekal, we had the privilege of hosting Ill. ******** from the Long Beach Scottish Rite. They brought life to our meeting and stayed for dinner and games afterward. A heartfelt thanks to all of our visitors for attending and gracing us with your words and presence.
+We had the honor of hosting the Potentate of the El Bekal Shrine (and Scottish Rite brother) Illustrious Sir. Merrett Read and his lovely wife, Kim. Sir. In addition to members from El Bekal, we had the privilege of hosting Ill. Gregory Gabriel and Ill. Ron Alcorn from the Pasadena Scottish Rite. They brought life to our meeting and stayed for dinner and games afterward. A heartfelt thanks to all of our visitors for attending and gracing us with your words and presence.
 
 {{< carousel 
     id="2023-09-ocsr-slides" 
