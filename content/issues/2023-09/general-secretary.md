@@ -4,7 +4,7 @@ author: Jamie Hopkins, 32° KCCH
 title: General Secretary
 ---
 
-Brethren: With the start of Fall later this month, 2023 is passing quickly. This month, our dues notices for 2024 membership will be arriving. Dues can now be paid online with a credit card. A link on our OC Scottish Rite website (ocscottishrite.org) will take you to the payment portal. And, you are still welcome to send your check in to the Valley Office. If you have any questions about your membership status, please contact the Secretary.
+Brethren: With the start of Fall later this month, 2023 is passing quickly. This month, our dues notices for 2024 membership will be arriving. Dues can now be [paid online](https://members.scottishrite.org/login/) with a credit card. And, you are still welcome to send your check in to the Valley Office. If you have any questions about your membership status, please contact the Secretary.
 
 Along with our Personal Representative, I had the great opportunity to attend the Biennial Meeting of the Ancient & Accepted Scottish Rite (S.J.) in Washington D.C. in late August. A major theme discussed was Restoration, Retention & Engagement of members. Restoration involves bringing back members who may have demitted or been suspended. This also includes Brothers who are several years behind in their dues and not yet suspended. We have very favorable programs in place that involve a reduced charge to become current or reactivate your membership. Also, any Brother who demitted in good standing only has to pay the current year's dues to reactivate his membership.
 
