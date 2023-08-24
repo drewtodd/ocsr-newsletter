@@ -64,11 +64,7 @@ obituaries:
 
 ---
 
-{{< article "/issues/2023-09/clc.md" >}}
-
-{{< clc-masthead >}}
-
-{{< clc-donate >}}
+<!-- {{< article "/issues/2023-09/clc.md" >}} -->
 
 {{< article "/issues/2023-09/pr.md" >}}
 
@@ -91,6 +87,10 @@ obituaries:
 {{< website-promo >}}
 
 {{< article "/issues/2023-09/commander.md" >}}
+
+{{< clc-masthead >}}
+
+{{< clc-donate >}}
 
 {{< article "/issues/2023-09/general-secretary.md" >}}
 

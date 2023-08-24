@@ -21,7 +21,7 @@ We had the honor of hosting the Potentate of the El Bekal Shrine (and Scottish R
 ## Applying Stoic Wisdom to Our Modern Lives: Part 1 – Reflection
 Greetings, brothers. Our journey through the rich history of Stoic philosophy has so far acquainted us with its prominent figures – Zeno, Epictetus, Seneca, and Marcus Aurelius. As we've uncovered their timeless wisdom, the question that naturally arises is, “How can I apply these Stoic principles to my modern-day life?” 
 
-Wonder no more. This article marks the beginning of a pivot in our series where we focus on practical applications., focusing on three essential Stoic practices:
+Wonder no more. This article marks the beginning of a pivot in our series where we look at practical applications, focusing on three essential Stoic practices:
 
 1. **Reflection** 
 2. **Negative Visualization**
