@@ -26,6 +26,11 @@ calendar:
       time: 6:30pm
       notes: Dinner to follow
 
+    - date: October 6-7, 2023
+      event: Fall Reunion
+      location: Anahiem Demolay Center
+      time: Friday evening, Saturday morning
+      
 # Dinner details (optional)
 dinner:
     - vendor: Olive Garden

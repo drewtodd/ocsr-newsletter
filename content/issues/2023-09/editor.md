@@ -12,11 +12,11 @@ At the heart of the Scottish Rite's philosophy lies a deep reverence for the pri
 
 {{< figure src="img/shawnebell_scottish_rite_patriots.jpg" class="full border shadow" alt="Scottish Rite patriots debate what it means to have freedom in a crowded 18th century hall" >}}
 
-The 4th Degree - Secret Master - emphasizes the importance of truth, integrity, and honor. It teaches that true freedom comes from mastering oneself and being true to one's principles.
+**The 4th Degree** - Secret Master - emphasizes the importance of truth, integrity, and honor. It teaches that true freedom comes from mastering oneself and being true to one's principles.
 
-The 14th Degree - Perfect Elu - delves into the concepts of liberty, equality, and fraternity. It encourages members to seek justice and defend individual rights while understanding the interconnectedness of all humanity.
+**The 14th Degree** - Perfect Elu - delves into the concepts of liberty, equality, and fraternity. It encourages members to seek justice and defend individual rights while understanding the interconnectedness of all humanity.
 
-The 30th Degree - Knight Kadosh - touches on themes of political and religious freedom as well as the importance of personal liberty. It emphasizes our duty to stand up against tyranny and oppression and defend individuals' rights.
+**The 30th Degree** - Knight Kadosh - touches on themes of political and religious freedom as well as the importance of personal liberty. It emphasizes our duty to stand up against tyranny and oppression and defend individuals' rights.
 
 One of the most noble expressions of the Scottish Rite's dedication to freedom is its ongoing engagement in civic and social initiatives. Through a myriad of charitable endeavors, educational programs, and community outreach efforts, the Scottish Rite seeks to empower individuals with the tools they need to embrace their rights and contribute to the betterment of society. Our RiteCare Childhood Language Centers are a prime example; by providing speech and language therapy services to children with speech and language disorders, these centers help children overcome communication challenges and improve their quality of life.
 
