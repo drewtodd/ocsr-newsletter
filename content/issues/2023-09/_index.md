@@ -30,7 +30,7 @@ calendar:
       event: Fall Reunion
       location: Anahiem Demolay Center
       time: Friday evening, Saturday morning
-      
+
 # Dinner details (optional)
 dinner:
     - vendor: Olive Garden
@@ -85,7 +85,7 @@ obituaries:
 
 {{< article "/issues/2023-09/wise-master.md" >}}
 
-{{< summer-attire >}}
+{{< special-event >}}
 
 {{< article "/issues/2023-09/master-of-kadosh.md" >}}
 
@@ -98,6 +98,8 @@ obituaries:
 {{< clc-donate >}}
 
 {{< article "/issues/2023-09/general-secretary.md" >}}
+
+{{< summer-attire >}}
 
 {{< article "/issues/2023-09/editor.md" >}}
 
