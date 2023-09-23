@@ -4,15 +4,17 @@ author: Alejo Velarde, 32º
 title: Commander of Kadosh
 ---
 
+## Memento Mori and Its Significance in Freemasonry
+
 Greetings Brethren,
 
-I trust this message finds you and your loved ones enjoying a splendid summer. As we embark on the latter half of the year, we are preparing ourselves for a bustling autumn season. Notably, the eagerly anticipated super breakfast has been rescheduled for November, and we aim to make it an extraordinary affair. If you wish to contribute to this momentous occasion, kindly reach out to us at your earliest convenience. Please get in touch with Brother Alejo Velarde at 714-720-5178 or email him at broalejo293@gmail.com.
+Contemplation of mortality, often symbolized by the Latin phrase "memento mori" which translates to "remember that you will die," has deep historical and philosophical roots. It's a reminder of the impermanence of life and the inevitability of death. This concept has connections to Freemasonry, a secretive and esoteric fraternal organization. In Freemasonry, symbols and rituals play a significant role in conveying philosophical teachings. 
 
-> The eagerly anticipated super breakfast has been rescheduled for November, and we aim to make it an extraordinary affair.
+The idea of memento mori is incorporated into Masonic symbolism to encourage members to reflect on the transient nature of life and to strive for moral and spiritual improvement. One prominent Masonic symbol related to memento mori is the "skull and crossbones," often depicted with other symbols like an hourglass, scythe, or an open book. These symbols collectively remind Masons of the brevity of life and the importance of living virtuously. They serve as constant reminders that time is fleeting and that one should use it wisely to cultivate their character and contribute positively to society. 
 
-Furthermore, I encourage you all to mark your calendars for our next meeting, which is scheduled for August 7th. Your presence and participation would be greatly appreciated. May July bring you an abundance of joy and fulfillment. 
+Masonic rituals also contain elements that prompt members to contemplate mortality. For instance, during initiation ceremonies, candidates are typically asked to reflect on their own mortality and the moral implications of their actions. This contemplation serves as a foundation for Masonic teachings about self-improvement, morality, and personal growth. In summary, memento mori, with its emphasis on the inevitability of death, is a philosophical concept that resonates within Freemasonry. It serves as a reminder for Masons to live virtuously and make the most of their time on Earth, aligning with the fraternity's core principles of self-improvement and moral development.
 
-Wishing you all the best, 
+Fraternally,
 
 
   

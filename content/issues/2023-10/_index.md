@@ -3,28 +3,16 @@ title: The Orange County Scottish Rite News
 volume: 9
 number: 10
 issueDate: October 2023
-publishDate: September 1, 2023
+publishDate: October 1, 2023
 layout: issue
 
 # Calendar information
 calendar:
-    - date: September 9, 2023
-      event: Biennial Honors Ceremony
-      location: Long Beach Scottish Rite Cultural Center; 855 Elm Avenue, Long Beach CA 90813
-      time: 1:30pm
-      notes: 
-
-    - date: September 11, 2023
-      event: Stated Meeting
-      location: Anahiem Demolay Center
-      time: 6:30pm
-      notes: Valley Talk with dinner - Masonry and Innovation in the year 2050
-
     - date: October 2, 2023
       event: Stated Meeting
-      location: Anahiem Demolay Center
+      location: Anaheim Demolay Center
       time: 6:30pm
-      notes: Dinner to follow
+      notes: 
 
     - date: October 6-7, 2023
       event: Fall Reunion
@@ -69,39 +57,39 @@ obituaries:
 
 ---
 
-<!-- {{< article "/issues/2023-09/clc.md" >}} -->
+<!-- {{< article "/issues/2023-10/clc.md" >}} -->
 
-{{< article "/issues/2023-09/pr.md" >}}
+{{< article "/issues/2023-10/pr.md" >}}
 
 {{< calendar >}}
 
-{{< article "/issues/2023-09/venerable-master.md" >}}
+{{< article "/issues/2023-10/venerable-master.md" >}}
 
 {{< distinguished-speaker >}}
 
-{{< article "/issues/2023-09/senior-warden.md" >}}
+{{< article "/issues/2023-10/senior-warden.md" >}}
 
 {{< dinner >}}
 
-{{< article "/issues/2023-09/wise-master.md" >}}
+{{< article "/issues/2023-10/wise-master.md" >}}
 
 {{< special-event >}}
 
-{{< article "/issues/2023-09/master-of-kadosh.md" >}}
+{{< article "/issues/2023-10/master-of-kadosh.md" >}}
 
 {{< website-promo >}}
 
-{{< article "/issues/2023-09/commander.md" >}}
+{{< article "/issues/2023-10/commander.md" >}}
 
 {{< clc-masthead >}}
 
 {{< clc-donate >}}
 
-{{< article "/issues/2023-09/general-secretary.md" >}}
+{{< article "/issues/2023-10/general-secretary.md" >}}
 
 {{< summer-attire >}}
 
-{{< article "/issues/2023-09/editor.md" >}}
+{{< article "/issues/2023-10/editor.md" >}}
 
 {{< website-promo >}}
 
