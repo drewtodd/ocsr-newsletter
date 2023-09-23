@@ -21,20 +21,20 @@ calendar:
 
 # Dinner details (optional)
 dinner:
-    - vendor: Olive Garden
+    - vendor: Luna Grill Mediterranean Kitchen
       items:
-        - Spaghetti and Fettuccine
-        - Alfredo, meat, and marinara sauces
-        - Meatballs, Italian Sausage, and grilled chicken
-        - Salad
-        - Bread sticks
-
+        - Chicken and bistro beef kabab 
+        - Hummus, 
+        - House salad 
+        - Basmati rice
+        - Pita bread
+        - Assorted desserts
       cost: $15
       name: Larry Griffin
       rsvpRequired: true
       rsvpUrl: https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=21e1bbda40&attribution=false
-      image: /assets/img/logos/Olive_Garden_Logo.png
-      imageAlt: Olive Garden logo
+      image: /assets/img/logos/luna-grill.png
+      imageAlt: Luna Grill Mediterranean Kitchen logo
 
 # Distinguished Speaker details (optional)
 speaker:
@@ -59,15 +59,13 @@ obituaries:
 
 <!-- {{< article "/issues/2023-10/clc.md" >}} -->
 
-{{< article "/issues/2023-10/pr.md" >}}
+{{< article "/issues/2023-10/commander.md" >}}
 
 {{< calendar >}}
 
+{{< article "/issues/2023-10/pr.md" >}}
+
 {{< article "/issues/2023-10/venerable-master.md" >}}
-
-{{< distinguished-speaker >}}
-
-{{< article "/issues/2023-10/senior-warden.md" >}}
 
 {{< dinner >}}
 
@@ -79,19 +77,15 @@ obituaries:
 
 {{< website-promo >}}
 
-{{< article "/issues/2023-10/commander.md" >}}
+{{< article "/issues/2023-10/general-secretary.md" >}}
 
 {{< clc-masthead >}}
 
 {{< clc-donate >}}
 
-{{< article "/issues/2023-10/general-secretary.md" >}}
-
-{{< summer-attire >}}
-
 {{< article "/issues/2023-10/editor.md" >}}
 
-{{< website-promo >}}
+{{< winter-attire >}}
 
 {{< officers >}}
 
