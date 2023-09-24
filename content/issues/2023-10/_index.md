@@ -32,7 +32,7 @@ dinner:
       cost: $15
       name: Larry Griffin
       rsvpRequired: true
-      rsvpUrl: https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=21e1bbda40&attribution=false
+      rsvpUrl: https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=01c88b8bc2&attribution=false
       image: /assets/img/logos/luna-grill.png
       imageAlt: Luna Grill Mediterranean Kitchen logo
 
