@@ -65,6 +65,8 @@ obituaries:
 
 {{< article "/issues/2023-10/pr.md" >}}
 
+{{< winter-attire >}}
+
 {{< article "/issues/2023-10/venerable-master.md" >}}
 
 {{< dinner >}}
@@ -84,8 +86,6 @@ obituaries:
 {{< clc-donate >}}
 
 {{< article "/issues/2023-10/editor.md" >}}
-
-{{< winter-attire >}}
 
 {{< officers >}}
 
