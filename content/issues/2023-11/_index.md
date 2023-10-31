@@ -8,33 +8,39 @@ layout: issue
 
 # Calendar information
 calendar:
-    - date: November 6, 2023
+    - date: Monday, November 6, 2023
       event: Stated Meeting
       location: Anaheim Demolay Center
       time: 6:30pm
-      notes: 
+      notes: Cap and Ring ceremony to follow with dinner
 
-    - date: November 12, 2023
+    - date: Sunday, November 12, 2023
       event: Fall Super Breakfast
       location: Anahiem Demolay Center
-      time: 9:00am - 12:00am
+      time: 9:00am - 12:00pm
+
+    - date: Saturday, November 18, 2023
+      event: Classroom Lecture Series
+      location: Orange Grove Lodge, 71 Plaza Square Orange CA, 92866
+      time: 8:00am - 5:00pm
+      notes: Please RSVP by November 15th
 
 # Dinner details (optional)
 dinner:
-    - vendor: Luna Grill Mediterranean Kitchen
+    - vendor: Olive Garden
       items:
-        - Chicken and bistro beef kabab 
-        - Hummus, 
-        - House salad 
-        - Basmati rice
-        - Pita bread
-        - Assorted desserts
+        - Spaghetti
+        - Fettuccine
+        - 3 Sauces
+        - 3 Meat Toppings (Meatballs, Sausage, Chicken)
+        - Bread sticks
+        - Salad
       cost: $15
       name: Larry Griffin
       rsvpRequired: true
-      rsvpUrl: https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=01c88b8bc2&attribution=false
-      image: /assets/img/logos/luna-grill.png
-      imageAlt: Luna Grill Mediterranean Kitchen logo
+      rsvpUrl: https://us20.list-manage.com/survey?u=113ef8afce377dd751cdbb0ca&id=5857c223d7&attribution=false
+      image: /assets/img/logos/Olive_Garden_Logo.png
+      imageAlt: Olive Garden logo
 
 # Distinguished Speaker details (optional)
 speaker:
@@ -63,13 +69,13 @@ obituaries:
 
 {{< calendar >}}
 
-{{< article "/issues/2023-11/commander.md" >}}
+{{< article "/issues/2023-11/senior-warden.md" >}}
 
-{{< dinner >}}
+{{< super-breakfast >}}
 
 {{< article "/issues/2023-11/pr.md" >}}
 
-{{< super-breakfast >}}
+{{< dinner >}}
 
 {{< article "/issues/2023-11/venerable-master.md" >}}
 
@@ -82,6 +88,10 @@ obituaries:
 {{< article "/issues/2023-11/master-of-kadosh.md" >}}
 
 {{< article "/issues/2023-11/general-secretary.md" >}}
+
+{{< article "/issues/2023-11/commander.md" >}}
+
+{{< article "/issues/2023-11/clc.md" >}}
 
 {{< clc-masthead >}}
 
