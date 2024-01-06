@@ -8,7 +8,7 @@ title: Wise Master
 
 In the intricate tapestry of life, the concept of closure holds a profound significance—a universal truth that resonates deeply within the hearts of Scottish Rite Masons. Our Masonic journey is a testament to the essence of closure, a journey of endings that pave the way for new beginnings.
 
-Closure, in its most profound sense, is not merely about finality; it is a bridge that connects our past to our future. It's the closing of one chapter in the book of life, readying us for the eagerly anticipated start of the next. In our beloved fraternity, closure is intricately woven into the very fabric of our rituals and teachings.
+Closure, in its most profound sense, dis not merely about finality; it is a bridge that connects our past to our future. It's the closing of one chapter in the book of life, readying us for the eagerly anticipated start of the next. In our beloved fraternity, closure is intricately woven into the very fabric of our rituals and teachings.
 
 > Our Masonic journey is a testament to the power of closure. It teaches us that endings, though sometimes bittersweet, are necessary for growth.
 
